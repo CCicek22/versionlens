@@ -1,0 +1,52 @@
+{
+  "name": "versionlens",
+  "version": "1.0.0",
+  "description": "Stop AI coding agents from hallucinating package versions. One command, one file, real versions.",
+  "type": "module",
+  "bin": {
+    "versionlens": "./dist/index.js",
+    "vlens": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ai",
+    "versions",
+    "claude",
+    "cursor",
+    "copilot",
+    "codex",
+    "cli",
+    "developer-tools",
+    "docker",
+    "npm",
+    "pip"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "inquirer": "^12.6.0",
+    "yaml": "^2.7.1",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2"
+  }
+}
