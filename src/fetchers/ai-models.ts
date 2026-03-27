@@ -7,7 +7,7 @@ export interface AiModelInfo {
 // For full registry data, use `versionlens update --from-registry`.
 
 /**
- * Curated model list — the ground truth when registry is unreachable.
+ * Curated model list — only latest version per family.
  * Updated when providers announce new models.
  */
 const CURATED_MODELS: Record<string, AiModelInfo> = {
@@ -22,39 +22,38 @@ const CURATED_MODELS: Record<string, AiModelInfo> = {
   openai: {
     provider: "OpenAI",
     models: [
-      { id: "gpt-5.4", name: "GPT-5.4", context: "128K" },
-      { id: "gpt-5.4-pro", name: "GPT-5.4 Pro", context: "128K" },
-      { id: "gpt-5.4-mini", name: "GPT-5.4 Mini", context: "128K" },
-      { id: "gpt-5.4-nano", name: "GPT-5.4 Nano", context: "128K" },
-      { id: "o3", name: "o3", context: "200K" },
-      { id: "o4-mini", name: "o4-mini", context: "200K" },
+      { id: "gpt-5.4", name: "GPT-5.4", context: "1M" },
+      { id: "gpt-5.4-pro", name: "GPT-5.4 Pro", context: "1M" },
+      { id: "gpt-5.4-mini", name: "GPT-5.4 Mini", context: "400K" },
+      { id: "gpt-5.4-nano", name: "GPT-5.4 Nano", context: "400K" },
+      { id: "o3", name: "o3 (Reasoning)", context: "200K" },
+      { id: "o3-pro", name: "o3 Pro (Reasoning)", context: "200K" },
+      { id: "o4-mini", name: "o4-mini (Reasoning)", context: "200K" },
+      { id: "gpt-5.3-codex", name: "GPT-5.3 Codex", context: "200K" },
+      { id: "gpt-image-1.5", name: "GPT Image 1.5", context: "-" },
     ],
   },
   google: {
-    provider: "Google",
+    provider: "Google Gemini",
     models: [
-      { id: "gemini-3.1-pro-preview", name: "Gemini 3.1 Pro Preview", context: "1M" },
-      { id: "gemini-3.1-flash-lite-preview", name: "Gemini 3.1 Flash Lite Preview", context: "1M" },
-      { id: "gemini-3.1-flash-live-preview", name: "Gemini 3.1 Flash Live Preview", context: "128K" },
-      { id: "gemini-3-pro-preview", name: "Gemini 3 Pro Preview", context: "1M" },
-      { id: "gemini-3-flash-preview", name: "Gemini 3 Flash Preview", context: "1M" },
-      { id: "gemini-2.5-pro", name: "Gemini 2.5 Pro", context: "1M" },
-      { id: "gemini-2.5-flash", name: "Gemini 2.5 Flash", context: "1M" },
-      { id: "gemini-2.5-flash-lite", name: "Gemini 2.5 Flash Lite", context: "1M" },
-      { id: "gemini-2.0-flash", name: "Gemini 2.0 Flash", context: "1M" },
+      { id: "gemini-3.1-pro-preview", name: "Gemini 3.1 Pro", context: "1M" },
+      { id: "gemini-3.1-flash-lite-preview", name: "Gemini 3.1 Flash Lite", context: "1M" },
+      { id: "gemini-3.1-flash-live-preview", name: "Gemini 3.1 Flash Live", context: "128K" },
+      { id: "gemini-3.1-flash-image-preview", name: "Gemini 3.1 Flash Image", context: "64K" },
+      { id: "gemini-2.5-pro", name: "Gemini 2.5 Pro (Stable)", context: "1M" },
+      { id: "gemini-2.5-flash", name: "Gemini 2.5 Flash (Stable)", context: "1M" },
+      { id: "gemini-2.5-flash-lite", name: "Gemini 2.5 Flash Lite (Stable)", context: "1M" },
     ],
   },
   xai: {
-    provider: "xAI",
+    provider: "xAI (Grok)",
     models: [
-      { id: "grok-4.20-0309-reasoning", name: "Grok 4.20 Reasoning", context: "?" },
-      { id: "grok-4.20-0309-non-reasoning", name: "Grok 4.20 Non-Reasoning", context: "?" },
-      { id: "grok-4.20-multi-agent-0309", name: "Grok 4.20 Multi-Agent", context: "?" },
-      { id: "grok-4-fast-reasoning", name: "Grok 4 Fast Reasoning", context: "?" },
-      { id: "grok-4-fast-non-reasoning", name: "Grok 4 Fast Non-Reasoning", context: "?" },
-      { id: "grok-4-0709", name: "Grok 4 (0709)", context: "?" },
-      { id: "grok-code-fast-1", name: "Grok Code Fast", context: "?" },
-      { id: "grok-3", name: "Grok 3", context: "?" },
+      { id: "grok-4.20-0309-reasoning", name: "Grok 4.20 Reasoning", context: "2M" },
+      { id: "grok-4.20-0309-non-reasoning", name: "Grok 4.20 Non-Reasoning", context: "2M" },
+      { id: "grok-4.20-multi-agent-0309", name: "Grok 4.20 Multi-Agent", context: "2M" },
+      { id: "grok-4-1-fast-reasoning", name: "Grok 4.1 Fast Reasoning", context: "2M" },
+      { id: "grok-4-1-fast-non-reasoning", name: "Grok 4.1 Fast Non-Reasoning", context: "2M" },
+      { id: "grok-code-fast-1", name: "Grok Code Fast", context: "256K" },
     ],
   },
   meta: {
@@ -67,11 +66,8 @@ const CURATED_MODELS: Record<string, AiModelInfo> = {
 };
 
 /**
- * Fetch AI model lists. Strategy:
- * 1. Try pulling from versionlens-registry (always up to date, no keys)
- * 2. Fall back to curated list baked into the CLI
- *
- * No API keys needed.
+ * No API keys needed. Uses curated list.
+ * For full data (HuggingFace open models), use --from-registry.
  */
 export async function fetchAiModels(
   providers: string[],

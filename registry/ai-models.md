@@ -1,7 +1,7 @@
 # AI Model IDs
 
-> Auto-updated by [versionlens-registry](https://github.com/CCicek22/versionlens-registry)
-> Last updated: 2026-03-27T22:05:13.163Z
+> Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
+> Last updated: 2026-03-27T22:10:50.090Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -12,7 +12,7 @@ No API keys needed.
 
 > These model IDs are for API calls. Curated from official docs.
 
-### Anthropic (Closed API)
+### Anthropic
 
 | Model | ID | Context |
 |-------|----|--------|
@@ -20,53 +20,51 @@ No API keys needed.
 | Claude Sonnet 4.6 | `claude-sonnet-4-6` | 200K |
 | Claude Haiku 4.5 | `claude-haiku-4-5-20251001` | 200K |
 
-### Google Gemini (Closed API)
+### OpenAI
 
 | Model | ID | Context |
 |-------|----|--------|
-| Gemini 3.1 Pro Preview | `gemini-3.1-pro-preview` | 1M |
-| Gemini 3.1 Flash Lite Preview | `gemini-3.1-flash-lite-preview` | 1M |
-| Gemini 3.1 Flash Live Preview | `gemini-3.1-flash-live-preview` | 128K |
-| Gemini 3.1 Flash Image Preview | `gemini-3.1-flash-image-preview` | 64K |
-| Gemini 3 Pro Preview | `gemini-3-pro-preview` | 1M |
-| Gemini 3 Flash Preview | `gemini-3-flash-preview` | 1M |
-| Gemini 2.5 Pro | `gemini-2.5-pro` | 1M |
-| Gemini 2.5 Flash | `gemini-2.5-flash` | 1M |
-| Gemini 2.5 Flash Lite | `gemini-2.5-flash-lite` | 1M |
-| Gemini 2.0 Flash | `gemini-2.0-flash` | 1M |
-| Gemini 2.0 Flash Lite | `gemini-2.0-flash-lite` | 1M |
+| GPT-5.4 | `gpt-5.4` | 1M |
+| GPT-5.4 Pro | `gpt-5.4-pro` | 1M |
+| GPT-5.4 Mini | `gpt-5.4-mini` | 400K |
+| GPT-5.4 Nano | `gpt-5.4-nano` | 400K |
+| o3 (Reasoning) | `o3` | 200K |
+| o3 Pro (Reasoning) | `o3-pro` | 200K |
+| o4-mini (Reasoning) | `o4-mini` | 200K |
+| o3 Deep Research | `o3-deep-research` | 200K |
+| o4-mini Deep Research | `o4-mini-deep-research` | 200K |
+| GPT-5.3 Codex | `gpt-5.3-codex` | 200K |
+| GPT Image 1.5 | `gpt-image-1.5` | - |
+| GPT Realtime 1.5 | `gpt-realtime-1.5` | - |
 
-### xAI (Closed API)
+### Google Gemini
 
 | Model | ID | Context |
 |-------|----|--------|
-| Grok 4.20 Reasoning | `grok-4.20-0309-reasoning` | ? |
-| Grok 4.20 Non-Reasoning | `grok-4.20-0309-non-reasoning` | ? |
-| Grok 4.20 Multi-Agent | `grok-4.20-multi-agent-0309` | ? |
-| Grok 4 Fast Reasoning | `grok-4-fast-reasoning` | ? |
-| Grok 4 Fast Non-Reasoning | `grok-4-fast-non-reasoning` | ? |
-| Grok 4.1 Fast Reasoning | `grok-4-1-fast-reasoning` | ? |
-| Grok 4.1 Fast Non-Reasoning | `grok-4-1-fast-non-reasoning` | ? |
-| Grok 4 (0709) | `grok-4-0709` | ? |
-| Grok Code Fast | `grok-code-fast-1` | ? |
-| Grok 3 | `grok-3` | ? |
-| Grok 3 Mini | `grok-3-mini` | ? |
-| Grok Imagine Image | `grok-imagine-image` | ? |
-| Grok Imagine Image Pro | `grok-imagine-image-pro` | ? |
-| Grok Imagine Video | `grok-imagine-video` | ? |
+| Gemini 3.1 Pro | `gemini-3.1-pro-preview` | 1M |
+| Gemini 3.1 Flash Lite | `gemini-3.1-flash-lite-preview` | 1M |
+| Gemini 3.1 Flash Live | `gemini-3.1-flash-live-preview` | 128K |
+| Gemini 3.1 Flash Image | `gemini-3.1-flash-image-preview` | 64K |
+| Gemini 2.5 Pro (Stable) | `gemini-2.5-pro` | 1M |
+| Gemini 2.5 Flash (Stable) | `gemini-2.5-flash` | 1M |
+| Gemini 2.5 Flash Lite (Stable) | `gemini-2.5-flash-lite` | 1M |
+
+### xAI (Grok)
+
+| Model | ID | Context |
+|-------|----|--------|
+| Grok 4.20 Reasoning | `grok-4.20-0309-reasoning` | 2M |
+| Grok 4.20 Non-Reasoning | `grok-4.20-0309-non-reasoning` | 2M |
+| Grok 4.20 Multi-Agent | `grok-4.20-multi-agent-0309` | 2M |
+| Grok 4.1 Fast Reasoning | `grok-4-1-fast-reasoning` | 2M |
+| Grok 4.1 Fast Non-Reasoning | `grok-4-1-fast-non-reasoning` | 2M |
+| Grok Code Fast | `grok-code-fast-1` | 256K |
+| Grok Imagine Image Pro | `grok-imagine-image-pro` | - |
+| Grok Imagine Video | `grok-imagine-video` | - |
 
 ## Open-Weight Models (from HuggingFace)
 
 > Auto-fetched from HuggingFace API. Sorted by downloads.
-
-### OpenAI (Open-weight)
-
-| Model | HuggingFace ID | Size | Downloads |
-|-------|----------------|------|-----------|
-| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 6.8M |
-| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.5M |
-| gpt-oss-safeguard-20b | `openai/gpt-oss-safeguard-20b` | ? params | 0.0M |
-| gpt-oss-safeguard-120b | `openai/gpt-oss-safeguard-120b` | ? params | 0.0M |
 
 ### Meta (Llama)
 
@@ -145,6 +143,15 @@ No API keys needed.
 | NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.1M |
 | NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.1M |
 | NVIDIA-Nemotron-3-Super-120B-A12B-FP8 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8` | ? params | 0.9M |
+
+### OpenAI (Open-weight)
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 6.8M |
+| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.5M |
+| gpt-oss-safeguard-20b | `openai/gpt-oss-safeguard-20b` | ? params | 0.0M |
+| gpt-oss-safeguard-120b | `openai/gpt-oss-safeguard-120b` | ? params | 0.0M |
 
 ---
 *Last updated: 2026-03-27 | Open models auto-fetched from HuggingFace*

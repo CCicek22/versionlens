@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
-> Auto-updated by [versionlens-registry](https://github.com/CCicek22/versionlens-registry)
-> Last updated: 2026-03-27T22:05:13.163Z
+> Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
+> Last updated: 2026-03-27T22:10:50.090Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,7 +14,7 @@ Latest versions of popular developer tools.
 | uv (Python) | 0.11.2 | astral-sh/uv |
 | Poetry | 2.3.2 | python-poetry/poetry |
 | GitHub CLI (gh) | 2.89.0 | cli/cli |
-| Vercel CLI | 50.37.2 | vercel/vercel |
+| Vercel CLI | 50.37.3 | vercel/vercel |
 | Supabase CLI | 2.84.2 | supabase/cli |
 | Firebase CLI | 15.12.0 | firebase/firebase-tools |
 | Netlify CLI | 24.8.1 | netlify/cli |
