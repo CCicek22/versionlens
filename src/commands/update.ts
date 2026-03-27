@@ -7,8 +7,8 @@ import { renderJson } from "../renderers/json.js";
 import * as log from "../utils/logger.js";
 
 const REGISTRY_BASE =
-  "https://raw.githubusercontent.com/CCicek22/versionlens-registry/main";
-const REGISTRY_FILES = ["runtimes.md", "npm.md", "pip.md", "docker.md", "tools.md", "ai-models.md"];
+  "https://raw.githubusercontent.com/CCicek22/versionlens/main/registry";
+const REGISTRY_FILES = ["runtimes.md", "npm.md", "pip.md", "maven.md", "go.md", "rust.md", "docker.md", "tools.md", "ai-models.md"];
 
 export interface UpdateOptions {
   json?: boolean;

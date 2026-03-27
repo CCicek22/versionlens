@@ -1,0 +1,22 @@
+# Runtime & Language Versions
+
+> Auto-updated by [versionlens-registry](https://github.com/CCicek22/versionlens-registry)
+> Last updated: 2026-03-27T21:58:28.538Z
+>
+> **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
+
+Latest stable versions of programming language runtimes.
+
+| Runtime | Latest Stable |
+|---------|---------------|
+| Node.js | 24.14.1 (LTS) / 25.8.2 (Current) |
+| Python | 3.14.3 |
+| Bun | 1.3.11 |
+| Deno | 2.7.9 |
+| Java (OpenJDK) | 25 (LTS) / 26 (Latest) |
+| Go | 1.26.1 |
+| Rust | 1.94.1 |
+| Ruby | 4.0.2 |
+| PHP | 8.5.4 |
+| .NET | 10.0.5 |
+

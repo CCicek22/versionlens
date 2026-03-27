@@ -1,0 +1,150 @@
+# AI Model IDs
+
+> Auto-updated by [versionlens-registry](https://github.com/CCicek22/versionlens-registry)
+> Last updated: 2026-03-27T21:58:28.538Z
+>
+> **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
+
+Closed API model IDs (curated) + open-weight models (auto-fetched from HuggingFace).
+No API keys needed.
+
+## Closed API Models
+
+> These model IDs are for API calls. Curated from official docs.
+
+### Anthropic (Closed API)
+
+| Model | ID | Context |
+|-------|----|--------|
+| Claude Opus 4.6 | `claude-opus-4-6` | 1M |
+| Claude Sonnet 4.6 | `claude-sonnet-4-6` | 200K |
+| Claude Haiku 4.5 | `claude-haiku-4-5-20251001` | 200K |
+
+### Google Gemini (Closed API)
+
+| Model | ID | Context |
+|-------|----|--------|
+| Gemini 3.1 Pro Preview | `gemini-3.1-pro-preview` | 1M |
+| Gemini 3.1 Flash Lite Preview | `gemini-3.1-flash-lite-preview` | 1M |
+| Gemini 3.1 Flash Live Preview | `gemini-3.1-flash-live-preview` | 128K |
+| Gemini 3.1 Flash Image Preview | `gemini-3.1-flash-image-preview` | 64K |
+| Gemini 3 Pro Preview | `gemini-3-pro-preview` | 1M |
+| Gemini 3 Flash Preview | `gemini-3-flash-preview` | 1M |
+| Gemini 2.5 Pro | `gemini-2.5-pro` | 1M |
+| Gemini 2.5 Flash | `gemini-2.5-flash` | 1M |
+| Gemini 2.5 Flash Lite | `gemini-2.5-flash-lite` | 1M |
+| Gemini 2.0 Flash | `gemini-2.0-flash` | 1M |
+| Gemini 2.0 Flash Lite | `gemini-2.0-flash-lite` | 1M |
+
+### xAI (Closed API)
+
+| Model | ID | Context |
+|-------|----|--------|
+| Grok 4.20 Reasoning | `grok-4.20-0309-reasoning` | ? |
+| Grok 4.20 Non-Reasoning | `grok-4.20-0309-non-reasoning` | ? |
+| Grok 4.20 Multi-Agent | `grok-4.20-multi-agent-0309` | ? |
+| Grok 4 Fast Reasoning | `grok-4-fast-reasoning` | ? |
+| Grok 4 Fast Non-Reasoning | `grok-4-fast-non-reasoning` | ? |
+| Grok 4.1 Fast Reasoning | `grok-4-1-fast-reasoning` | ? |
+| Grok 4.1 Fast Non-Reasoning | `grok-4-1-fast-non-reasoning` | ? |
+| Grok 4 (0709) | `grok-4-0709` | ? |
+| Grok Code Fast | `grok-code-fast-1` | ? |
+| Grok 3 | `grok-3` | ? |
+| Grok 3 Mini | `grok-3-mini` | ? |
+| Grok Imagine Image | `grok-imagine-image` | ? |
+| Grok Imagine Image Pro | `grok-imagine-image-pro` | ? |
+| Grok Imagine Video | `grok-imagine-video` | ? |
+
+## Open-Weight Models (from HuggingFace)
+
+> Auto-fetched from HuggingFace API. Sorted by downloads.
+
+### OpenAI (Open-weight)
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 6.8M |
+| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.5M |
+| gpt-oss-safeguard-20b | `openai/gpt-oss-safeguard-20b` | ? params | 0.0M |
+| gpt-oss-safeguard-120b | `openai/gpt-oss-safeguard-120b` | ? params | 0.0M |
+
+### Meta (Llama)
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 8.5M |
+| Llama-3.2-3B-Instruct | `meta-llama/Llama-3.2-3B-Instruct` | ? params | 7.0M |
+| Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 4.3M |
+| Meta-Llama-3-8B | `meta-llama/Meta-Llama-3-8B` | ? params | 3.6M |
+| Llama-3.2-1B | `meta-llama/Llama-3.2-1B` | ? params | 1.9M |
+| Meta-Llama-3-8B-Instruct | `meta-llama/Meta-Llama-3-8B-Instruct` | ? params | 1.4M |
+| Llama-3.1-8B | `meta-llama/Llama-3.1-8B` | ? params | 1.4M |
+| Llama-3.2-3B | `meta-llama/Llama-3.2-3B` | ? params | 1.2M |
+
+### DeepSeek
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| DeepSeek-R1 | `deepseek-ai/DeepSeek-R1` | ? params | 2.1M |
+| DeepSeek-R1-Distill-Llama-8B | `deepseek-ai/DeepSeek-R1-Distill-Llama-8B` | ? params | 1.1M |
+| DeepSeek-R1-Distill-Qwen-32B | `deepseek-ai/DeepSeek-R1-Distill-Qwen-32B` | ? params | 1.0M |
+| DeepSeek-V3 | `deepseek-ai/DeepSeek-V3` | ? params | 0.8M |
+| DeepSeek-R1-0528 | `deepseek-ai/DeepSeek-R1-0528` | ? params | 0.8M |
+| DeepSeek-R1-Distill-Qwen-1.5B | `deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B` | ? params | 0.6M |
+
+### Qwen (Alibaba)
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` | ? params | 19.1M |
+| Qwen3-0.6B | `Qwen/Qwen3-0.6B` | ? params | 13.9M |
+| Qwen2.5-1.5B-Instruct | `Qwen/Qwen2.5-1.5B-Instruct` | ? params | 9.5M |
+| Qwen3-8B | `Qwen/Qwen3-8B` | ? params | 9.3M |
+| Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` | ? params | 8.4M |
+| Qwen3-1.7B | `Qwen/Qwen3-1.7B` | ? params | 7.0M |
+| Qwen3-4B | `Qwen/Qwen3-4B` | ? params | 6.4M |
+| Qwen3-4B-Instruct-2507 | `Qwen/Qwen3-4B-Instruct-2507` | ? params | 6.2M |
+
+### Mistral
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| Mistral-7B-Instruct-v0.2 | `mistralai/Mistral-7B-Instruct-v0.2` | ? params | 2.8M |
+| Mistral-7B-v0.1 | `mistralai/Mistral-7B-v0.1` | ? params | 0.5M |
+| Mistral-7B-Instruct-v0.1 | `mistralai/Mistral-7B-Instruct-v0.1` | ? params | 0.4M |
+| Devstral-Small-2507_gguf | `mistralai/Devstral-Small-2507_gguf` | ? params | 0.0M |
+| Magistral-Small-2507-GGUF | `mistralai/Magistral-Small-2507-GGUF` | ? params | 0.0M |
+
+### Google Gemma (Open)
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| gemma-3-1b-it | `google/gemma-3-1b-it` | ? params | 2.1M |
+| gemma-2-2b | `google/gemma-2-2b` | ? params | 0.5M |
+| gemma-2-2b-it | `google/gemma-2-2b-it` | ? params | 0.4M |
+| gemma-2-27b-it | `google/gemma-2-27b-it` | ? params | 0.4M |
+| gemma-2-9b-it | `google/gemma-2-9b-it` | ? params | 0.3M |
+| gemma-2b | `google/gemma-2b` | ? params | 0.2M |
+
+### Microsoft (Phi)
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| phi-2 | `microsoft/phi-2` | ? params | 1.8M |
+| Phi-3.5-vision-instruct | `microsoft/Phi-3.5-vision-instruct` | ? params | 1.2M |
+| Phi-3.5-mini-instruct | `microsoft/Phi-3.5-mini-instruct` | ? params | 0.9M |
+| phi-4 | `microsoft/phi-4` | ? params | 0.9M |
+| Phi-3-mini-4k-instruct | `microsoft/Phi-3-mini-4k-instruct` | ? params | 0.7M |
+| Phi-4-mini-instruct | `microsoft/Phi-4-mini-instruct` | ? params | 0.6M |
+
+### NVIDIA
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| NVIDIA-Nemotron-3-Nano-30B-A3B-FP8 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8` | ? params | 1.3M |
+| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.1M |
+| NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.1M |
+| NVIDIA-Nemotron-3-Super-120B-A12B-FP8 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8` | ? params | 0.9M |
+
+---
+*Last updated: 2026-03-27 | Open models auto-fetched from HuggingFace*
