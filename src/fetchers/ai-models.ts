@@ -1,12 +1,10 @@
-import { fetchJson } from "../utils/http.js";
-
 export interface AiModelInfo {
   provider: string;
   models: { id: string; name: string; context: string }[];
 }
 
-const REGISTRY_URL =
-  "https://raw.githubusercontent.com/CCicek22/versionlens-registry/main/ai-models.json";
+// No registry JSON — CLI uses baked-in curated list as fallback.
+// For full registry data, use `versionlens update --from-registry`.
 
 /**
  * Curated model list — the ground truth when registry is unreachable.
@@ -78,18 +76,9 @@ const CURATED_MODELS: Record<string, AiModelInfo> = {
 export async function fetchAiModels(
   providers: string[],
 ): Promise<AiModelInfo[]> {
-  // Try registry first
-  let registry: Record<string, AiModelInfo> | null = null;
-  try {
-    registry = await fetchJson<Record<string, AiModelInfo>>(REGISTRY_URL);
-  } catch {
-    // Registry unreachable — use curated list
-  }
-
   return providers.map((p) => {
     const key = p.toLowerCase();
-    // Registry takes priority, then curated fallback
-    const info = registry?.[key] ?? CURATED_MODELS[key];
+    const info = CURATED_MODELS[key];
     if (!info) {
       return {
         provider: p,
