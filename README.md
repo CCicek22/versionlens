@@ -33,7 +33,7 @@ npx versionlens update
 | Docker images | hub.docker.com + endoflife.date | No |
 | Runtimes (Node, Python, Bun, Java, Go, Deno) | Official APIs | No |
 | GitHub releases | api.github.com | Optional `GITHUB_TOKEN` |
-| AI models (Anthropic, OpenAI, Google, xAI) | Provider APIs | Yes (API keys) |
+| AI models (Anthropic, OpenAI, Google, xAI, Meta, etc.) | versionlens-registry + HuggingFace | No |
 
 ## Config
 
@@ -75,12 +75,13 @@ github:
   - pnpm/pnpm
   - oven-sh/bun
 
-# AI models (requires API keys in env vars)
+# AI models (no API keys needed — pulled from community registry)
 ai_models:
-  - anthropic   # ANTHROPIC_API_KEY
-  - openai      # OPENAI_API_KEY
-  - google      # GOOGLE_API_KEY
-  - xai         # XAI_API_KEY
+  - anthropic
+  - openai
+  - google
+  - xai
+  - meta
 
 # Custom output settings
 output:
