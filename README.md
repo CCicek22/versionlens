@@ -8,27 +8,68 @@ AI tools like Claude Code, Cursor, GitHub Copilot, and OpenAI Codex frequently s
 
 ## Quick Start
 
+### Option 1: Zero setup (use the built-in registry)
+
+Add one line to your AI tool's config file:
+
+**CLAUDE.md:**
+```markdown
+Before suggesting any package version, read the relevant file from:
+https://raw.githubusercontent.com/CCicek22/versionlens/main/registry/
+
+Available: npm.md, pip.md, maven.md, go.md, rust.md, docker.md, runtimes.md, tools.md, ai-models.md
+```
+
+**Cursor (.cursorrules):**
+```
+When suggesting package versions, reference:
+https://raw.githubusercontent.com/CCicek22/versionlens/main/registry/npm.md
+https://raw.githubusercontent.com/CCicek22/versionlens/main/registry/pip.md
+https://raw.githubusercontent.com/CCicek22/versionlens/main/registry/maven.md
+https://raw.githubusercontent.com/CCicek22/versionlens/main/registry/go.md
+https://raw.githubusercontent.com/CCicek22/versionlens/main/registry/rust.md
+https://raw.githubusercontent.com/CCicek22/versionlens/main/registry/docker.md
+```
+
+**GitHub Copilot / Codex:** Same approach — add the raw URLs to `.github/copilot-instructions.md` or `AGENTS.md`.
+
+### Option 2: CLI (custom tracking for your project)
+
 ```bash
 npx versionlens init
 ```
 
-That's it. Follow the prompts, and in under 2 minutes you'll have:
+Follow the prompts, and in under 2 minutes you'll have:
 
 1. A `versionlens.yaml` config listing what to track
 2. A `versions.md` with real versions from npm, PyPI, Docker Hub, and more
-3. An instruction snippet in your AI tool's config file (CLAUDE.md, .cursorrules, etc.)
+3. An instruction snippet in your AI tool's config file
 
-To refresh versions anytime:
-
-```bash
-npx versionlens update
-```
-
-Or pull 360+ packages from the community registry (no config needed):
+Or pull 450+ packages from the built-in registry (no config needed):
 
 ```bash
 npx versionlens update --from-registry
 ```
+
+## Built-in Registry
+
+The [`registry/`](registry/) folder contains pre-fetched versions for 450+ packages, updated hourly by GitHub Actions. No install needed — just point your AI at the raw URLs.
+
+| File | Contents | Count |
+|------|----------|-------|
+| [npm.md](registry/npm.md) | JavaScript/TypeScript (React, Next, Vue, Express, etc.) | ~158 |
+| [pip.md](registry/pip.md) | Python (FastAPI, Django, PyTorch, LangChain, etc.) | ~99 |
+| [maven.md](registry/maven.md) | Java/Kotlin (Spring Boot, Hibernate, JUnit, Kafka, etc.) | ~39 |
+| [go.md](registry/go.md) | Go (Gin, GORM, gRPC, Cobra, etc.) | ~30 |
+| [rust.md](registry/rust.md) | Rust (Tokio, Axum, Serde, SQLx, Tonic, etc.) | ~48 |
+| [docker.md](registry/docker.md) | Docker images with slim/alpine/debian variants | ~47 |
+| [runtimes.md](registry/runtimes.md) | Node, Python, Bun, Deno, Go, Rust, Java, Ruby, PHP, .NET | 10 |
+| [tools.md](registry/tools.md) | CLI tools (pnpm, gh, Terraform, Gradle, etc.) | ~22 |
+| [ai-models.md](registry/ai-models.md) | Closed API IDs + open-weight models from HuggingFace | ~80+ |
+
+**AI models:**
+- Open-weight models (Llama, Qwen, DeepSeek, Gemma, Phi, Mistral) are auto-fetched from HuggingFace API
+- Closed API models (Claude, GPT, Gemini, Grok) are verified from live APIs and updated via commit
 
 ## What It Tracks
 
@@ -44,6 +85,21 @@ npx versionlens update --from-registry
 | GitHub releases | api.github.com | Optional `GITHUB_TOKEN` |
 | AI models (Claude, GPT, Gemini, Grok, Llama, etc.) | Curated + HuggingFace | No |
 
+## CLI Commands
+
+```bash
+versionlens init                   # Interactive setup
+versionlens update                 # Refresh versions.md from live registries
+versionlens update --from-registry # Pull from built-in registry (450+ packages)
+versionlens update --json          # Output as JSON
+versionlens add npm react zod      # Add packages to track
+versionlens add docker mongo       # Add Docker images
+versionlens remove pip flask       # Stop tracking a package
+versionlens list                   # Show tracked packages
+versionlens integrate              # Re-inject AI tool instruction snippets
+versionlens doctor                 # Check config + connectivity
+```
+
 ## Config
 
 `versionlens.yaml` — lives in your project root:
@@ -53,7 +109,6 @@ npm:
   - react
   - next
   - typescript
-  - "@tanstack/react-query"
 
 pip:
   - fastapi
@@ -67,7 +122,12 @@ docker:
   - node
   - postgres
   - redis
-  - nginx
+
+ai_models:
+  - anthropic
+  - openai
+  - google
+  - xai
 
 integrations:
   - claude     # CLAUDE.md
@@ -76,93 +136,19 @@ integrations:
   - codex      # AGENTS.md
 ```
 
-### Optional sections
+## Docker Image Tracking
 
-```yaml
-# GitHub releases (owner/repo)
-github:
-  - pnpm/pnpm
-  - oven-sh/bun
+Docker images show 3 tag variants so your AI picks the right base:
 
-# AI models (no API keys needed — pulled from community registry)
-ai_models:
-  - anthropic
-  - openai
-  - google
-  - xai
-  - meta
-
-# Custom output settings
-output:
-  file: versions.md
-  include_timestamp: true
-```
-
-## Output
-
-`versions.md` — a plain markdown file your AI reads:
-
-```markdown
-# Version Reference
-
-> Auto-generated by versionlens
-> Last updated: 2026-03-27T17:39:55Z
->
-> **AI agents: read this file before suggesting any package versions.**
-
-## Runtimes
-
-| Runtime | Latest Stable |
-|---------|---------------|
-| Node.js | 24.14.1 (LTS) |
-| Python  | 3.14.3 |
-
-## npm Packages
-
-| Package | Latest |
-|---------|--------|
-| react   | 19.2.4 |
-| next    | 16.2.1 |
-
-## Docker Images
-
-| Image    | Latest Stable Tag         | Digest         |
-|----------|---------------------------|----------------|
-| node     | 25.8.2 / 25.8.2-slim     | sha256:ccfc02de |
-| postgres | 18.3 / 18.3-alpine       | sha256:a9abf427 |
-```
-
-## Commands
-
-```bash
-versionlens init                   # Interactive setup
-versionlens update                 # Refresh versions.md
-versionlens update --json          # Output as JSON
-versionlens add npm react zod      # Add packages to track
-versionlens add docker mongo       # Add Docker images
-versionlens remove pip flask       # Stop tracking a package
-versionlens list                   # Show tracked packages
-versionlens integrate              # Re-inject AI tool snippets
-versionlens doctor                 # Check config + connectivity
-```
+| Image | Version | Slim | Alpine | Debian |
+|-------|---------|------|--------|--------|
+| node | 25.8.2 | 25.8.2-slim | 25.8.2-alpine | 25.8.2-trixie |
+| python | 3.14.3 | 3.14.3-slim | 3.14.3-alpine | 3.14.3-trixie |
+| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
 
 ## AI Tool Integration
 
-When you run `init` or `integrate`, versionlens adds a small instruction block to your AI tool's config file:
-
-```markdown
-<!-- versionlens:start -->
-## Version Reference (versionlens)
-
-Before suggesting any package version, runtime version, or AI model ID,
-read `versions.md` in this project root for the latest verified versions.
-Do NOT hallucinate or guess version numbers.
-<!-- versionlens:end -->
-```
-
-This block is wrapped in sentinel markers and updated idempotently — it won't duplicate or overwrite your existing config.
-
-### Supported AI tools
+When you run `init` or `integrate`, versionlens injects an instruction block wrapped in sentinel markers (idempotent, won't duplicate):
 
 | Tool | Config file |
 |------|-------------|
@@ -171,45 +157,36 @@ This block is wrapped in sentinel markers and updated idempotently — it won't 
 | GitHub Copilot | `.github/copilot-instructions.md` |
 | OpenAI Codex | `AGENTS.md` |
 
-## Auto-Detection
+## Contributing
 
-During `init`, versionlens scans your project for:
+Want to add a package to the registry? Edit the arrays in `scripts/update.mjs` and submit a PR:
 
-- `package.json` — npm dependencies
-- `requirements.txt` / `pyproject.toml` — pip packages
-- `Dockerfile` — Docker base images (`FROM` lines)
-- `docker-compose.yml` — Docker service images
-
-## Docker Image Tracking
-
-Docker images are one of the biggest sources of AI version hallucination. versionlens uses [endoflife.date](https://endoflife.date) to get accurate latest versions and verifies tags against Docker Hub. It shows:
-
-- The latest stable version tag (not just `latest`)
-- Slim/Alpine variants when available
-- Short digest for pinning
-
-## Keeping Updated
-
-Run `versionlens update` before coding sessions, or automate it:
-
-```bash
-# Cron (daily at 8am)
-0 8 * * * cd /path/to/project && npx versionlens update --quiet
-
-# Git hook (pre-commit)
-npx versionlens update --quiet
-```
+- `NPM_PACKAGES` — npm packages
+- `PIP_PACKAGES` — PyPI packages
+- `MAVEN_PACKAGES` — Java/Kotlin Maven packages
+- `GO_MODULES` — Go modules
+- `RUST_CRATES` — Rust crates
+- `DOCKER_IMAGES` — Docker images
+- `GITHUB_TOOLS` — CLI tools from GitHub releases
+- `HF_OPEN_MODELS` — HuggingFace open-weight model families
 
 ## How It Works
 
-1. Reads `versionlens.yaml` to know what to track
-2. Fetches versions in parallel from live registries (< 2 seconds typically)
-3. Writes `versions.md` in a table format AI agents parse reliably
-4. The AI instruction snippet ensures the agent reads `versions.md` first
+1. **Registry** (zero setup): GitHub Actions runs `scripts/update.mjs` hourly, fetches from 9 registries in parallel, writes markdown tables to `registry/`, auto-commits
+2. **CLI** (custom): Reads `versionlens.yaml`, fetches your specific packages, writes `versions.md`, injects AI instruction snippet
+3. **`--from-registry`**: Pulls pre-fetched versions from this repo's `registry/` folder
 
-Or with `--from-registry`, it pulls pre-fetched versions from [versionlens-registry](https://github.com/CCicek22/versionlens-registry) — 360+ packages across npm, PyPI, Maven, Go, Rust, Docker, and AI models, updated hourly.
+No server. No MCP. No API keys. Just markdown files.
 
-No server. No MCP. No API keys. Just a file.
+## Why Not Context7 / MCP?
+
+| | versionlens | Context7 |
+|---|---|---|
+| Setup | One line in config | MCP server install |
+| Speed | File read (~0 tokens) | API call per query |
+| Works offline | Yes (git clone) | No |
+| Works with any AI tool | Yes | MCP-compatible only |
+| You control the data | Fork it | No |
 
 ## License
 

@@ -16,6 +16,8 @@
     "dev": "tsc --watch",
     "test": "vitest run",
     "test:watch": "vitest",
+    "registry:update": "node scripts/update.mjs",
+    "registry:verify": "node scripts/verify-closed-models.mjs",
     "lint": "tsc --noEmit",
     "prepublishOnly": "npm run build"
   },
