@@ -79,8 +79,16 @@ export function renderMarkdown(data: FetchResult): string {
     lines.push("");
     for (const provider of data.ai_models) {
       lines.push(`### ${provider.provider}`);
+      lines.push("");
+      lines.push("| Model | ID | Context |");
+      lines.push("|-------|----|---------|");
       for (const model of provider.models) {
-        lines.push(`- ${model}`);
+        if (typeof model === "string") {
+          // Legacy format
+          lines.push(`| ${model} | ${model} | - |`);
+        } else {
+          lines.push(`| ${model.name} | ${model.id} | ${model.context} |`);
+        }
       }
       lines.push("");
     }
