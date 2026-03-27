@@ -29,6 +29,7 @@ export function createCli(): Command {
     .description("Fetch latest versions and write versions.md")
     .option("--json", "Output as JSON instead of markdown")
     .option("-q, --quiet", "Suppress output except errors")
+    .option("--from-registry", "Pull from versionlens-registry instead of fetching directly")
     .action(async (options) => {
       await update(process.cwd(), options);
     });
