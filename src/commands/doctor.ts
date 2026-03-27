@@ -94,19 +94,9 @@ export async function doctor(dir: string): Promise<void> {
       issues++;
     }
 
-    // Check AI model keys
-    const keyMap: Record<string, string> = {
-      anthropic: "ANTHROPIC_API_KEY",
-      openai: "OPENAI_API_KEY",
-      google: "GOOGLE_API_KEY",
-      xai: "XAI_API_KEY",
-    };
-    for (const provider of config.ai_models) {
-      const envVar = keyMap[provider.toLowerCase()];
-      if (envVar && !process.env[envVar]) {
-        log.warn(`Auth: ${envVar} not set — ${provider} models won't be tracked`);
-        issues++;
-      }
+    // AI models — no keys needed (pulled from registry)
+    if (config.ai_models.length > 0) {
+      log.success(`AI Models: ${config.ai_models.length} provider(s) configured (no API keys needed)`);
     }
   } catch (err) {
     log.error(`Config: ${err instanceof Error ? err.message : "invalid config"}`);
