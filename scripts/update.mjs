@@ -659,7 +659,10 @@ async function fetchGithubReleases() {
         `https://api.github.com/repos/${repo}/releases/latest`,
         githubHeaders(),
       );
-      return { name, repo, version: data.tag_name.replace(/^v/, "") };
+      // Clean version: strip v prefix, scoped package prefixes like @scope/pkg@, @scope/pkg/
+      const raw = data.tag_name;
+      const version = raw.replace(/^.*[@/]/, "").replace(/^v/, "") || raw;
+      return { name, repo, version };
     }),
   );
 
