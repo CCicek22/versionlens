@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-27T22:15:49.616Z
+> Last updated: 2026-03-27T23:14:28.097Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -9,12 +9,12 @@ Latest stable versions from proxy.golang.org.
 
 | Module | Import Path | Latest |
 |--------|-------------|--------|
-| Gin | `github.com/gin-gonic/gin` | 1.12.0 |
-| Fiber | `github.com/gofiber/fiber/v2` | 2.52.12 |
-| Echo | `github.com/labstack/echo/v4` | 4.15.1 |
-| Gorilla Mux | `github.com/gorilla/mux` | 1.8.1 |
-| GORM | `gorm.io/gorm` | 1.31.1 |
-| sqlx | `github.com/jmoiron/sqlx` | 1.4.0 |
+| Gin | `github.com/gin-gonic/gin` | unknown |
+| Fiber | `github.com/gofiber/fiber/v2` | unknown |
+| Echo | `github.com/labstack/echo/v4` | unknown |
+| Gorilla Mux | `github.com/gorilla/mux` | unknown |
+| GORM | `gorm.io/gorm` | unknown |
+| sqlx | `github.com/jmoiron/sqlx` | unknown |
 | pgx (Postgres) | `github.com/jackc/pgx/v5` | unknown |
 | MongoDB Driver | `go.mongodb.org/mongo-driver` | unknown |
 | go-redis | `github.com/redis/go-redis/v9` | unknown |
