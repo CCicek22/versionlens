@@ -24,16 +24,25 @@ To refresh versions anytime:
 npx versionlens update
 ```
 
+Or pull 360+ packages from the community registry (no config needed):
+
+```bash
+npx versionlens update --from-registry
+```
+
 ## What It Tracks
 
 | Source | API | Auth Required |
 |--------|-----|:---:|
 | npm packages | registry.npmjs.org | No |
 | PyPI packages | pypi.org | No |
+| Maven/Java/Kotlin | search.maven.org | No |
+| Go modules | proxy.golang.org | No |
+| Rust crates | crates.io | No |
 | Docker images | hub.docker.com + endoflife.date | No |
-| Runtimes (Node, Python, Bun, Java, Go, Deno) | Official APIs | No |
+| Runtimes (Node, Python, Bun, Java, Go, Rust, Deno) | Official APIs | No |
 | GitHub releases | api.github.com | Optional `GITHUB_TOKEN` |
-| AI models (Anthropic, OpenAI, Google, xAI, Meta, etc.) | versionlens-registry + HuggingFace | No |
+| AI models (Claude, GPT, Gemini, Grok, Llama, etc.) | Curated + HuggingFace | No |
 
 ## Config
 
@@ -198,7 +207,9 @@ npx versionlens update --quiet
 3. Writes `versions.md` in a table format AI agents parse reliably
 4. The AI instruction snippet ensures the agent reads `versions.md` first
 
-No server. No MCP. No API keys for basic usage. Just a file.
+Or with `--from-registry`, it pulls pre-fetched versions from [versionlens-registry](https://github.com/CCicek22/versionlens-registry) — 360+ packages across npm, PyPI, Maven, Go, Rust, Docker, and AI models, updated hourly.
+
+No server. No MCP. No API keys. Just a file.
 
 ## License
 
