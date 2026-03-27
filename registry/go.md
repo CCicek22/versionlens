@@ -1,7 +1,7 @@
 # Go Module Versions
 
-> Auto-updated by [versionlens-registry](https://github.com/CCicek22/versionlens-registry)
-> Last updated: 2026-03-27T22:05:13.162Z
+> Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
+> Last updated: 2026-03-27T22:10:50.090Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -20,8 +20,8 @@ Latest stable versions from proxy.golang.org.
 | go-redis | `github.com/redis/go-redis/v9` | 9.18.0 |
 | gRPC-Go | `google.golang.org/grpc` | 1.79.3 |
 | Protobuf-Go | `google.golang.org/protobuf` | 1.36.11 |
-| Zap Logger | `go.uber.org/zap` | unknown |
-| Logrus | `github.com/sirupsen/logrus` | unknown |
+| Zap Logger | `go.uber.org/zap` | 1.27.1 |
+| Logrus | `github.com/sirupsen/logrus` | 1.9.4 |
 | Testify | `github.com/stretchr/testify` | 1.11.1 |
 | Cobra | `github.com/spf13/cobra` | 1.10.2 |
 | Viper | `github.com/spf13/viper` | 1.21.0 |

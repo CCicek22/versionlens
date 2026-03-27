@@ -1,5 +1,5 @@
 /**
- * versionlens-registry updater
+ * versionlens updater
  *
  * Fetches latest versions from npm, PyPI, Docker/endoflife.date,
  * runtime APIs, and GitHub releases. Writes markdown files that
@@ -386,7 +386,7 @@ async function fetchRustCrateVersions() {
   const results = await Promise.allSettled(
     RUST_CRATES.map(async (crate) => {
       const data = await fetchJson(`https://crates.io/api/v1/crates/${crate}`, {
-        "User-Agent": "versionlens-registry (https://github.com/CCicek22/versionlens-registry)",
+        "User-Agent": "versionlens (https://github.com/CCicek22/versionlens)",
       });
       return { name: crate, version: data.crate?.max_version ?? "unknown" };
     }),
@@ -684,9 +684,10 @@ async function fetchGithubReleases() {
  */
 
 // Closed API models — verified from live APIs on 2026-03-27
+// Only latest version per model family — verified 2026-03-27
 const CLOSED_API_MODELS = {
   anthropic: {
-    provider: "Anthropic (Closed API)",
+    provider: "Anthropic",
     models: [
       { id: "claude-opus-4-6", name: "Claude Opus 4.6", context: "1M" },
       { id: "claude-sonnet-4-6", name: "Claude Sonnet 4.6", context: "200K" },
@@ -694,51 +695,57 @@ const CLOSED_API_MODELS = {
     ],
   },
   openai: {
-    provider: "OpenAI (Closed API)",
+    provider: "OpenAI",
     models: [
-      { id: "gpt-5.4", name: "GPT-5.4", context: "128K" },
-      { id: "gpt-5.4-pro", name: "GPT-5.4 Pro", context: "128K" },
-      { id: "gpt-5.4-mini", name: "GPT-5.4 Mini", context: "128K" },
-      { id: "gpt-5.4-nano", name: "GPT-5.4 Nano", context: "128K" },
-      { id: "o3", name: "o3", context: "200K" },
-      { id: "o4-mini", name: "o4-mini", context: "200K" },
+      // GPT flagship (latest: 5.4 — skip 5.3, 5.2, 5.1, 5)
+      { id: "gpt-5.4", name: "GPT-5.4", context: "1M" },
+      { id: "gpt-5.4-pro", name: "GPT-5.4 Pro", context: "1M" },
+      { id: "gpt-5.4-mini", name: "GPT-5.4 Mini", context: "400K" },
+      { id: "gpt-5.4-nano", name: "GPT-5.4 Nano", context: "400K" },
+      // Reasoning (latest o-series)
+      { id: "o3", name: "o3 (Reasoning)", context: "200K" },
+      { id: "o3-pro", name: "o3 Pro (Reasoning)", context: "200K" },
+      { id: "o4-mini", name: "o4-mini (Reasoning)", context: "200K" },
+      // Deep Research
+      { id: "o3-deep-research", name: "o3 Deep Research", context: "200K" },
+      { id: "o4-mini-deep-research", name: "o4-mini Deep Research", context: "200K" },
+      // Codex (latest: 5.3 — skip older)
+      { id: "gpt-5.3-codex", name: "GPT-5.3 Codex", context: "200K" },
+      // Image generation
+      { id: "gpt-image-1.5", name: "GPT Image 1.5", context: "-" },
+      // Realtime / Audio
+      { id: "gpt-realtime-1.5", name: "GPT Realtime 1.5", context: "-" },
     ],
   },
   google_gemini: {
-    provider: "Google Gemini (Closed API)",
+    provider: "Google Gemini",
     models: [
-      // Verified from Gemini API 2026-03-27
-      { id: "gemini-3.1-pro-preview", name: "Gemini 3.1 Pro Preview", context: "1M" },
-      { id: "gemini-3.1-flash-lite-preview", name: "Gemini 3.1 Flash Lite Preview", context: "1M" },
-      { id: "gemini-3.1-flash-live-preview", name: "Gemini 3.1 Flash Live Preview", context: "128K" },
-      { id: "gemini-3.1-flash-image-preview", name: "Gemini 3.1 Flash Image Preview", context: "64K" },
-      { id: "gemini-3-pro-preview", name: "Gemini 3 Pro Preview", context: "1M" },
-      { id: "gemini-3-flash-preview", name: "Gemini 3 Flash Preview", context: "1M" },
-      { id: "gemini-2.5-pro", name: "Gemini 2.5 Pro", context: "1M" },
-      { id: "gemini-2.5-flash", name: "Gemini 2.5 Flash", context: "1M" },
-      { id: "gemini-2.5-flash-lite", name: "Gemini 2.5 Flash Lite", context: "1M" },
-      { id: "gemini-2.0-flash", name: "Gemini 2.0 Flash", context: "1M" },
-      { id: "gemini-2.0-flash-lite", name: "Gemini 2.0 Flash Lite", context: "1M" },
+      // Latest: 3.1 — skip 3.0, 2.5, 2.0
+      { id: "gemini-3.1-pro-preview", name: "Gemini 3.1 Pro", context: "1M" },
+      { id: "gemini-3.1-flash-lite-preview", name: "Gemini 3.1 Flash Lite", context: "1M" },
+      { id: "gemini-3.1-flash-live-preview", name: "Gemini 3.1 Flash Live", context: "128K" },
+      { id: "gemini-3.1-flash-image-preview", name: "Gemini 3.1 Flash Image", context: "64K" },
+      // 2.5 stable (production-ready, not preview)
+      { id: "gemini-2.5-pro", name: "Gemini 2.5 Pro (Stable)", context: "1M" },
+      { id: "gemini-2.5-flash", name: "Gemini 2.5 Flash (Stable)", context: "1M" },
+      { id: "gemini-2.5-flash-lite", name: "Gemini 2.5 Flash Lite (Stable)", context: "1M" },
     ],
   },
   xai: {
-    provider: "xAI (Closed API)",
+    provider: "xAI (Grok)",
     models: [
-      // Verified from xAI API 2026-03-27
-      { id: "grok-4.20-0309-reasoning", name: "Grok 4.20 Reasoning", context: "?" },
-      { id: "grok-4.20-0309-non-reasoning", name: "Grok 4.20 Non-Reasoning", context: "?" },
-      { id: "grok-4.20-multi-agent-0309", name: "Grok 4.20 Multi-Agent", context: "?" },
-      { id: "grok-4-fast-reasoning", name: "Grok 4 Fast Reasoning", context: "?" },
-      { id: "grok-4-fast-non-reasoning", name: "Grok 4 Fast Non-Reasoning", context: "?" },
-      { id: "grok-4-1-fast-reasoning", name: "Grok 4.1 Fast Reasoning", context: "?" },
-      { id: "grok-4-1-fast-non-reasoning", name: "Grok 4.1 Fast Non-Reasoning", context: "?" },
-      { id: "grok-4-0709", name: "Grok 4 (0709)", context: "?" },
-      { id: "grok-code-fast-1", name: "Grok Code Fast", context: "?" },
-      { id: "grok-3", name: "Grok 3", context: "?" },
-      { id: "grok-3-mini", name: "Grok 3 Mini", context: "?" },
-      { id: "grok-imagine-image", name: "Grok Imagine Image", context: "?" },
-      { id: "grok-imagine-image-pro", name: "Grok Imagine Image Pro", context: "?" },
-      { id: "grok-imagine-video", name: "Grok Imagine Video", context: "?" },
+      // Latest: 4.20 — skip 4.1, 4, 3
+      { id: "grok-4.20-0309-reasoning", name: "Grok 4.20 Reasoning", context: "2M" },
+      { id: "grok-4.20-0309-non-reasoning", name: "Grok 4.20 Non-Reasoning", context: "2M" },
+      { id: "grok-4.20-multi-agent-0309", name: "Grok 4.20 Multi-Agent", context: "2M" },
+      // 4.1 Fast (different tier — fast/cheap)
+      { id: "grok-4-1-fast-reasoning", name: "Grok 4.1 Fast Reasoning", context: "2M" },
+      { id: "grok-4-1-fast-non-reasoning", name: "Grok 4.1 Fast Non-Reasoning", context: "2M" },
+      // Code
+      { id: "grok-code-fast-1", name: "Grok Code Fast", context: "256K" },
+      // Image & Video
+      { id: "grok-imagine-image-pro", name: "Grok Imagine Image Pro", context: "-" },
+      { id: "grok-imagine-video", name: "Grok Imagine Video", context: "-" },
     ],
   },
 };
@@ -783,7 +790,8 @@ async function fetchHuggingFaceModels() {
         };
       });
 
-      return { key: author.toLowerCase().replace("-", "_"), provider, models };
+      // Prefix open-weight keys with "hf_" to avoid clashing with closed API keys
+      return { key: `hf_${author.toLowerCase().replace("-", "_")}`, provider, models };
     }),
   );
 
@@ -820,9 +828,10 @@ function renderAiModelsMd(models) {
     "Closed API model IDs (curated) + open-weight models (auto-fetched from HuggingFace).\nNo API keys needed.",
   );
 
-  // Separate closed and open
-  const closed = Object.entries(models).filter(([, v]) => v.provider.includes("Closed API"));
-  const open = Object.entries(models).filter(([, v]) => !v.provider.includes("Closed API"));
+  // Separate closed and open by key — closed models are in CLOSED_API_MODELS
+  const closedKeys = new Set(["anthropic", "openai", "google_gemini", "xai"]);
+  const closed = Object.entries(models).filter(([k]) => closedKeys.has(k));
+  const open = Object.entries(models).filter(([k]) => !closedKeys.has(k));
 
   if (closed.length) {
     md += "## Closed API Models\n\n";
@@ -862,7 +871,7 @@ function renderAiModelsMd(models) {
 function renderHeader(title, description) {
   return `# ${title}
 
-> Auto-updated by [versionlens-registry](https://github.com/CCicek22/versionlens-registry)
+> Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
 > Last updated: ${ts()}
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
@@ -1111,7 +1120,7 @@ function renderRust(crates) {
 // ─── Main ───────────────────────────────────────────────────────────
 
 async function main() {
-  console.log("versionlens-registry: starting update...");
+  console.log("versionlens: starting update...");
   const start = Date.now();
 
   // Fetch everything in parallel
