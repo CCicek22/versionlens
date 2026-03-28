@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-28T07:24:32.636Z
+> Last updated: 2026-03-28T08:17:47.827Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -140,16 +140,16 @@ No API keys needed.
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
 | NVIDIA-Nemotron-3-Nano-30B-A3B-FP8 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8` | ? params | 1.3M |
-| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.1M |
 | NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.1M |
-| NVIDIA-Nemotron-3-Super-120B-A12B-FP8 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8` | ? params | 0.9M |
+| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.1M |
+| NVIDIA-Nemotron-3-Super-120B-A12B-FP8 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8` | ? params | 1.0M |
 
 ### OpenAI (Open-weight)
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 6.8M |
-| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.5M |
+| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 6.7M |
+| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.4M |
 | gpt-oss-safeguard-20b | `openai/gpt-oss-safeguard-20b` | ? params | 0.0M |
 | gpt-oss-safeguard-120b | `openai/gpt-oss-safeguard-120b` | ? params | 0.0M |
 
