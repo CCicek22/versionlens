@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-28T01:39:45.296Z
+> Last updated: 2026-03-28T03:08:36.780Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -37,6 +37,6 @@ Latest stable versions from proxy.golang.org.
 | Swag (Swagger) | `github.com/swaggo/swag` | 1.16.6 |
 | Gorilla WebSocket | `github.com/gorilla/websocket` | 1.5.3 |
 | Zerolog | `github.com/rs/zerolog` | 1.35.0 |
-| Wire | `github.com/google/wire` | 0.7.0 |
-| Asynq | `github.com/hibiken/asynq` | 0.26.0 |
+| Wire | `github.com/google/wire` | unknown |
+| Asynq | `github.com/hibiken/asynq` | unknown |
 
