@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-28T10:13:54.437Z
+> Last updated: 2026-03-28T11:11:34.418Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -30,8 +30,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | react-native | 0.84.1 |
-| expo | 55.0.10-canary-20260327-0789fbc |
-| @expo/cli | 55.0.20-canary-20260327-0789fbc |
+| expo | 55.0.10-canary-20260328-2049187 |
+| @expo/cli | 55.0.20-canary-20260328-2049187 |
 | @react-navigation/native | 7.2.1 |
 
 ### Routing
@@ -105,8 +105,8 @@ Latest stable versions of popular npm packages.
 | nest | 0.1.6 |
 | @nestjs/core | 11.1.17 |
 | trpc | 0.11.3 |
-| @trpc/server | 11.15.2 |
-| @trpc/client | 11.15.2 |
+| @trpc/server | 11.16.0 |
+| @trpc/client | 11.16.0 |
 | axios | 1.14.0 |
 | ky | 1.14.3 |
 | got | 14.6.6 |
