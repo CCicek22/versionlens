@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-29T07:27:59.067Z
+> Last updated: 2026-03-29T08:17:35.176Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -140,8 +140,8 @@ No API keys needed.
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
 | NVIDIA-Nemotron-3-Nano-30B-A3B-FP8 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8` | ? params | 1.3M |
-| NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.1M |
-| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.1M |
+| NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.2M |
+| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.0M |
 | NVIDIA-Nemotron-3-Super-120B-A12B-FP8 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8` | ? params | 1.0M |
 
 ### OpenAI (Open-weight)

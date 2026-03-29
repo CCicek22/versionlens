@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-29T07:27:59.066Z
+> Last updated: 2026-03-29T08:17:35.174Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -209,7 +209,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| poetry-core | 2.3.1 |
+| poetry-core | 2.3.2 |
 | setuptools | 82.0.1 |
 | wheel | 0.46.3 |
 | hatchling | 1.29.0 |
