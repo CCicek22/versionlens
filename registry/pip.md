@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-29T10:14:50.363Z
+> Last updated: 2026-03-29T11:12:41.299Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -188,7 +188,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| spacy | 3.8.13 |
+| spacy | 3.8.14 |
 | nltk | 3.9.4 |
 
 ### GraphQL
