@@ -1,7 +1,7 @@
 # Runtime & Language Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-29T22:11:52.216Z
+> Last updated: 2026-03-29T23:13:17.123Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -18,5 +18,5 @@ Latest stable versions of programming language runtimes.
 | Rust | 1.94.1 |
 | Ruby | 4.0.2 |
 | PHP | 8.5.4 |
-| .NET | 10.0.5 |
+| .NET | unknown |
 
