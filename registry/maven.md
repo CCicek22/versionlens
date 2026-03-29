@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-29T08:17:35.175Z
+> Last updated: 2026-03-29T09:17:25.059Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
