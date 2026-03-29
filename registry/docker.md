@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-29T18:16:02.135Z
+> Last updated: 2026-03-29T19:16:38.057Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,26 +13,26 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | node | 25.8.2 | 25.8.2-slim | 25.8.2-alpine | 25.8.2-trixie |
 | python | latest | - | - | - |
 | ruby | latest | - | - | - |
-| php | 8.5.4 | - | 8.5.4-alpine | 8.5.4-trixie |
+| php | latest | - | - | - |
 | golang | 1.26.1 | - | 1.26.1-alpine | 1.26.1-trixie |
 | openjdk | latest | - | - | - |
-| rust | latest | - | - | - |
-| postgres | latest | - | - | - |
+| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
+| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
 | mysql | 9.6.0 | - | - | - |
 | mariadb | 12.2.2 | - | - | - |
 | mongo | 8.2.6 | - | - | - |
-| redis | latest | - | - | - |
-| nginx | latest | - | - | - |
-| httpd | 2.4.66 | - | 2.4.66-alpine | 2.4.66-trixie |
-| traefik | 3.6.12 | - | - | - |
-| haproxy | latest | - | - | - |
+| redis | 8.6.2 | - | 8.6.2-alpine | 8.6.2-trixie |
+| nginx | 1.29.7 | - | 1.29.7-alpine | 1.29.7-trixie |
+| httpd | latest | - | - | - |
+| traefik | latest | - | - | - |
+| haproxy | 3.3.6 | - | 3.3.6-alpine | 3.3.6-trixie |
 | rabbitmq | latest | - | - | - |
-| memcached | latest | - | - | - |
+| memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
 | elasticsearch | 9.3.2 | - | - | - |
-| ubuntu | latest | - | - | - |
-| debian | latest | - | - | - |
+| ubuntu | 25.10 | - | - | - |
+| debian | 13.4 | 13.4-slim | - | - |
 | alpine | 3.23.3 | - | - | - |
-| grafana/grafana | latest | - | - | - |
+| grafana/grafana | 12.4.2 | - | - | - |
 | prom/prometheus | 3.10.0 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
