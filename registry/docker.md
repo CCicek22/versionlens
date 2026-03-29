@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-29T15:13:12.931Z
+> Last updated: 2026-03-29T16:13:41.657Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -10,30 +10,30 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
-| node | 25.8.2 | 25.8.2-slim | 25.8.2-alpine | 25.8.2-trixie |
-| python | 3.14.3 | 3.14.3-slim | 3.14.3-alpine | 3.14.3-trixie |
+| node | latest | - | - | - |
+| python | latest | - | - | - |
 | ruby | latest | - | - | - |
 | php | latest | - | - | - |
-| golang | 1.26.1 | - | 1.26.1-alpine | 1.26.1-trixie |
+| golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
 | rust | latest | - | - | - |
 | postgres | latest | - | - | - |
-| mysql | 9.6.0 | - | - | - |
-| mariadb | 12.2.2 | - | - | - |
-| mongo | latest | - | - | - |
-| redis | 8.6.2 | - | 8.6.2-alpine | 8.6.2-trixie |
+| mysql | latest | - | - | - |
+| mariadb | latest | - | - | - |
+| mongo | 8.2.6 | - | - | - |
+| redis | latest | - | - | - |
 | nginx | latest | - | - | - |
-| httpd | 2.4.66 | - | 2.4.66-alpine | 2.4.66-trixie |
-| traefik | 3.6.12 | - | - | - |
+| httpd | latest | - | - | - |
+| traefik | latest | - | - | - |
 | haproxy | latest | - | - | - |
-| rabbitmq | 4.2.5 | - | 4.2.5-alpine | - |
+| rabbitmq | latest | - | - | - |
 | memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
-| elasticsearch | 9.3.2 | - | - | - |
-| ubuntu | latest | - | - | - |
-| debian | 13.4 | 13.4-slim | - | - |
-| alpine | 3.23.3 | - | - | - |
-| grafana/grafana | 12.4.2 | - | - | - |
-| prom/prometheus | 3.10.0 | - | - | - |
+| elasticsearch | latest | - | - | - |
+| ubuntu | 25.10 | - | - | - |
+| debian | latest | - | - | - |
+| alpine | latest | - | - | - |
+| grafana/grafana | latest | - | - | - |
+| prom/prometheus | latest | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
