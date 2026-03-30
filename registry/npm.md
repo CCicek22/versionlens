@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-30T18:27:25.584Z
+> Last updated: 2026-03-30T19:27:57.852Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -155,8 +155,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | stripe | 21.0.1 |
-| @stripe/stripe-js | 9.0.0 |
-| @stripe/react-stripe-js | 6.0.0 |
+| @stripe/stripe-js | 9.0.1 |
+| @stripe/react-stripe-js | 6.1.0 |
 
 ### Firebase / Supabase
 
@@ -171,7 +171,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @aws-sdk/client-s3 | 3.1019.0 |
+| @aws-sdk/client-s3 | 3.1020.0 |
 | @google-cloud/storage | 7.19.0 |
 | @azure/storage-blob | 12.31.0 |
 
@@ -232,7 +232,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | nodemailer | 8.0.4 |
-| resend | 6.9.4 |
+| resend | 6.10.0 |
 | @sendgrid/mail | 8.1.6 |
 
 ### File & Image
