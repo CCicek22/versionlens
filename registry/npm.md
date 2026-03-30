@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-30T17:24:03.047Z
+> Last updated: 2026-03-30T18:27:25.584Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -89,7 +89,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | zod | 4.3.6 |
 | yup | 1.7.1 |
-| joi | 18.1.1 |
+| joi | 18.1.2 |
 | react-hook-form | 7.72.0 |
 | @hookform/resolvers | 5.2.2 |
 | valibot | 1.3.1 |
@@ -135,7 +135,7 @@ Latest stable versions of popular npm packages.
 | prisma | 7.6.0 |
 | @prisma/client | 7.6.0 |
 | typeorm | 0.3.28 |
-| knex | 3.2.7 |
+| knex | 3.2.8 |
 | mongoose | 9.3.3 |
 | sequelize | 6.37.8 |
 | ioredis | 5.10.1 |
@@ -183,8 +183,8 @@ Latest stable versions of popular npm packages.
 | @anthropic-ai/sdk | 0.80.0 |
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.141 |
-| langchain | 1.2.37 |
-| @langchain/core | 1.1.36 |
+| langchain | 1.2.38 |
+| @langchain/core | 1.1.37 |
 
 ### Testing
 
@@ -278,7 +278,7 @@ Latest stable versions of popular npm packages.
 | nanoid | 5.1.7 |
 | semver | 7.7.4 |
 | glob | 13.0.6 |
-| minimatch | 10.2.4 |
+| minimatch | 10.2.5 |
 | dotenv | 17.3.1 |
 | commander | 14.0.3 |
 | inquirer | 13.3.2 |
