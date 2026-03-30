@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-30T15:35:19.758Z
+> Last updated: 2026-03-30T16:28:22.743Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -211,7 +211,7 @@ Latest stable versions of popular npm packages.
 | webpack | 5.105.4 |
 | esbuild | 0.27.4 |
 | tsup | 8.5.1 |
-| turbo | 2.8.21 |
+| turbo | 2.9.0 |
 | rollup | 4.60.1 |
 | eslint | 10.1.0 |
 | prettier | 3.8.1 |
