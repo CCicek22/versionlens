@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-31T15:33:16.478Z
+> Last updated: 2026-03-31T16:28:52.504Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -17,7 +17,7 @@ Latest stable versions from crates.io.
 | rocket | 0.5.1 |
 | warp | 0.4.2 |
 | poem | 3.1.12 |
-| hyper | 1.8.1 |
+| hyper | 1.9.0 |
 | reqwest | 0.13.2 |
 | ureq | 3.3.0 |
 | serde | 1.0.228 |
