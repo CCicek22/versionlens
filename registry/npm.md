@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-31T04:54:14.975Z
+> Last updated: 2026-03-31T05:38:24.125Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -254,8 +254,8 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| i18next | 26.0.2 |
-| react-i18next | 17.0.1 |
+| i18next | 26.0.3 |
+| react-i18next | 17.0.2 |
 
 ### Markdown / Content
 
