@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-01T12:29:15.190Z
+> Last updated: 2026-04-01T13:38:18.517Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -269,7 +269,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| lodash | 4.17.21 |
+| lodash | 4.17.23 |
 | date-fns | 4.1.0 |
 | dayjs | 1.11.20 |
 | luxon | 3.7.2 |
