@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-03-31T23:14:13.271Z
+> Last updated: 2026-04-01T00:49:50.184Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,7 +13,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | react | 19.2.4 |
 | react-dom | 19.2.4 |
-| next | 16.2.1 |
+| next | 16.2.2 |
 | vue | 3.5.31 |
 | nuxt | 4.4.2 |
 | svelte | 5.55.1 |
@@ -194,8 +194,8 @@ Latest stable versions of popular npm packages.
 | jest | 30.3.0 |
 | @testing-library/react | 16.3.2 |
 | @testing-library/jest-dom | 6.9.1 |
-| playwright | 1.58.2 |
-| @playwright/test | 1.58.2 |
+| playwright | 1.59.0 |
+| @playwright/test | 1.59.0 |
 | cypress | 15.13.0 |
 | supertest | 7.2.2 |
 | puppeteer | 24.40.0 |
@@ -211,7 +211,7 @@ Latest stable versions of popular npm packages.
 | webpack | 5.105.4 |
 | esbuild | 0.27.4 |
 | tsup | 8.5.1 |
-| turbo | 2.9.2 |
+| turbo | 2.9.3 |
 | rollup | 4.60.1 |
 | eslint | 10.1.0 |
 | prettier | 3.8.1 |
