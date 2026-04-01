@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-01T21:20:51.007Z
+> Last updated: 2026-04-01T22:17:01.581Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -22,7 +22,7 @@ Latest stable versions from crates.io.
 | ureq | 3.3.0 |
 | serde | 1.0.228 |
 | serde_json | 1.0.149 |
-| toml | 1.1.1+spec-1.1.0 |
+| toml | 1.1.2+spec-1.1.0 |
 | csv | 1.4.0 |
 | sqlx | 0.9.0-alpha.1 |
 | diesel | 2.3.7 |
