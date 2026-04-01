@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-01T20:19:48.226Z
+> Last updated: 2026-04-01T21:20:51.006Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -111,7 +111,7 @@ Latest stable versions of popular Python packages.
 | pyright | 1.1.408 |
 | selenium | 4.41.0 |
 | playwright | 1.58.0 |
-| locust | 2.43.3 |
+| locust | 2.43.4 |
 
 ### CLI & Utils
 
