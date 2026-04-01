@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-01T16:26:57.717Z
+> Last updated: 2026-04-01T17:24:17.796Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -109,7 +109,7 @@ Latest stable versions of popular npm packages.
 | @trpc/client | 11.16.0 |
 | axios | 1.14.0 |
 | ky | 1.14.3 |
-| got | 14.6.6 |
+| got | 15.0.0 |
 
 ### GraphQL
 
@@ -292,7 +292,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | lerna | 9.0.7 |
-| nx | 22.6.3 |
+| nx | 22.6.4 |
 | @changesets/cli | 2.30.0 |
 
 ### Runtime & Package Managers
