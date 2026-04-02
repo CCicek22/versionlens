@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-01T23:17:04.863Z
+> Last updated: 2026-04-02T00:42:45.465Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -138,7 +138,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| stripe | 15.0.0 |
+| stripe | 15.0.1 |
 
 ### Database Drivers
 
