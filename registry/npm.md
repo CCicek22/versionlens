@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-02T20:16:09.858Z
+> Last updated: 2026-04-02T21:16:44.380Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -38,7 +38,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-router-dom | 7.13.2 |
+| react-router-dom | 7.14.0 |
 | @tanstack/router | 0.0.1-beta.53 |
 
 ### State & Data Fetching
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.33.0 |
 | @anthropic-ai/sdk | 0.82.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.143 |
+| ai | 6.0.144 |
 | langchain | 1.2.39 |
 | @langchain/core | 1.1.38 |
 
@@ -209,7 +209,7 @@ Latest stable versions of popular npm packages.
 | typescript | 6.0.2 |
 | vite | 8.0.3 |
 | webpack | 5.105.4 |
-| esbuild | 0.27.7 |
+| esbuild | 0.28.0 |
 | tsup | 8.5.1 |
 | turbo | 2.9.3 |
 | rollup | 4.60.1 |
