@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-02T19:25:26.110Z
+> Last updated: 2026-04-02T20:16:09.858Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -30,8 +30,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | react-native | 0.84.1 |
-| expo | 55.0.10 |
-| @expo/cli | 55.0.20 |
+| expo | 55.0.11 |
+| @expo/cli | 55.0.21 |
 | @react-navigation/native | 7.2.2 |
 
 ### Routing
