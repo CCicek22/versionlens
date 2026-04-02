@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-02T16:26:49.490Z
+> Last updated: 2026-04-02T17:22:52.594Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -200,7 +200,7 @@ Latest stable versions of popular npm packages.
 | supertest | 7.2.2 |
 | puppeteer | 24.40.0 |
 | selenium-webdriver | 4.41.0 |
-| @storybook/react | unknown |
+| @storybook/react | 10.3.4 |
 
 ### Build & Dev Tools
 
@@ -209,7 +209,7 @@ Latest stable versions of popular npm packages.
 | typescript | 6.0.2 |
 | vite | 8.0.3 |
 | webpack | 5.105.4 |
-| esbuild | 0.27.5 |
+| esbuild | 0.27.7 |
 | tsup | 8.5.1 |
 | turbo | 2.9.3 |
 | rollup | 4.60.1 |
