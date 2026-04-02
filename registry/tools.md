@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-02T17:22:52.597Z
+> Last updated: 2026-04-02T18:25:38.898Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,7 +14,7 @@ Latest versions of popular developer tools.
 | uv (Python) | 0.11.3 | astral-sh/uv |
 | Poetry | 2.3.3 | python-poetry/poetry |
 | GitHub CLI (gh) | 2.89.0 | cli/cli |
-| Vercel CLI | 50.38.2 | vercel/vercel |
+| Vercel CLI | 50.38.3 | vercel/vercel |
 | Supabase CLI | 2.84.2 | supabase/cli |
 | Firebase CLI | 15.12.0 | firebase/firebase-tools |
 | Netlify CLI | 24.9.0 | netlify/cli |
@@ -26,7 +26,7 @@ Latest versions of popular developer tools.
 | Argo CD | 3.3.6 | argoproj/argo-cd |
 | Tailwind CSS | 4.2.2 | tailwindlabs/tailwindcss |
 | Biome | 2.4.10 | biomejs/biome |
-| Ruff | 0.15.8 | astral-sh/ruff |
+| Ruff | 0.15.9 | astral-sh/ruff |
 | Gradle | 9.4.1 | gradle/gradle |
 | Neovim | 0.12.0 | neovim/neovim |
 | Grafana | 12.4.2 | grafana/grafana |
