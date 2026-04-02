@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-02T10:25:54.543Z
+> Last updated: 2026-04-02T11:22:01.835Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -100,7 +100,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | express | 5.2.1 |
 | fastify | 5.8.4 |
-| hono | 4.12.9 |
+| hono | 4.12.10 |
 | koa | 3.2.0 |
 | nest | 0.1.6 |
 | @nestjs/core | 11.1.17 |
@@ -247,7 +247,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| bullmq | 5.72.0 |
+| bullmq | 5.72.1 |
 | bee-queue | 2.0.0 |
 
 ### i18n
