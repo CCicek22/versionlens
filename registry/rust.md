@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-02T01:40:19.368Z
+> Last updated: 2026-04-02T03:11:35.241Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
