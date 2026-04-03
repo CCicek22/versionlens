@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-03T19:20:02.873Z
+> Last updated: 2026-04-03T20:14:32.292Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -87,13 +87,13 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | crewai | 1.13.0 |
 | autogen | 0.11.4 |
-| llama-index | 0.14.19 |
+| llama-index | 0.14.20 |
 
 ### Cloud
 
 | Package | Latest |
 |---------|--------|
-| boto3 | 1.42.82 |
+| boto3 | 1.42.83 |
 | google-cloud-storage | 3.10.1 |
 | firebase-admin | 7.3.0 |
 | azure-storage-blob | 12.28.0 |
