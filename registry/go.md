@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-03T08:24:32.395Z
+> Last updated: 2026-04-03T09:25:17.366Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -33,7 +33,7 @@ Latest stable versions from proxy.golang.org.
 | JWT-Go | `github.com/golang-jwt/jwt/v5` | 5.3.1 |
 | Chi | `github.com/go-chi/chi/v5` | 5.2.5 |
 | Uber Fx | `go.uber.org/fx` | 1.24.0 |
-| OpenTelemetry | `go.opentelemetry.io/otel` | 1.42.0 |
+| OpenTelemetry | `go.opentelemetry.io/otel` | 1.43.0 |
 | Swag (Swagger) | `github.com/swaggo/swag` | 1.16.6 |
 | Gorilla WebSocket | `github.com/gorilla/websocket` | 1.5.3 |
 | Zerolog | `github.com/rs/zerolog` | 1.35.0 |
