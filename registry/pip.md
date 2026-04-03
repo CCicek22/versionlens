@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-03T16:17:13.988Z
+> Last updated: 2026-04-03T17:15:22.051Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -34,7 +34,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | pydantic | 2.12.5 |
-| sqlalchemy | 2.0.48 |
+| sqlalchemy | 2.0.49 |
 | alembic | 1.18.4 |
 | tortoise-orm | 1.1.7 |
 | marshmallow | 4.2.4 |

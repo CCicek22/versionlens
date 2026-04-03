@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-03T16:17:13.988Z
+> Last updated: 2026-04-03T17:15:22.051Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,7 +14,7 @@ Latest stable versions from Maven Central.
 | Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
 | Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
 | Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
-| Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
+| Spring Security | `org.springframework.boot:spring-boot-starter-security` | unknown |
 | Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | 3.5.3 |
 
 ### Spring Framework
@@ -28,7 +28,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
+| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | unknown |
 | Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
@@ -42,7 +42,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
-| MyBatis | `org.mybatis:mybatis` | 3.5.19 |
+| MyBatis | `org.mybatis:mybatis` | unknown |
 | Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
 | Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
 
@@ -51,7 +51,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
-| Gson | `com.google.code.gson:gson` | 2.13.1 |
+| Gson | `com.google.code.gson:gson` | unknown |
 
 ### HTTP
 
@@ -73,7 +73,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | JUnit 5 | `org.junit.jupiter:junit-jupiter` | 5.13.0-M3 |
-| Mockito | `org.mockito:mockito-core` | 5.18.0 |
+| Mockito | `org.mockito:mockito-core` | unknown |
 | AssertJ | `org.assertj:assertj-core` | 4.0.0-M1 |
 
 ### Utilities
@@ -114,13 +114,13 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | 5.6 |
+| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | unknown |
 
 ### Security
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| JJWT | `io.jsonwebtoken:jjwt-api` | 0.12.6 |
+| JJWT | `io.jsonwebtoken:jjwt-api` | unknown |
 
 ### Testing (Java)
 
@@ -138,11 +138,11 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | 2.8.6 |
+| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | unknown |
 
 ### Validation
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | 9.0.1.Final |
+| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | unknown |
 
