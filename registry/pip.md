@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-02T23:14:41.250Z
+> Last updated: 2026-04-03T00:45:09.183Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -85,7 +85,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| crewai | 1.12.2 |
+| crewai | 1.13.0 |
 | autogen | 0.11.4 |
 | llama-index | 0.14.19 |
 

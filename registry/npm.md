@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-02T23:14:41.249Z
+> Last updated: 2026-04-03T00:45:09.181Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -73,7 +73,7 @@ Latest stable versions of popular npm packages.
 | tailwindcss | 4.2.2 |
 | styled-components | 6.3.12 |
 | @emotion/react | 11.14.0 |
-| sass | 1.98.0 |
+| sass | 1.99.0 |
 
 ### Animation
 
@@ -154,7 +154,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| stripe | 21.0.1 |
+| stripe | 22.0.0 |
 | @stripe/stripe-js | 9.0.1 |
 | @stripe/react-stripe-js | 6.1.0 |
 
