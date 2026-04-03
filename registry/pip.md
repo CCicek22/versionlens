@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-03T18:19:04.812Z
+> Last updated: 2026-04-03T19:20:02.873Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -12,7 +12,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | fastapi | 0.135.3 |
-| uvicorn | 0.42.0 |
+| uvicorn | 0.43.0 |
 | flask | 3.1.3 |
 | django | 6.0.3 |
 | starlette | 1.0.0 |
@@ -69,7 +69,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | openai | 2.30.0 |
-| anthropic | 0.88.0 |
+| anthropic | 0.89.0 |
 | google-generativeai | 0.8.6 |
 | langchain | 1.2.15 |
 | langchain-core | 1.2.25 |
@@ -117,7 +117,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| click | 8.3.1 |
+| click | 8.3.2 |
 | typer | 0.24.1 |
 | rich | 14.3.3 |
 | pyyaml | 6.0.3 |
