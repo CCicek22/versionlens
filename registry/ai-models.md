@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-04T07:27:14.219Z
+> Last updated: 2026-04-04T08:18:34.797Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -85,7 +85,7 @@ No API keys needed.
 |-------|----------------|------|-----------|
 | DeepSeek-R1 | `deepseek-ai/DeepSeek-R1` | ? params | 2.7M |
 | DeepSeek-R1-Distill-Llama-8B | `deepseek-ai/DeepSeek-R1-Distill-Llama-8B` | ? params | 1.0M |
-| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 0.9M |
+| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 1.0M |
 | DeepSeek-R1-Distill-Qwen-32B | `deepseek-ai/DeepSeek-R1-Distill-Qwen-32B` | ? params | 0.9M |
 | DeepSeek-R1-Distill-Qwen-1.5B | `deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B` | ? params | 0.8M |
 | DeepSeek-R1-0528 | `deepseek-ai/DeepSeek-R1-0528` | ? params | 0.8M |
@@ -95,13 +95,13 @@ No API keys needed.
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
 | Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` | ? params | 14.4M |
-| Qwen3-0.6B | `Qwen/Qwen3-0.6B` | ? params | 13.9M |
+| Qwen3-0.6B | `Qwen/Qwen3-0.6B` | ? params | 14.2M |
 | Qwen2.5-1.5B-Instruct | `Qwen/Qwen2.5-1.5B-Instruct` | ? params | 9.6M |
-| Qwen3-8B | `Qwen/Qwen3-8B` | ? params | 9.3M |
-| Qwen3-4B | `Qwen/Qwen3-4B` | ? params | 8.4M |
+| Qwen3-8B | `Qwen/Qwen3-8B` | ? params | 9.4M |
+| Qwen3-4B | `Qwen/Qwen3-4B` | ? params | 8.7M |
 | Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` | ? params | 8.1M |
 | Qwen3-1.7B | `Qwen/Qwen3-1.7B` | ? params | 7.1M |
-| Qwen3-4B-Instruct-2507 | `Qwen/Qwen3-4B-Instruct-2507` | ? params | 6.4M |
+| Qwen3-4B-Instruct-2507 | `Qwen/Qwen3-4B-Instruct-2507` | ? params | 6.5M |
 
 ### Mistral
 
@@ -141,15 +141,15 @@ No API keys needed.
 |-------|----------------|------|-----------|
 | NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.5M |
 | NVIDIA-Nemotron-3-Nano-30B-A3B-FP8 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8` | ? params | 1.2M |
+| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.1M |
 | NVIDIA-Nemotron-3-Super-120B-A12B-FP8 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8` | ? params | 1.1M |
-| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.0M |
 
 ### OpenAI (Open-weight)
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
 | gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 5.7M |
-| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.0M |
+| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 3.9M |
 | gpt-oss-safeguard-20b | `openai/gpt-oss-safeguard-20b` | ? params | 0.0M |
 | gpt-oss-safeguard-120b | `openai/gpt-oss-safeguard-120b` | ? params | 0.0M |
 
