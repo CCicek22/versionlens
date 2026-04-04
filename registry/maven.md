@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-04T03:08:25.217Z
+> Last updated: 2026-04-04T04:40:33.013Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,18 +11,18 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
-| Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | unknown |
-| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | unknown |
-| Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
-| Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | unknown |
+| Spring Boot | `org.springframework.boot:spring-boot-starter` | unknown |
+| Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
+| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
+| Spring Security | `org.springframework.boot:spring-boot-starter-security` | unknown |
+| Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | 3.5.3 |
 
 ### Spring Framework
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
-| Spring WebFlux | `org.springframework:spring-webflux` | unknown |
+| Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
 
 ### Kotlin
 
@@ -35,7 +35,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Maven | `org.apache.maven:maven-core` | 4.0.0-rc-5 |
+| Maven | `org.apache.maven:maven-core` | unknown |
 
 ### Database & ORM
 
@@ -64,9 +64,9 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SLF4J | `org.slf4j:slf4j-api` | unknown |
-| Logback | `ch.qos.logback:logback-classic` | unknown |
-| Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
+| SLF4J | `org.slf4j:slf4j-api` | 2.1.0-alpha1 |
+| Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
+| Log4j | `org.apache.logging.log4j:log4j-core` | unknown |
 
 ### Testing
 
@@ -74,14 +74,14 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | JUnit 5 | `org.junit.jupiter:junit-jupiter` | 5.13.0-M3 |
 | Mockito | `org.mockito:mockito-core` | 5.18.0 |
-| AssertJ | `org.assertj:assertj-core` | 4.0.0-M1 |
+| AssertJ | `org.assertj:assertj-core` | unknown |
 
 ### Utilities
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Lombok | `org.projectlombok:lombok` | 1.18.38 |
-| MapStruct | `org.mapstruct:mapstruct` | unknown |
+| MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
 | Guava | `com.google.guava:guava` | 33.4.8-jre |
 | Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
 
@@ -95,7 +95,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| gRPC | `io.grpc:grpc-core` | unknown |
+| gRPC | `io.grpc:grpc-core` | 1.73.0 |
 
 ### Reactive
 
