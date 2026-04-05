@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-05T18:16:16.617Z
+> Last updated: 2026-04-05T19:18:09.273Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -279,7 +279,7 @@ Latest stable versions of popular npm packages.
 | semver | 7.7.4 |
 | glob | 13.0.6 |
 | minimatch | 10.2.5 |
-| dotenv | 17.4.0 |
+| dotenv | 17.4.1 |
 | commander | 14.0.3 |
 | inquirer | 13.3.2 |
 | chalk | 5.6.2 |
