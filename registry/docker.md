@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-06T14:26:11.150Z
+> Last updated: 2026-04-06T15:22:12.067Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -10,30 +10,30 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
-| node | 25.9.0 | 25.9.0-slim | 25.9.0-alpine | 25.9.0-trixie |
-| python | latest | - | - | - |
+| node | latest | - | - | - |
+| python | 3.14.3 | 3.14.3-slim | 3.14.3-alpine | 3.14.3-trixie |
 | ruby | latest | - | - | - |
 | php | latest | - | - | - |
-| golang | 1.26.1 | - | 1.26.1-alpine | 1.26.1-trixie |
+| golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
-| postgres | latest | - | - | - |
-| mysql | latest | - | - | - |
-| mariadb | latest | - | - | - |
-| mongo | 8.2.6 | - | - | - |
+| rust | latest | - | - | - |
+| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
+| mysql | 9.6.0 | - | - | - |
+| mariadb | 12.2.2 | - | - | - |
+| mongo | latest | - | - | - |
 | redis | latest | - | - | - |
-| nginx | latest | - | - | - |
+| nginx | 1.29.7 | - | 1.29.7-alpine | 1.29.7-trixie |
 | httpd | latest | - | - | - |
 | traefik | latest | - | - | - |
-| haproxy | 3.3.6 | - | 3.3.6-alpine | 3.3.6-trixie |
+| haproxy | latest | - | - | - |
 | rabbitmq | 4.2.5 | - | 4.2.5-alpine | - |
 | memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
-| elasticsearch | 9.3.2 | - | - | - |
-| ubuntu | 25.10 | - | - | - |
-| debian | latest | - | - | - |
+| elasticsearch | latest | - | - | - |
+| ubuntu | latest | - | - | - |
+| debian | 13.4 | 13.4-slim | - | - |
 | alpine | 3.23.3 | - | - | - |
 | grafana/grafana | 12.4.2 | - | - | - |
-| prom/prometheus | 3.11.0 | - | - | - |
+| prom/prometheus | latest | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
