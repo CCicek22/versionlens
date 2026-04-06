@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-05T23:14:24.093Z
+> Last updated: 2026-04-06T00:47:39.101Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -154,4 +154,4 @@ No API keys needed.
 | gpt-oss-safeguard-120b | `openai/gpt-oss-safeguard-120b` | ? params | 0.0M |
 
 ---
-*Last updated: 2026-04-05 | Open models auto-fetched from HuggingFace*
+*Last updated: 2026-04-06 | Open models auto-fetched from HuggingFace*
