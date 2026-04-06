@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-06T18:26:57.919Z
+> Last updated: 2026-04-06T19:28:02.379Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -171,7 +171,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @aws-sdk/client-s3 | 3.1024.0 |
+| @aws-sdk/client-s3 | 3.1025.0 |
 | @google-cloud/storage | 7.19.0 |
 | @azure/storage-blob | 12.31.0 |
 
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.33.0 |
 | @anthropic-ai/sdk | 0.82.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.148 |
+| ai | 6.0.149 |
 | langchain | 1.3.0 |
 | @langchain/core | 1.1.39 |
 
