@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-06T09:36:19.734Z
+> Last updated: 2026-04-06T10:30:47.143Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -196,7 +196,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | graphene | 3.4.3 |
-| strawberry-graphql | 0.312.4 |
+| strawberry-graphql | 0.313.0 |
 
 ### Config / Env
 
