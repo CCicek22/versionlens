@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-06T07:38:46.078Z
+> Last updated: 2026-04-06T08:40:03.880Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
