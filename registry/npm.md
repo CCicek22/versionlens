@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-07T17:26:48.588Z
+> Last updated: 2026-04-07T18:26:31.010Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -29,7 +29,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-native | 0.84.1 |
+| react-native | 0.85.0 |
 | expo | 55.0.12 |
 | @expo/cli | 55.0.22 |
 | @react-navigation/native | 7.2.2 |
@@ -180,7 +180,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | openai | 6.33.0 |
-| @anthropic-ai/sdk | 0.82.0 |
+| @anthropic-ai/sdk | 0.84.0 |
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.149 |
 | langchain | 1.3.1 |
@@ -241,7 +241,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | multer | 2.1.1 |
 | sharp | 0.34.5 |
-| jimp | 1.6.0 |
+| jimp | 1.6.1 |
 
 ### Queue & Jobs
 
