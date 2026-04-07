@@ -1,7 +1,7 @@
 # Runtime & Language Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-07T19:30:15.905Z
+> Last updated: 2026-04-07T20:18:24.492Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,7 +14,7 @@ Latest stable versions of programming language runtimes.
 | Bun | 1.3.11 |
 | Deno | 2.7.11 |
 | Java (OpenJDK) | 25 (LTS) / 26 (Latest) |
-| Go | 1.26.1 |
+| Go | 1.26.2 |
 | Rust | 1.94.1 |
 | Ruby | 4.0.2 |
 | PHP | 8.5.4 |
