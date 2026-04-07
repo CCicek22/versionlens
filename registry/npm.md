@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-07T15:36:15.370Z
+> Last updated: 2026-04-07T16:29:11.399Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -59,7 +59,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @mui/material | 7.3.9 |
+| @mui/material | 9.0.0 |
 | @chakra-ui/react | 3.34.0 |
 | @mantine/core | 9.0.1 |
 | @radix-ui/react-dialog | 1.1.15 |
@@ -132,8 +132,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | drizzle-orm | 0.45.2 |
-| prisma | 7.6.0 |
-| @prisma/client | 7.6.0 |
+| prisma | 7.7.0 |
+| @prisma/client | 7.7.0 |
 | typeorm | 0.3.28 |
 | knex | 3.2.9 |
 | mongoose | 9.4.1 |
@@ -207,7 +207,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | typescript | 6.0.2 |
-| vite | 8.0.6 |
+| vite | 8.0.7 |
 | webpack | 5.105.4 |
 | esbuild | 0.28.0 |
 | tsup | 8.5.1 |
