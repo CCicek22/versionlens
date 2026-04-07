@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-07T09:31:39.227Z
+> Last updated: 2026-04-07T10:27:45.184Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -190,7 +190,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| vitest | 4.1.2 |
+| vitest | 4.1.3 |
 | jest | 30.3.0 |
 | @testing-library/react | 16.3.2 |
 | @testing-library/jest-dom | 6.9.1 |
