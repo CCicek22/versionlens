@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-07T16:29:11.400Z
+> Last updated: 2026-04-07T17:26:48.589Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -102,7 +102,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| pytest | 9.0.2 |
+| pytest | 9.0.3 |
 | pytest-asyncio | 1.3.0 |
 | pytest-cov | 7.1.0 |
 | coverage | 7.13.5 |

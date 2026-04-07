@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-07T16:29:11.399Z
+> Last updated: 2026-04-07T17:26:48.588Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -63,7 +63,7 @@ Latest stable versions of popular npm packages.
 | @chakra-ui/react | 3.34.0 |
 | @mantine/core | 9.0.1 |
 | @radix-ui/react-dialog | 1.1.15 |
-| @headlessui/react | 2.2.9 |
+| @headlessui/react | 2.2.10 |
 | antd | 6.3.5 |
 
 ### Styling
@@ -200,7 +200,7 @@ Latest stable versions of popular npm packages.
 | supertest | 7.2.2 |
 | puppeteer | 24.40.0 |
 | selenium-webdriver | 4.41.0 |
-| @storybook/react | 10.3.4 |
+| @storybook/react | 10.3.5 |
 
 ### Build & Dev Tools
 
@@ -211,7 +211,7 @@ Latest stable versions of popular npm packages.
 | webpack | 5.105.4 |
 | esbuild | 0.28.0 |
 | tsup | 8.5.1 |
-| turbo | 2.9.4 |
+| turbo | 2.9.5 |
 | rollup | 4.60.1 |
 | eslint | 10.2.0 |
 | prettier | 3.8.1 |
@@ -281,7 +281,7 @@ Latest stable versions of popular npm packages.
 | minimatch | 10.2.5 |
 | dotenv | 17.4.1 |
 | commander | 14.0.3 |
-| inquirer | 13.4.0 |
+| inquirer | 13.4.1 |
 | chalk | 5.6.2 |
 | ora | 9.3.0 |
 | zx | 8.8.5 |
