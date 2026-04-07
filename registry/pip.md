@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-07T13:38:13.477Z
+> Last updated: 2026-04-07T14:40:50.687Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,7 +14,7 @@ Latest stable versions of popular Python packages.
 | fastapi | 0.135.3 |
 | uvicorn | 0.44.0 |
 | flask | 3.1.3 |
-| django | 6.0.3 |
+| django | 6.0.4 |
 | starlette | 1.0.0 |
 | gunicorn | 25.3.0 |
 | sanic | 25.12.0 |
@@ -77,7 +77,7 @@ Latest stable versions of popular Python packages.
 | torch | 2.11.0 |
 | tensorflow | 2.21.0 |
 | scikit-learn | 1.8.0 |
-| huggingface-hub | 1.9.0 |
+| huggingface-hub | 1.9.1 |
 | diffusers | 0.37.1 |
 | accelerate | 1.13.0 |
 
