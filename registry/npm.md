@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-08T15:36:27.737Z
+> Last updated: 2026-04-08T16:33:30.251Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -107,15 +107,15 @@ Latest stable versions of popular npm packages.
 | trpc | 0.11.3 |
 | @trpc/server | 11.16.0 |
 | @trpc/client | 11.16.0 |
-| axios | 1.14.0 |
+| axios | 1.15.0 |
 | ky | 2.0.0 |
-| got | 15.0.0 |
+| got | 15.0.1 |
 
 ### GraphQL
 
 | Package | Latest |
 |---------|--------|
-| @apollo/client | 4.1.6 |
+| @apollo/client | 4.1.7 |
 | @apollo/server | 5.5.0 |
 | graphql | 16.13.2 |
 | urql | 5.0.1 |
