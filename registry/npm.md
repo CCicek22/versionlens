@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-08T14:40:59.751Z
+> Last updated: 2026-04-08T15:36:27.737Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -154,7 +154,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| stripe | 22.0.0 |
+| stripe | 22.0.1 |
 | @stripe/stripe-js | 9.1.0 |
 | @stripe/react-stripe-js | 6.1.0 |
 
@@ -208,7 +208,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | typescript | 6.0.2 |
 | vite | 8.0.7 |
-| webpack | 5.105.4 |
+| webpack | 5.106.0 |
 | esbuild | 0.28.0 |
 | tsup | 8.5.1 |
 | turbo | 2.9.5 |
