@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-08T17:30:24.893Z
+> Last updated: 2026-04-08T18:34:55.563Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -72,7 +72,7 @@ Latest stable versions of popular Python packages.
 | anthropic | 0.92.0 |
 | google-generativeai | 0.8.6 |
 | langchain | 1.2.15 |
-| langchain-core | 1.2.27 |
+| langchain-core | 1.2.28 |
 | transformers | 5.5.0 |
 | torch | 2.11.0 |
 | tensorflow | 2.21.0 |
@@ -85,7 +85,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| crewai | 1.14.0 |
+| crewai | 1.14.1 |
 | autogen | 0.11.5 |
 | llama-index | 0.14.20 |
 
@@ -196,7 +196,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | graphene | 3.4.3 |
-| strawberry-graphql | 0.314.1 |
+| strawberry-graphql | 0.314.3 |
 
 ### Config / Env
 
