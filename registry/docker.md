@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-08T01:40:34.397Z
+> Last updated: 2026-04-08T03:12:10.075Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -12,15 +12,15 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 |-------|---------|------|--------|--------|
 | node | latest | - | - | - |
 | python | latest | - | - | - |
-| ruby | 4.0.2 | 4.0.2-slim | 4.0.2-alpine | 4.0.2-trixie |
-| php | latest | - | - | - |
-| golang | 1.26.2 | - | 1.26.2-alpine | 1.26.2-trixie |
+| ruby | latest | - | - | - |
+| php | 8.5.4 | - | 8.5.4-alpine | 8.5.4-trixie |
+| golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
+| rust | latest | - | - | - |
 | postgres | latest | - | - | - |
-| mysql | latest | - | - | - |
+| mysql | 9.6.0 | - | - | - |
 | mariadb | 12.2.2 | - | - | - |
-| mongo | latest | - | - | - |
+| mongo | 8.2.6 | - | - | - |
 | redis | latest | - | - | - |
 | nginx | 1.29.8 | - | 1.29.8-alpine | 1.29.8-trixie |
 | httpd | latest | - | - | - |
