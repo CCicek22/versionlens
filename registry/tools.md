@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-08T20:19:08.181Z
+> Last updated: 2026-04-08T21:21:36.113Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,7 +11,7 @@ Latest versions of popular developer tools.
 |------|--------|------------|
 | pnpm | 10.33.0 | pnpm/pnpm |
 | Yarn | 4.13.0 | yarnpkg/berry |
-| uv (Python) | 0.11.4 | astral-sh/uv |
+| uv (Python) | 0.11.5 | astral-sh/uv |
 | Poetry | 2.3.3 | python-poetry/poetry |
 | GitHub CLI (gh) | 2.89.0 | cli/cli |
 | Vercel CLI | 50.42.0 | vercel/vercel |
@@ -22,7 +22,7 @@ Latest versions of popular developer tools.
 | Kubernetes | 1.35.3 | kubernetes/kubernetes |
 | Helm | 4.1.3 | helm/helm |
 | Docker Compose | 5.1.1 | docker/compose |
-| Pulumi | 3.229.0 | pulumi/pulumi |
+| Pulumi | 3.230.0 | pulumi/pulumi |
 | Argo CD | 3.3.6 | argoproj/argo-cd |
 | Tailwind CSS | 4.2.2 | tailwindlabs/tailwindcss |
 | Biome | 2.4.10 | biomejs/biome |

@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-08T20:19:08.180Z
+> Last updated: 2026-04-08T21:21:36.112Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,7 +11,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Boot | `org.springframework.boot:spring-boot-starter` | unknown |
+| Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
 | Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
 | Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
 | Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
@@ -21,8 +21,8 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Core | `org.springframework:spring-core` | unknown |
-| Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
+| Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
+| Spring WebFlux | `org.springframework:spring-webflux` | unknown |
 
 ### Kotlin
 
@@ -35,7 +35,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Maven | `org.apache.maven:maven-core` | 4.0.0-rc-5 |
+| Maven | `org.apache.maven:maven-core` | unknown |
 
 ### Database & ORM
 
@@ -43,8 +43,8 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
 | MyBatis | `org.mybatis:mybatis` | 3.5.19 |
-| Flyway | `org.flywaydb:flyway-core` | unknown |
-| Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
+| Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
+| Liquibase | `org.liquibase:liquibase-core` | unknown |
 
 ### JSON
 
@@ -58,7 +58,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | OkHttp | `com.squareup.okhttp3:okhttp` | unknown |
-| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
+| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
 
 ### Logging
 
@@ -74,7 +74,7 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | JUnit 5 | `org.junit.jupiter:junit-jupiter` | 5.13.0-M3 |
 | Mockito | `org.mockito:mockito-core` | 5.18.0 |
-| AssertJ | `org.assertj:assertj-core` | 4.0.0-M1 |
+| AssertJ | `org.assertj:assertj-core` | unknown |
 
 ### Utilities
 
@@ -107,8 +107,8 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Quarkus | `io.quarkus:quarkus-core` | 3.23.0 |
-| Micronaut | `io.micronaut:micronaut-core` | unknown |
+| Quarkus | `io.quarkus:quarkus-core` | unknown |
+| Micronaut | `io.micronaut:micronaut-core` | 4.9.4 |
 
 ### HTTP Client
 
@@ -120,7 +120,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| JJWT | `io.jsonwebtoken:jjwt-api` | unknown |
+| JJWT | `io.jsonwebtoken:jjwt-api` | 0.12.6 |
 
 ### Testing (Java)
 
@@ -132,13 +132,13 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Micrometer | `io.micrometer:micrometer-core` | unknown |
+| Micrometer | `io.micrometer:micrometer-core` | 1.15.0 |
 
 ### OpenAPI / Docs
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | unknown |
+| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | 2.8.6 |
 
 ### Validation
 
