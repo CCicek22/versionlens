@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-08T18:34:55.562Z
+> Last updated: 2026-04-08T19:34:16.109Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,15 +11,15 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react | 19.2.4 |
-| react-dom | 19.2.4 |
-| next | 16.2.2 |
+| react | 19.2.5 |
+| react-dom | 19.2.5 |
+| next | 16.2.3 |
 | vue | 3.5.32 |
 | nuxt | 4.4.2 |
 | svelte | 5.55.2 |
 | @sveltejs/kit | 2.57.0 |
 | angular | 1.8.3 |
-| @angular/core | 21.2.7 |
+| @angular/core | 21.2.8 |
 | solid-js | 1.9.12 |
 | astro | 6.1.5 |
 | remix | 2.17.4 |
@@ -171,7 +171,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @aws-sdk/client-s3 | 3.1026.0 |
+| @aws-sdk/client-s3 | 3.1027.0 |
 | @google-cloud/storage | 7.19.0 |
 | @azure/storage-blob | 12.31.0 |
 
