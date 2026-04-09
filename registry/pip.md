@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T20:23:06.522Z
+> Last updated: 2026-04-09T21:21:09.484Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -54,7 +54,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | matplotlib | 3.10.8 |
 | seaborn | 0.13.2 |
-| plotly | 6.6.0 |
+| plotly | 6.7.0 |
 
 ### Jupyter
 
@@ -95,7 +95,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | boto3 | 1.42.87 |
 | google-cloud-storage | 3.10.1 |
-| firebase-admin | 7.3.0 |
+| firebase-admin | 7.4.0 |
 | azure-storage-blob | 12.28.0 |
 
 ### Testing & Quality
