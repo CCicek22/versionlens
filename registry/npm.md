@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T06:41:27.557Z
+> Last updated: 2026-04-09T07:39:00.086Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -165,7 +165,7 @@ Latest stable versions of popular npm packages.
 | firebase | 12.11.0 |
 | firebase-admin | 13.7.0 |
 | firebase-tools | 15.13.0 |
-| @supabase/supabase-js | 2.102.1 |
+| @supabase/supabase-js | 2.103.0 |
 
 ### Cloud SDKs
 
@@ -190,7 +190,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| vitest | 4.1.3 |
+| vitest | 4.1.4 |
 | jest | 30.3.0 |
 | @testing-library/react | 16.3.2 |
 | @testing-library/jest-dom | 6.9.1 |
