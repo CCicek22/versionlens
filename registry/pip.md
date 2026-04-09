@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T12:32:14.397Z
+> Last updated: 2026-04-09T13:39:17.554Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -77,7 +77,7 @@ Latest stable versions of popular Python packages.
 | torch | 2.11.0 |
 | tensorflow | 2.21.0 |
 | scikit-learn | 1.8.0 |
-| huggingface-hub | 1.9.2 |
+| huggingface-hub | 1.10.0 |
 | diffusers | 0.37.1 |
 | accelerate | 1.13.0 |
 
