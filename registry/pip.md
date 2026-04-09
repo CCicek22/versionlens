@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T19:32:19.370Z
+> Last updated: 2026-04-09T20:23:06.522Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -93,7 +93,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| boto3 | 1.42.86 |
+| boto3 | 1.42.87 |
 | google-cloud-storage | 3.10.1 |
 | firebase-admin | 7.3.0 |
 | azure-storage-blob | 12.28.0 |
@@ -158,7 +158,7 @@ Latest stable versions of popular Python packages.
 | qdrant-client | 1.17.1 |
 | pinecone-client | 6.0.0 |
 | chromadb | 1.5.7 |
-| weaviate-client | 4.20.4 |
+| weaviate-client | 4.20.5 |
 
 ### Task Queues
 

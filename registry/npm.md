@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T19:32:19.369Z
+> Last updated: 2026-04-09T20:23:06.521Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -162,7 +162,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| firebase | 12.11.0 |
+| firebase | 12.12.0 |
 | firebase-admin | 13.7.0 |
 | firebase-tools | 15.14.0 |
 | @supabase/supabase-js | 2.103.0 |
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.34.0 |
 | @anthropic-ai/sdk | 0.87.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.154 |
+| ai | 6.0.155 |
 | langchain | 1.3.1 |
 | @langchain/core | 1.1.39 |
 
