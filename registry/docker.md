@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T18:27:57.564Z
+> Last updated: 2026-04-09T19:32:19.371Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -10,30 +10,30 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
-| node | latest | - | - | - |
+| node | 25.9.0 | 25.9.0-slim | 25.9.0-alpine | 25.9.0-trixie |
 | python | latest | - | - | - |
 | ruby | latest | - | - | - |
-| php | latest | - | - | - |
+| php | 8.5.4 | - | 8.5.4-alpine | 8.5.4-trixie |
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | latest | - | - | - |
-| postgres | latest | - | - | - |
+| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
+| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
 | mysql | latest | - | - | - |
-| mariadb | latest | - | - | - |
-| mongo | latest | - | - | - |
+| mariadb | 12.2.2 | - | - | - |
+| mongo | 8.2.6 | - | - | - |
 | redis | latest | - | - | - |
 | nginx | latest | - | - | - |
 | httpd | latest | - | - | - |
 | traefik | latest | - | - | - |
 | haproxy | latest | - | - | - |
-| rabbitmq | latest | - | - | - |
+| rabbitmq | 4.2.5 | - | 4.2.5-alpine | - |
 | memcached | latest | - | - | - |
-| elasticsearch | latest | - | - | - |
-| ubuntu | latest | - | - | - |
-| debian | latest | - | - | - |
-| alpine | latest | - | - | - |
+| elasticsearch | 9.3.3 | - | - | - |
+| ubuntu | 25.10 | - | - | - |
+| debian | 13.4 | 13.4-slim | - | - |
+| alpine | 3.23.3 | - | - | - |
 | grafana/grafana | latest | - | - | - |
-| prom/prometheus | latest | - | - | - |
+| prom/prometheus | 3.11.1 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
