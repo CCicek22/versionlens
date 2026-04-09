@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T13:39:17.553Z
+> Last updated: 2026-04-09T14:42:34.529Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -30,8 +30,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | react-native | 0.85.0 |
-| expo | 55.0.12 |
-| @expo/cli | 55.0.22 |
+| expo | 55.0.13 |
+| @expo/cli | 55.0.23 |
 | @react-navigation/native | 7.2.2 |
 
 ### Routing
@@ -247,7 +247,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| bullmq | 5.73.2 |
+| bullmq | 5.73.3 |
 | bee-queue | 2.0.0 |
 
 ### i18n

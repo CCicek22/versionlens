@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T13:39:17.554Z
+> Last updated: 2026-04-09T14:42:34.530Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -73,7 +73,7 @@ Latest stable versions of popular Python packages.
 | google-generativeai | 0.8.6 |
 | langchain | 1.2.15 |
 | langchain-core | 1.2.28 |
-| transformers | 5.5.1 |
+| transformers | 5.5.2 |
 | torch | 2.11.0 |
 | tensorflow | 2.21.0 |
 | scikit-learn | 1.8.0 |
@@ -107,7 +107,7 @@ Latest stable versions of popular Python packages.
 | pytest-cov | 7.1.0 |
 | coverage | 7.13.5 |
 | mypy | 1.20.0 |
-| ruff | 0.15.9 |
+| ruff | 0.15.10 |
 | pyright | 1.1.408 |
 | selenium | 4.42.0 |
 | playwright | 1.58.0 |
@@ -182,7 +182,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | beautifulsoup4 | 4.14.3 |
 | scrapy | 2.15.0 |
-| lxml | 6.0.2 |
+| lxml | 6.0.3 |
 
 ### NLP
 
