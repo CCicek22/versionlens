@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T16:37:30.914Z
+> Last updated: 2026-04-09T17:29:27.120Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -25,7 +25,7 @@ Latest versions of popular developer tools.
 | Pulumi | 3.230.0 | pulumi/pulumi |
 | Argo CD | 3.3.6 | argoproj/argo-cd |
 | Tailwind CSS | 4.2.2 | tailwindlabs/tailwindcss |
-| Biome | 2.4.10 | biomejs/biome |
+| Biome | 2.4.11 | biomejs/biome |
 | Ruff | 0.15.10 | astral-sh/ruff |
 | Gradle | 9.4.1 | gradle/gradle |
 | Neovim | 0.12.1 | neovim/neovim |
