@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T05:40:07.048Z
+> Last updated: 2026-04-09T06:41:27.559Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,10 +14,10 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | python | latest | - | - | - |
 | ruby | 4.0.2 | 4.0.2-slim | 4.0.2-alpine | 4.0.2-trixie |
 | php | latest | - | - | - |
-| golang | 1.26.2 | - | 1.26.2-alpine | 1.26.2-trixie |
+| golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
-| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
+| rust | latest | - | - | - |
+| postgres | latest | - | - | - |
 | mysql | latest | - | - | - |
 | mariadb | latest | - | - | - |
 | mongo | 8.2.6 | - | - | - |
@@ -25,11 +25,11 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | nginx | 1.29.8 | - | 1.29.8-alpine | 1.29.8-trixie |
 | httpd | 2.4.66 | - | 2.4.66-alpine | 2.4.66-trixie |
 | traefik | latest | - | - | - |
-| haproxy | 3.3.6 | - | 3.3.6-alpine | 3.3.6-trixie |
-| rabbitmq | latest | - | - | - |
-| memcached | latest | - | - | - |
+| haproxy | latest | - | - | - |
+| rabbitmq | 4.2.5 | - | 4.2.5-alpine | - |
+| memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
 | elasticsearch | 9.3.3 | - | - | - |
-| ubuntu | 25.10 | - | - | - |
+| ubuntu | latest | - | - | - |
 | debian | latest | - | - | - |
 | alpine | 3.23.3 | - | - | - |
 | grafana/grafana | latest | - | - | - |

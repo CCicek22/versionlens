@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T05:40:07.049Z
+> Last updated: 2026-04-09T06:41:27.559Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -20,7 +20,7 @@ Latest versions of popular developer tools.
 | Netlify CLI | 24.10.0 | netlify/cli |
 | Terraform | 1.14.8 | hashicorp/terraform |
 | Kubernetes | 1.35.3 | kubernetes/kubernetes |
-| Helm | 4.1.3 | helm/helm |
+| Helm | 4.1.4 | helm/helm |
 | Docker Compose | 5.1.1 | docker/compose |
 | Pulumi | 3.230.0 | pulumi/pulumi |
 | Argo CD | 3.3.6 | argoproj/argo-cd |
