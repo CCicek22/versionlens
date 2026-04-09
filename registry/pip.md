@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T11:26:28.043Z
+> Last updated: 2026-04-09T12:32:14.397Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -181,7 +181,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | beautifulsoup4 | 4.14.3 |
-| scrapy | 2.14.2 |
+| scrapy | 2.15.0 |
 | lxml | 6.0.2 |
 
 ### NLP
