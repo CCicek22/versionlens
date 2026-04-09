@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-09T15:39:18.834Z
+> Last updated: 2026-04-09T16:37:30.911Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -71,7 +71,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | tailwindcss | 4.2.2 |
-| styled-components | 6.3.12 |
+| styled-components | 6.4.0 |
 | @emotion/react | 11.14.0 |
 | sass | 1.99.0 |
 
