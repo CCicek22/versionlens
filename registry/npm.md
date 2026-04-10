@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-10T06:46:07.960Z
+> Last updated: 2026-04-10T07:39:08.751Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -199,7 +199,7 @@ Latest stable versions of popular npm packages.
 | cypress | 15.13.1 |
 | supertest | 7.2.2 |
 | puppeteer | 24.40.0 |
-| selenium-webdriver | 4.42.0 |
+| selenium-webdriver | 4.43.0 |
 | @storybook/react | 10.3.5 |
 
 ### Build & Dev Tools
