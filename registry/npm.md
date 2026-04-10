@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-10T01:41:16.555Z
+> Last updated: 2026-04-10T03:12:59.095Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -214,7 +214,7 @@ Latest stable versions of popular npm packages.
 | turbo | 2.9.5 |
 | rollup | 4.60.1 |
 | eslint | 10.2.0 |
-| prettier | 3.8.1 |
+| prettier | 3.8.2 |
 | biome | 0.3.3 |
 | oxlint | 1.59.0 |
 
@@ -299,7 +299,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| bun | 1.3.11 |
+| bun | 1.3.12 |
 | tsx | 4.21.0 |
 | ts-node | 10.9.2 |
 | pnpm | 10.33.0 |
