@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-10T14:29:06.161Z
+> Last updated: 2026-04-10T15:23:16.332Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.34.0 |
 | @anthropic-ai/sdk | 0.87.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.156 |
+| ai | 6.0.157 |
 | langchain | 1.3.1 |
 | @langchain/core | 1.1.39 |
 
@@ -247,7 +247,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| bullmq | 5.73.3 |
+| bullmq | 5.73.4 |
 | bee-queue | 2.0.0 |
 
 ### i18n
@@ -292,7 +292,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | lerna | 9.0.7 |
-| nx | 22.6.4 |
+| nx | 22.6.5 |
 | @changesets/cli | 2.30.0 |
 
 ### Runtime & Package Managers
