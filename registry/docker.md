@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-11T19:19:17.459Z
+> Last updated: 2026-04-11T20:12:08.106Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -12,11 +12,11 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 |-------|---------|------|--------|--------|
 | node | latest | - | - | - |
 | python | latest | - | - | - |
-| ruby | 4.0.2 | 4.0.2-slim | 4.0.2-alpine | 4.0.2-trixie |
+| ruby | latest | - | - | - |
 | php | latest | - | - | - |
-| golang | 1.26.2 | - | 1.26.2-alpine | 1.26.2-trixie |
+| golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
+| rust | latest | - | - | - |
 | postgres | latest | - | - | - |
 | mysql | latest | - | - | - |
 | mariadb | latest | - | - | - |
@@ -27,13 +27,13 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | traefik | latest | - | - | - |
 | haproxy | latest | - | - | - |
 | rabbitmq | latest | - | - | - |
-| memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
+| memcached | latest | - | - | - |
 | elasticsearch | latest | - | - | - |
 | ubuntu | latest | - | - | - |
 | debian | latest | - | - | - |
 | alpine | latest | - | - | - |
 | grafana/grafana | latest | - | - | - |
-| prom/prometheus | 3.11.1 | - | - | - |
+| prom/prometheus | latest | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
