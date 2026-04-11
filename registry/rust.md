@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-11T10:15:48.421Z
+> Last updated: 2026-04-11T11:13:41.009Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -39,7 +39,7 @@ Latest stable versions from crates.io.
 | tracing-subscriber | 0.3.23 |
 | log | 0.4.29 |
 | env_logger | 0.11.10 |
-| rand | 0.10.0 |
+| rand | 0.10.1 |
 | ring | 0.17.14 |
 | rustls | 0.24.0-dev.0 |
 | argon2 | 0.6.0-rc.8 |
