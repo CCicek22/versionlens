@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-11T07:27:04.269Z
+> Last updated: 2026-04-11T08:19:05.074Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -85,7 +85,7 @@ No API keys needed.
 |-------|----------------|------|-----------|
 | DeepSeek-R1 | `deepseek-ai/DeepSeek-R1` | ? params | 3.5M |
 | DeepSeek-R1-Distill-Llama-8B | `deepseek-ai/DeepSeek-R1-Distill-Llama-8B` | ? params | 1.9M |
-| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 1.3M |
+| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 1.5M |
 | DeepSeek-R1-Distill-Qwen-32B | `deepseek-ai/DeepSeek-R1-Distill-Qwen-32B` | ? params | 1.0M |
 | DeepSeek-V2-Lite-Chat | `deepseek-ai/DeepSeek-V2-Lite-Chat` | ? params | 0.8M |
 | DeepSeek-R1-0528 | `deepseek-ai/DeepSeek-R1-0528` | ? params | 0.8M |
