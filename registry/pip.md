@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-12T08:23:36.906Z
+> Last updated: 2026-04-12T09:22:08.701Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -119,7 +119,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | click | 8.3.2 |
 | typer | 0.24.1 |
-| rich | 14.3.4 |
+| rich | 15.0.0 |
 | pyyaml | 6.0.3 |
 | python-dotenv | 1.2.2 |
 | argparse | 1.4.0 |
