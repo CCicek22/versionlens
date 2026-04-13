@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-13T12:33:19.960Z
+> Last updated: 2026-04-13T13:38:59.005Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -80,7 +80,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | framer-motion | 12.38.0 |
-| gsap | 3.14.2 |
+| gsap | 3.15.0 |
 | @react-spring/web | 10.0.3 |
 
 ### Forms & Validation
@@ -232,7 +232,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | nodemailer | 8.0.5 |
-| resend | 6.10.0 |
+| resend | 6.11.0 |
 | @sendgrid/mail | 8.1.6 |
 
 ### File & Image
