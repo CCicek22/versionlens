@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-13T20:25:59.775Z
+> Last updated: 2026-04-13T21:21:56.956Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -38,7 +38,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-router-dom | 7.14.0 |
+| react-router-dom | 7.14.1 |
 | @tanstack/router | 0.0.1-beta.53 |
 
 ### State & Data Fetching
@@ -225,7 +225,7 @@ Latest stable versions of popular npm packages.
 | @swc/core | 1.15.24 |
 | babel-loader | 10.1.1 |
 | postcss | 8.5.9 |
-| autoprefixer | 10.4.27 |
+| autoprefixer | 10.5.0 |
 
 ### Email
 
