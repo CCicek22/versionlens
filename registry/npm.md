@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-13T07:41:06.617Z
+> Last updated: 2026-04-13T08:51:07.178Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -61,7 +61,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | @mui/material | 9.0.0 |
 | @chakra-ui/react | 3.34.0 |
-| @mantine/core | 9.0.1 |
+| @mantine/core | 9.0.2 |
 | @radix-ui/react-dialog | 1.1.15 |
 | @headlessui/react | 2.2.10 |
 | antd | 6.3.5 |
@@ -103,7 +103,7 @@ Latest stable versions of popular npm packages.
 | hono | 4.12.12 |
 | koa | 3.2.0 |
 | nest | 0.1.6 |
-| @nestjs/core | 11.1.18 |
+| @nestjs/core | 11.1.19 |
 | trpc | 0.11.3 |
 | @trpc/server | 11.16.0 |
 | @trpc/client | 11.16.0 |
