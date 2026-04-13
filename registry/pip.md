@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-13T01:41:18.993Z
+> Last updated: 2026-04-13T03:14:27.651Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -106,7 +106,7 @@ Latest stable versions of popular Python packages.
 | pytest-asyncio | 1.3.0 |
 | pytest-cov | 7.1.0 |
 | coverage | 7.13.5 |
-| mypy | 1.20.0 |
+| mypy | 1.20.1 |
 | ruff | 0.15.10 |
 | pyright | 1.1.408 |
 | selenium | 4.43.0 |
