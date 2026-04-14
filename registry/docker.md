@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-14T21:22:36.521Z
+> Last updated: 2026-04-14T22:21:20.272Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -17,22 +17,22 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
 | rust | latest | - | - | - |
-| postgres | latest | - | - | - |
-| mysql | 9.6.0 | - | - | - |
-| mariadb | latest | - | - | - |
+| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
+| mysql | latest | - | - | - |
+| mariadb | 12.2.2 | - | - | - |
 | mongo | 8.2.6 | - | - | - |
 | redis | latest | - | - | - |
 | nginx | latest | - | - | - |
 | httpd | latest | - | - | - |
 | traefik | 3.6.13 | - | - | - |
-| haproxy | latest | - | - | - |
+| haproxy | 3.3.6 | - | 3.3.6-alpine | 3.3.6-trixie |
 | rabbitmq | 4.2.5 | - | 4.2.5-alpine | - |
-| memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
+| memcached | latest | - | - | - |
 | elasticsearch | 9.3.3 | - | - | - |
-| ubuntu | 25.10 | - | - | - |
-| debian | 13.4 | 13.4-slim | - | - |
+| ubuntu | latest | - | - | - |
+| debian | latest | - | - | - |
 | alpine | 3.23.3 | - | - | - |
-| grafana/grafana | latest | - | - | - |
+| grafana/grafana | 12.4.3 | - | - | - |
 | prom/prometheus | 3.11.2 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
