@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-14T00:51:02.674Z
+> Last updated: 2026-04-14T01:40:25.492Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -44,7 +44,7 @@ Latest stable versions from crates.io.
 | rustls | 0.24.0-dev.0 |
 | argon2 | 0.6.0-rc.8 |
 | futures | 0.3.32 |
-| rayon | 1.11.0 |
+| rayon | 1.12.0 |
 | crossbeam | 0.8.4 |
 | tonic | 0.14.5 |
 | prost | 0.14.3 |
