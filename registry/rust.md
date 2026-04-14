@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-14T18:33:38.476Z
+> Last updated: 2026-04-14T19:34:54.526Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -9,7 +9,7 @@ Latest stable versions from crates.io.
 
 | Crate | Latest |
 |-------|--------|
-| tokio | 1.51.1 |
+| tokio | 1.52.0 |
 | async-std | 1.13.2 |
 | smol | 2.0.2 |
 | actix-web | 4.13.0 |
