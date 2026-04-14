@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-14T07:39:45.330Z
+> Last updated: 2026-04-14T08:41:56.190Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,7 +13,7 @@ Latest stable versions from crates.io.
 | async-std | 1.13.2 |
 | smol | 2.0.2 |
 | actix-web | 4.13.0 |
-| axum | 0.8.8 |
+| axum | 0.8.9 |
 | rocket | 0.5.1 |
 | warp | 0.4.2 |
 | poem | 3.1.12 |
