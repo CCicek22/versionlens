@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-14T20:25:43.994Z
+> Last updated: 2026-04-14T21:22:36.519Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -145,7 +145,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| next-auth | 4.24.13 |
+| next-auth | 4.24.14 |
 | passport | 0.7.0 |
 | jsonwebtoken | 9.0.3 |
 | bcrypt | 6.0.0 |
@@ -222,7 +222,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @swc/core | 1.15.24 |
+| @swc/core | 1.15.26 |
 | babel-loader | 10.1.1 |
 | postcss | 8.5.9 |
 | autoprefixer | 10.5.0 |
