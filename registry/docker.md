@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-14T06:45:52.782Z
+> Last updated: 2026-04-14T07:39:45.330Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -10,30 +10,30 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
-| node | latest | - | - | - |
-| python | latest | - | - | - |
+| node | 25.9.0 | 25.9.0-slim | 25.9.0-alpine | 25.9.0-trixie |
+| python | 3.14.4 | 3.14.4-slim | 3.14.4-alpine | 3.14.4-trixie |
 | ruby | latest | - | - | - |
 | php | latest | - | - | - |
-| golang | latest | - | - | - |
+| golang | 1.26.2 | - | 1.26.2-alpine | 1.26.2-trixie |
 | openjdk | latest | - | - | - |
-| rust | latest | - | - | - |
-| postgres | latest | - | - | - |
+| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
+| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
 | mysql | latest | - | - | - |
-| mariadb | latest | - | - | - |
+| mariadb | 12.2.2 | - | - | - |
 | mongo | latest | - | - | - |
-| redis | latest | - | - | - |
-| nginx | latest | - | - | - |
+| redis | 8.6.2 | - | 8.6.2-alpine | 8.6.2-trixie |
+| nginx | 1.29.8 | - | 1.29.8-alpine | 1.29.8-trixie |
 | httpd | latest | - | - | - |
 | traefik | latest | - | - | - |
-| haproxy | latest | - | - | - |
-| rabbitmq | latest | - | - | - |
+| haproxy | 3.3.6 | - | 3.3.6-alpine | 3.3.6-trixie |
+| rabbitmq | 4.2.5 | - | 4.2.5-alpine | - |
 | memcached | latest | - | - | - |
 | elasticsearch | latest | - | - | - |
-| ubuntu | latest | - | - | - |
+| ubuntu | 25.10 | - | - | - |
 | debian | latest | - | - | - |
-| alpine | latest | - | - | - |
+| alpine | 3.23.3 | - | - | - |
 | grafana/grafana | latest | - | - | - |
-| prom/prometheus | latest | - | - | - |
+| prom/prometheus | 3.11.2 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
