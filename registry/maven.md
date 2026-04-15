@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-15T20:23:38.744Z
+> Last updated: 2026-04-15T21:23:31.473Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -28,7 +28,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | unknown |
+| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
 | Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
@@ -65,7 +65,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | SLF4J | `org.slf4j:slf4j-api` | 2.1.0-alpha1 |
-| Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
+| Logback | `ch.qos.logback:logback-classic` | unknown |
 | Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
 
 ### Testing
@@ -83,13 +83,13 @@ Latest stable versions from Maven Central.
 | Lombok | `org.projectlombok:lombok` | unknown |
 | MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
 | Guava | `com.google.guava:guava` | 33.4.8-jre |
-| Commons Lang3 | `org.apache.commons:commons-lang3` | unknown |
+| Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
 
 ### Messaging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kafka Clients | `org.apache.kafka:kafka-clients` | 4.2.0 |
+| Kafka Clients | `org.apache.kafka:kafka-clients` | unknown |
 
 ### gRPC
 
@@ -132,13 +132,13 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Micrometer | `io.micrometer:micrometer-core` | 1.15.0 |
+| Micrometer | `io.micrometer:micrometer-core` | unknown |
 
 ### OpenAPI / Docs
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | 2.8.6 |
+| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | unknown |
 
 ### Validation
 
