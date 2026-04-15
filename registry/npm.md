@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-15T17:29:37.033Z
+> Last updated: 2026-04-15T18:32:32.220Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -21,7 +21,7 @@ Latest stable versions of popular npm packages.
 | angular | 1.8.3 |
 | @angular/core | 21.2.8 |
 | solid-js | 1.9.12 |
-| astro | 6.1.6 |
+| astro | 6.1.7 |
 | remix | 2.17.4 |
 | gatsby | 5.16.1 |
 
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.34.0 |
 | @anthropic-ai/sdk | 0.89.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.161 |
+| ai | 6.0.162 |
 | langchain | 1.3.3 |
 | @langchain/core | 1.1.40 |
 
@@ -232,7 +232,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | nodemailer | 8.0.5 |
-| resend | 6.11.0 |
+| resend | 6.12.0 |
 | @sendgrid/mail | 8.1.6 |
 
 ### File & Image

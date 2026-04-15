@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-15T17:29:37.035Z
+> Last updated: 2026-04-15T18:32:32.223Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -12,15 +12,15 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 |-------|---------|------|--------|--------|
 | node | latest | - | - | - |
 | python | latest | - | - | - |
-| ruby | latest | - | - | - |
+| ruby | 4.0.2 | 4.0.2-slim | 4.0.2-alpine | 4.0.2-trixie |
 | php | latest | - | - | - |
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | latest | - | - | - |
+| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
 | postgres | latest | - | - | - |
-| mysql | latest | - | - | - |
-| mariadb | latest | - | - | - |
-| mongo | latest | - | - | - |
+| mysql | 9.6.0 | - | - | - |
+| mariadb | 12.2.2 | - | - | - |
+| mongo | 8.2.6 | - | - | - |
 | redis | latest | - | - | - |
 | nginx | latest | - | - | - |
 | httpd | latest | - | - | - |
@@ -30,10 +30,10 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | memcached | latest | - | - | - |
 | elasticsearch | latest | - | - | - |
 | ubuntu | latest | - | - | - |
-| debian | latest | - | - | - |
-| alpine | latest | - | - | - |
+| debian | 13.4 | 13.4-slim | - | - |
+| alpine | 3.23.3 | - | - | - |
 | grafana/grafana | latest | - | - | - |
-| prom/prometheus | latest | - | - | - |
+| prom/prometheus | 3.11.2 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
