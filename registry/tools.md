@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-15T13:39:07.216Z
+> Last updated: 2026-04-15T14:40:36.225Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,14 +14,14 @@ Latest versions of popular developer tools.
 | uv (Python) | 0.11.6 | astral-sh/uv |
 | Poetry | 2.3.4 | python-poetry/poetry |
 | GitHub CLI (gh) | 2.89.0 | cli/cli |
-| Vercel CLI | 51.2.1 | vercel/vercel |
+| Vercel CLI | 51.3.0 | vercel/vercel |
 | Supabase CLI | 2.90.0 | supabase/cli |
 | Firebase CLI | 15.14.0 | firebase/firebase-tools |
 | Netlify CLI | 24.11.3 | netlify/cli |
 | Terraform | 1.14.8 | hashicorp/terraform |
 | Kubernetes | 1.35.3 | kubernetes/kubernetes |
 | Helm | 4.1.4 | helm/helm |
-| Docker Compose | 5.1.2 | docker/compose |
+| Docker Compose | 5.1.3 | docker/compose |
 | Pulumi | 3.230.0 | pulumi/pulumi |
 | Argo CD | 3.3.6 | argoproj/argo-cd |
 | Tailwind CSS | 4.2.2 | tailwindlabs/tailwindcss |
