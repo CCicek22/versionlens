@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-15T19:35:15.780Z
+> Last updated: 2026-04-15T20:23:38.745Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -10,30 +10,30 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
-| node | 25.9.0 | 25.9.0-slim | 25.9.0-alpine | 25.9.0-trixie |
-| python | 3.14.4 | 3.14.4-slim | 3.14.4-alpine | 3.14.4-trixie |
-| ruby | 4.0.2 | 4.0.2-slim | 4.0.2-alpine | 4.0.2-trixie |
+| node | latest | - | - | - |
+| python | latest | - | - | - |
+| ruby | latest | - | - | - |
 | php | 8.5.5 | - | 8.5.5-alpine | 8.5.5-trixie |
 | golang | 1.26.2 | - | 1.26.2-alpine | 1.26.2-trixie |
 | openjdk | latest | - | - | - |
-| rust | 1.94.1 | 1.94.1-slim | 1.94.1-alpine | 1.94.1-trixie |
-| postgres | latest | - | - | - |
+| rust | latest | - | - | - |
+| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
 | mysql | latest | - | - | - |
-| mariadb | latest | - | - | - |
+| mariadb | 12.2.2 | - | - | - |
 | mongo | 8.2.6 | - | - | - |
 | redis | latest | - | - | - |
-| nginx | 1.30.0 | - | 1.30.0-alpine | 1.30.0-trixie |
+| nginx | latest | - | - | - |
 | httpd | latest | - | - | - |
-| traefik | latest | - | - | - |
-| haproxy | latest | - | - | - |
+| traefik | 3.6.13 | - | - | - |
+| haproxy | 3.3.6 | - | 3.3.6-alpine | 3.3.6-trixie |
 | rabbitmq | 4.2.5 | - | 4.2.5-alpine | - |
-| memcached | latest | - | - | - |
-| elasticsearch | latest | - | - | - |
-| ubuntu | latest | - | - | - |
+| memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
+| elasticsearch | 9.3.3 | - | - | - |
+| ubuntu | 25.10 | - | - | - |
 | debian | 13.4 | 13.4-slim | - | - |
-| alpine | 3.23.3 | - | - | - |
-| grafana/grafana | latest | - | - | - |
-| prom/prometheus | latest | - | - | - |
+| alpine | latest | - | - | - |
+| grafana/grafana | 12.4.3 | - | - | - |
+| prom/prometheus | 3.11.2 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
