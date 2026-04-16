@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-15T23:21:42.505Z
+> Last updated: 2026-04-16T00:52:09.535Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -164,7 +164,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | firebase | 12.12.0 |
 | firebase-admin | 13.8.0 |
-| firebase-tools | 15.14.0 |
+| firebase-tools | 15.15.0 |
 | @supabase/supabase-js | 2.103.2 |
 
 ### Cloud SDKs
