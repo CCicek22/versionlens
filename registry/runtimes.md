@@ -1,7 +1,7 @@
 # Runtime & Language Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-16T17:35:54.838Z
+> Last updated: 2026-04-16T18:33:28.345Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -15,7 +15,7 @@ Latest stable versions of programming language runtimes.
 | Deno | 2.7.12 |
 | Java (OpenJDK) | 25 (LTS) / 26 (Latest) |
 | Go | 1.26.2 |
-| Rust | 1.94.1 |
+| Rust | 1.95.0 |
 | Ruby | 4.0.2 |
 | PHP | 8.5.5 |
 | .NET | 10.0.6 |
