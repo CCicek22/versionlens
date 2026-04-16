@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-16T14:42:43.582Z
+> Last updated: 2026-04-16T15:39:09.941Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -154,7 +154,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| stripe | 22.0.1 |
+| stripe | 22.0.2 |
 | @stripe/stripe-js | 9.2.0 |
 | @stripe/react-stripe-js | 6.2.0 |
 
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.34.0 |
 | @anthropic-ai/sdk | 0.90.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.164 |
+| ai | 6.0.165 |
 | langchain | 1.3.3 |
 | @langchain/core | 1.1.40 |
 
