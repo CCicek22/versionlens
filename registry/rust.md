@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-16T03:12:56.454Z
+> Last updated: 2026-04-16T05:07:09.588Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -56,5 +56,5 @@ Latest stable versions from crates.io.
 | tera | 2.0.0-alpha.2 |
 | mockall | 0.14.0 |
 | wiremock | 0.6.5 |
-| uuid | 1.23.0 |
+| uuid | 1.23.1 |
 
