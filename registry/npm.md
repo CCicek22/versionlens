@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-16T19:33:19.845Z
+> Last updated: 2026-04-16T20:21:40.461Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -171,7 +171,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @aws-sdk/client-s3 | 3.1030.0 |
+| @aws-sdk/client-s3 | 3.1031.0 |
 | @google-cloud/storage | 7.19.0 |
 | @azure/storage-blob | 12.31.0 |
 
