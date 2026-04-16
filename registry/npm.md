@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-16T18:33:28.342Z
+> Last updated: 2026-04-16T19:33:19.845Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.34.0 |
 | @anthropic-ai/sdk | 0.90.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.166 |
+| ai | 6.0.167 |
 | langchain | 1.3.3 |
 | @langchain/core | 1.1.40 |
 
@@ -196,7 +196,7 @@ Latest stable versions of popular npm packages.
 | @testing-library/jest-dom | 6.9.1 |
 | playwright | 1.59.1 |
 | @playwright/test | 1.59.1 |
-| cypress | 15.13.1 |
+| cypress | 15.14.0 |
 | supertest | 7.2.2 |
 | puppeteer | 24.41.0 |
 | selenium-webdriver | 4.43.0 |
