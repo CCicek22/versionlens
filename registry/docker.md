@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-16T10:36:05.722Z
+> Last updated: 2026-04-16T11:29:20.940Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -20,20 +20,20 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | postgres | latest | - | - | - |
 | mysql | latest | - | - | - |
 | mariadb | latest | - | - | - |
-| mongo | 8.2.6 | - | - | - |
-| redis | 8.6.2 | - | 8.6.2-alpine | 8.6.2-trixie |
+| mongo | latest | - | - | - |
+| redis | latest | - | - | - |
 | nginx | latest | - | - | - |
 | httpd | latest | - | - | - |
-| traefik | 3.6.13 | - | - | - |
+| traefik | latest | - | - | - |
 | haproxy | latest | - | - | - |
 | rabbitmq | latest | - | - | - |
 | memcached | latest | - | - | - |
-| elasticsearch | 9.3.3 | - | - | - |
-| ubuntu | 25.10 | - | - | - |
+| elasticsearch | latest | - | - | - |
+| ubuntu | latest | - | - | - |
 | debian | latest | - | - | - |
-| alpine | 3.23.4 | - | - | - |
+| alpine | latest | - | - | - |
 | grafana/grafana | latest | - | - | - |
-| prom/prometheus | 3.11.2 | - | - | - |
+| prom/prometheus | latest | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
