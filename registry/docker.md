@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-17T15:28:41.339Z
+> Last updated: 2026-04-17T16:26:11.920Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,21 +11,21 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
 | node | 25.9.0 | 25.9.0-slim | 25.9.0-alpine | 25.9.0-trixie |
-| python | latest | - | - | - |
+| python | 3.14.4 | 3.14.4-slim | 3.14.4-alpine | 3.14.4-trixie |
 | ruby | latest | - | - | - |
-| php | latest | - | - | - |
+| php | 8.5.5 | - | 8.5.5-alpine | 8.5.5-trixie |
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | 1.95.0 | 1.95.0-slim | 1.95.0-alpine | 1.95.0-trixie |
+| rust | latest | - | - | - |
 | postgres | latest | - | - | - |
-| mysql | latest | - | - | - |
-| mariadb | 12.2.2 | - | - | - |
-| mongo | latest | - | - | - |
-| redis | 8.6.2 | - | 8.6.2-alpine | 8.6.2-trixie |
+| mysql | 9.6.0 | - | - | - |
+| mariadb | latest | - | - | - |
+| mongo | 8.2.6 | - | - | - |
+| redis | latest | - | - | - |
 | nginx | latest | - | - | - |
-| httpd | latest | - | - | - |
-| traefik | 3.6.13 | - | - | - |
-| haproxy | 3.3.6 | - | 3.3.6-alpine | 3.3.6-trixie |
+| httpd | 2.4.66 | - | 2.4.66-alpine | 2.4.66-trixie |
+| traefik | latest | - | - | - |
+| haproxy | latest | - | - | - |
 | rabbitmq | latest | - | - | - |
 | memcached | latest | - | - | - |
 | elasticsearch | latest | - | - | - |
@@ -33,7 +33,7 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | debian | 13.4 | 13.4-slim | - | - |
 | alpine | 3.23.4 | - | - | - |
 | grafana/grafana | 12.4.3 | - | - | - |
-| prom/prometheus | latest | - | - | - |
+| prom/prometheus | 3.11.2 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
