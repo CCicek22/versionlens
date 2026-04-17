@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-16T23:20:03.407Z
+> Last updated: 2026-04-17T00:50:18.837Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -157,7 +157,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | qdrant-client | 1.17.1 |
 | pinecone-client | 6.0.0 |
-| chromadb | 1.5.7 |
+| chromadb | 1.5.8 |
 | weaviate-client | 4.20.5 |
 
 ### Task Queues
@@ -166,7 +166,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | celery | 5.6.3 |
 | dramatiq | 2.1.0 |
-| rq | 2.7.0 |
+| rq | 2.8.0 |
 
 ### Image / Media
 

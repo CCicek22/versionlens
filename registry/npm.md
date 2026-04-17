@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-16T23:20:03.406Z
+> Last updated: 2026-04-17T00:50:18.836Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -206,7 +206,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| typescript | 6.0.2 |
+| typescript | 6.0.3 |
 | vite | 8.0.8 |
 | webpack | 5.106.2 |
 | esbuild | 0.28.0 |
