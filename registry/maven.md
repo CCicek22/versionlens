@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-17T01:40:42.743Z
+> Last updated: 2026-04-17T03:13:00.072Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -28,8 +28,8 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | unknown |
-| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | unknown |
+| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
+| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
 
@@ -43,8 +43,8 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
 | MyBatis | `org.mybatis:mybatis` | 3.5.19 |
-| Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
-| Liquibase | `org.liquibase:liquibase-core` | unknown |
+| Flyway | `org.flywaydb:flyway-core` | unknown |
+| Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
 
 ### JSON
 
@@ -57,16 +57,16 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| OkHttp | `com.squareup.okhttp3:okhttp` | unknown |
-| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
+| OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
+| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
 
 ### Logging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | SLF4J | `org.slf4j:slf4j-api` | 2.1.0-alpha1 |
-| Logback | `ch.qos.logback:logback-classic` | unknown |
-| Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
+| Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
+| Log4j | `org.apache.logging.log4j:log4j-core` | unknown |
 
 ### Testing
 
@@ -74,13 +74,13 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | JUnit 5 | `org.junit.jupiter:junit-jupiter` | unknown |
 | Mockito | `org.mockito:mockito-core` | 5.18.0 |
-| AssertJ | `org.assertj:assertj-core` | unknown |
+| AssertJ | `org.assertj:assertj-core` | 4.0.0-M1 |
 
 ### Utilities
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Lombok | `org.projectlombok:lombok` | 1.18.38 |
+| Lombok | `org.projectlombok:lombok` | unknown |
 | MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
 | Guava | `com.google.guava:guava` | 33.4.8-jre |
 | Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
@@ -95,7 +95,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| gRPC | `io.grpc:grpc-core` | unknown |
+| gRPC | `io.grpc:grpc-core` | 1.73.0 |
 
 ### Reactive
 
@@ -114,7 +114,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | unknown |
+| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | 5.6 |
 
 ### Security
 
@@ -132,7 +132,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Micrometer | `io.micrometer:micrometer-core` | 1.15.0 |
+| Micrometer | `io.micrometer:micrometer-core` | unknown |
 
 ### OpenAPI / Docs
 
@@ -144,5 +144,5 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | 9.0.1.Final |
+| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | unknown |
 
