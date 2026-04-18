@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-18T04:52:02.267Z
+> Last updated: 2026-04-18T05:37:02.951Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -45,7 +45,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | pandas | 3.0.2 |
 | numpy | 2.4.4 |
-| polars | 1.39.3 |
+| polars | 1.40.0 |
 | scipy | 1.17.1 |
 
 ### Data Visualization
