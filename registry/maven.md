@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-18T11:18:09.096Z
+> Last updated: 2026-04-18T12:20:12.787Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -12,16 +12,16 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
-| Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | unknown |
+| Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
 | Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
-| Spring Security | `org.springframework.boot:spring-boot-starter-security` | unknown |
+| Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
 | Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | unknown |
 
 ### Spring Framework
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Core | `org.springframework:spring-core` | unknown |
+| Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
 | Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
 
 ### Kotlin
@@ -41,8 +41,8 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate ORM | `org.hibernate.orm:hibernate-core` | unknown |
-| MyBatis | `org.mybatis:mybatis` | unknown |
+| Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
+| MyBatis | `org.mybatis:mybatis` | 3.5.19 |
 | Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
 | Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
 
@@ -64,7 +64,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SLF4J | `org.slf4j:slf4j-api` | 2.1.0-alpha1 |
+| SLF4J | `org.slf4j:slf4j-api` | unknown |
 | Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
 | Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
 
@@ -74,14 +74,14 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | JUnit 5 | `org.junit.jupiter:junit-jupiter` | 5.13.0-M3 |
 | Mockito | `org.mockito:mockito-core` | 5.18.0 |
-| AssertJ | `org.assertj:assertj-core` | unknown |
+| AssertJ | `org.assertj:assertj-core` | 4.0.0-M1 |
 
 ### Utilities
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Lombok | `org.projectlombok:lombok` | 1.18.38 |
-| MapStruct | `org.mapstruct:mapstruct` | unknown |
+| Lombok | `org.projectlombok:lombok` | unknown |
+| MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
 | Guava | `com.google.guava:guava` | 33.4.8-jre |
 | Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
 
@@ -107,20 +107,20 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Quarkus | `io.quarkus:quarkus-core` | 3.23.0 |
+| Quarkus | `io.quarkus:quarkus-core` | unknown |
 | Micronaut | `io.micronaut:micronaut-core` | unknown |
 
 ### HTTP Client
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | unknown |
+| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | 5.6 |
 
 ### Security
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| JJWT | `io.jsonwebtoken:jjwt-api` | 0.12.6 |
+| JJWT | `io.jsonwebtoken:jjwt-api` | unknown |
 
 ### Testing (Java)
 
