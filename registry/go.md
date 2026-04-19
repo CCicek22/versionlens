@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-19T00:51:22.114Z
+> Last updated: 2026-04-19T01:40:05.614Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -15,7 +15,7 @@ Latest stable versions from proxy.golang.org.
 | Gorilla Mux | `github.com/gorilla/mux` | 1.8.1 |
 | GORM | `gorm.io/gorm` | 1.31.1 |
 | sqlx | `github.com/jmoiron/sqlx` | 1.4.0 |
-| pgx (Postgres) | `github.com/jackc/pgx/v5` | 5.9.1 |
+| pgx (Postgres) | `github.com/jackc/pgx/v5` | 5.9.2 |
 | MongoDB Driver | `go.mongodb.org/mongo-driver` | 1.17.9 |
 | go-redis | `github.com/redis/go-redis/v9` | 9.18.0 |
 | gRPC-Go | `google.golang.org/grpc` | 1.80.0 |
