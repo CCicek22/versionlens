@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-19T08:27:33.982Z
+> Last updated: 2026-04-19T09:22:19.971Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -16,7 +16,7 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | php | latest | - | - | - |
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | 1.95.0 | 1.95.0-slim | 1.95.0-alpine | 1.95.0-trixie |
+| rust | latest | - | - | - |
 | postgres | latest | - | - | - |
 | mysql | latest | - | - | - |
 | mariadb | latest | - | - | - |
@@ -30,9 +30,9 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | memcached | latest | - | - | - |
 | elasticsearch | latest | - | - | - |
 | ubuntu | latest | - | - | - |
-| debian | 13.4 | 13.4-slim | - | - |
+| debian | latest | - | - | - |
 | alpine | latest | - | - | - |
-| grafana/grafana | 13.0.1 | - | - | - |
+| grafana/grafana | latest | - | - | - |
 | prom/prometheus | latest | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
