@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-19T21:16:07.879Z
+> Last updated: 2026-04-19T22:14:07.060Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,7 +13,7 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
 | Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
-| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
+| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | unknown |
 | Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
 | Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | unknown |
 
@@ -22,26 +22,26 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
-| Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
+| Spring WebFlux | `org.springframework:spring-webflux` | unknown |
 
 ### Kotlin
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | unknown |
-| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | unknown |
+| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
+| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Maven | `org.apache.maven:maven-core` | 4.0.0-rc-5 |
+| Maven | `org.apache.maven:maven-core` | unknown |
 
 ### Database & ORM
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate ORM | `org.hibernate.orm:hibernate-core` | unknown |
+| Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
 | MyBatis | `org.mybatis:mybatis` | 3.5.19 |
 | Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
 | Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
@@ -51,14 +51,14 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
-| Gson | `com.google.code.gson:gson` | 2.13.1 |
+| Gson | `com.google.code.gson:gson` | unknown |
 
 ### HTTP
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
-| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
+| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
 
 ### Logging
 
@@ -95,13 +95,13 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| gRPC | `io.grpc:grpc-core` | unknown |
+| gRPC | `io.grpc:grpc-core` | 1.73.0 |
 
 ### Reactive
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Project Reactor | `io.projectreactor:reactor-core` | unknown |
+| Project Reactor | `io.projectreactor:reactor-core` | 3.8.0-M3 |
 
 ### Alternative Frameworks
 
@@ -120,7 +120,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| JJWT | `io.jsonwebtoken:jjwt-api` | unknown |
+| JJWT | `io.jsonwebtoken:jjwt-api` | 0.12.6 |
 
 ### Testing (Java)
 
@@ -138,11 +138,11 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | unknown |
+| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | 2.8.6 |
 
 ### Validation
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | unknown |
+| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | 9.0.1.Final |
 
