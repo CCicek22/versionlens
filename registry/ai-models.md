@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-19T07:36:05.773Z
+> Last updated: 2026-04-19T08:27:33.982Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -83,7 +83,7 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 10.2M |
+| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 10.3M |
 | DeepSeek-R1 | `deepseek-ai/DeepSeek-R1` | ? params | 4.0M |
 | DeepSeek-R1-Distill-Llama-8B | `deepseek-ai/DeepSeek-R1-Distill-Llama-8B` | ? params | 2.1M |
 | DeepSeek-R1-Distill-Qwen-32B | `deepseek-ai/DeepSeek-R1-Distill-Qwen-32B` | ? params | 1.0M |
@@ -139,10 +139,10 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.6M |
-| NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.4M |
-| Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 1.2M |
-| Kimi-K2.5-NVFP4 | `nvidia/Kimi-K2.5-NVFP4` | ? params | 0.9M |
+| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.5M |
+| NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.3M |
+| Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 1.3M |
+| Kimi-K2.5-NVFP4 | `nvidia/Kimi-K2.5-NVFP4` | ? params | 1.0M |
 
 ### OpenAI (Open-weight)
 
