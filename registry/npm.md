@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-20T09:43:11.483Z
+> Last updated: 2026-04-20T10:40:23.937Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -165,7 +165,7 @@ Latest stable versions of popular npm packages.
 | firebase | 12.12.0 |
 | firebase-admin | 13.8.0 |
 | firebase-tools | 15.15.0 |
-| @supabase/supabase-js | 2.103.3 |
+| @supabase/supabase-js | 2.104.0 |
 
 ### Cloud SDKs
 
@@ -198,7 +198,7 @@ Latest stable versions of popular npm packages.
 | @playwright/test | 1.59.1 |
 | cypress | 15.14.0 |
 | supertest | 7.2.2 |
-| puppeteer | 24.41.0 |
+| puppeteer | 24.42.0 |
 | selenium-webdriver | 4.43.0 |
 | @storybook/react | 10.3.5 |
 
@@ -247,7 +247,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| bullmq | 5.75.1 |
+| bullmq | 5.75.2 |
 | bee-queue | 2.0.0 |
 
 ### i18n
