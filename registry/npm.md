@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-20T16:33:24.867Z
+> Last updated: 2026-04-20T17:28:19.941Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -29,7 +29,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-native | 0.85.1 |
+| react-native | 0.85.2 |
 | expo | 55.0.15 |
 | @expo/cli | 55.0.24 |
 | @react-navigation/native | 7.2.2 |
@@ -136,7 +136,7 @@ Latest stable versions of popular npm packages.
 | @prisma/client | 7.7.0 |
 | typeorm | 0.3.28 |
 | knex | 3.2.9 |
-| mongoose | 9.4.1 |
+| mongoose | 9.5.0 |
 | sequelize | 6.37.8 |
 | ioredis | 5.10.1 |
 | pg | 8.20.0 |
@@ -232,7 +232,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | nodemailer | 8.0.5 |
-| resend | 6.12.1 |
+| resend | 6.12.2 |
 | @sendgrid/mail | 8.1.6 |
 
 ### File & Image
