@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-20T12:35:57.061Z
+> Last updated: 2026-04-20T13:39:56.792Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -203,7 +203,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | dynaconf | 3.2.13 |
-| pydantic-settings | 2.13.1 |
+| pydantic-settings | 2.14.0 |
 
 ### Build Tools
 
