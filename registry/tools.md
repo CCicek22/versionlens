@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-20T20:20:14.282Z
+> Last updated: 2026-04-20T21:22:16.560Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -24,7 +24,7 @@ Latest versions of popular developer tools.
 | Docker Compose | 5.1.3 | docker/compose |
 | Pulumi | 3.231.0 | pulumi/pulumi |
 | Argo CD | 3.3.7 | argoproj/argo-cd |
-| Tailwind CSS | 4.2.2 | tailwindlabs/tailwindcss |
+| Tailwind CSS | 4.2.3 | tailwindlabs/tailwindcss |
 | Biome | 2.4.12 | biomejs/biome |
 | Ruff | 0.15.11 | astral-sh/ruff |
 | Gradle | 9.4.1 | gradle/gradle |
