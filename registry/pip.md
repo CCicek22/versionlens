@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-20T23:21:09.809Z
+> Last updated: 2026-04-21T00:50:46.022Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -87,7 +87,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | crewai | 1.14.2 |
 | autogen | 0.12.0 |
-| llama-index | 0.14.20 |
+| llama-index | 0.14.21 |
 
 ### Cloud
 
@@ -144,7 +144,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| psycopg2-binary | 2.9.11 |
+| psycopg2-binary | 2.9.12 |
 | asyncpg | 0.31.0 |
 | redis | 7.4.0 |
 | pymongo | 4.17.0 |
