@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-21T10:36:13.225Z
+> Last updated: 2026-04-21T11:30:55.886Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -30,8 +30,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | react-native | 0.85.2 |
-| expo | 55.0.15 |
-| @expo/cli | 55.0.24 |
+| expo | 55.0.16 |
+| @expo/cli | 55.0.25 |
 | @react-navigation/native | 7.2.2 |
 
 ### Routing
@@ -190,7 +190,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| vitest | 4.1.4 |
+| vitest | 4.1.5 |
 | jest | 30.3.0 |
 | @testing-library/react | 16.3.2 |
 | @testing-library/jest-dom | 6.9.1 |
