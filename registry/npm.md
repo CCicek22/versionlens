@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-21T13:39:43.820Z
+> Last updated: 2026-04-21T14:41:15.441Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -38,7 +38,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-router-dom | 7.14.1 |
+| react-router-dom | 7.14.2 |
 | @tanstack/router | 0.0.1-beta.53 |
 
 ### State & Data Fetching

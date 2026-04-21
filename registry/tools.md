@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-21T13:39:43.822Z
+> Last updated: 2026-04-21T14:41:15.443Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -17,7 +17,7 @@ Latest versions of popular developer tools.
 | Vercel CLI | 5.7.12 | vercel/vercel |
 | Supabase CLI | 2.90.0 | supabase/cli |
 | Firebase CLI | 15.15.0 | firebase/firebase-tools |
-| Netlify CLI | 25.1.0 | netlify/cli |
+| Netlify CLI | 25.1.1 | netlify/cli |
 | Terraform | 1.14.9 | hashicorp/terraform |
 | Kubernetes | 1.35.4 | kubernetes/kubernetes |
 | Helm | 4.1.4 | helm/helm |
