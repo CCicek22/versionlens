@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-21T17:28:04.420Z
+> Last updated: 2026-04-21T18:31:25.886Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -107,7 +107,7 @@ Latest stable versions of popular npm packages.
 | trpc | 0.11.3 |
 | @trpc/server | 11.16.0 |
 | @trpc/client | 11.16.0 |
-| axios | 1.15.1 |
+| axios | 1.15.2 |
 | ky | 2.0.2 |
 | got | 15.0.3 |
 
