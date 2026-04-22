@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-22T08:44:17.135Z
+> Last updated: 2026-04-22T09:39:25.285Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -302,6 +302,6 @@ Latest stable versions of popular npm packages.
 | bun | 1.3.13 |
 | tsx | 4.21.0 |
 | ts-node | 10.9.2 |
-| pnpm | 10.33.0 |
+| pnpm | 10.33.1 |
 | yarn | 1.22.22 |
 
