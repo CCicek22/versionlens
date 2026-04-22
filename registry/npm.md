@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-22T05:04:01.055Z
+> Last updated: 2026-04-22T06:47:43.090Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -283,7 +283,7 @@ Latest stable versions of popular npm packages.
 | commander | 14.0.3 |
 | inquirer | 13.4.2 |
 | chalk | 5.6.2 |
-| ora | 9.3.0 |
+| ora | 9.4.0 |
 | zx | 8.8.5 |
 | execa | 9.6.1 |
 
