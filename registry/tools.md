@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-22T17:26:13.146Z
+> Last updated: 2026-04-22T18:31:06.535Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -19,7 +19,7 @@ Latest versions of popular developer tools.
 | Firebase CLI | 15.15.0 | firebase/firebase-tools |
 | Netlify CLI | 25.2.0 | netlify/cli |
 | Terraform | 1.14.9 | hashicorp/terraform |
-| Kubernetes | 1.35.4 | kubernetes/kubernetes |
+| Kubernetes | 1.36.0 | kubernetes/kubernetes |
 | Helm | 4.1.4 | helm/helm |
 | Docker Compose | 5.1.3 | docker/compose |
 | Pulumi | 3.231.0 | pulumi/pulumi |
