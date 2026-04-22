@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-22T15:34:03.589Z
+> Last updated: 2026-04-22T16:30:15.258Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -73,7 +73,7 @@ Latest stable versions of popular Python packages.
 | google-generativeai | 0.8.6 |
 | langchain | 1.2.15 |
 | langchain-core | 1.3.0 |
-| transformers | 5.5.4 |
+| transformers | 5.6.0 |
 | torch | 2.11.0 |
 | tensorflow | 2.21.0 |
 | scikit-learn | 1.8.0 |
@@ -211,7 +211,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | poetry-core | 2.3.2 |
 | setuptools | 82.0.1 |
-| wheel | 0.46.3 |
+| wheel | 0.47.0 |
 | hatchling | 1.29.0 |
 
 ### Async
