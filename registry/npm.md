@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-22T13:39:09.090Z
+> Last updated: 2026-04-22T14:40:03.044Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -132,8 +132,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | drizzle-orm | 0.45.2 |
-| prisma | 7.7.0 |
-| @prisma/client | 7.7.0 |
+| prisma | 7.8.0 |
+| @prisma/client | 7.8.0 |
 | typeorm | 0.3.28 |
 | knex | 3.2.9 |
 | mongoose | 9.5.0 |
