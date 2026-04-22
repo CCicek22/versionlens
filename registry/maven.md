@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-22T19:34:07.940Z
+> Last updated: 2026-04-22T20:25:12.542Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,24 +11,24 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
+| Spring Boot | `org.springframework.boot:spring-boot-starter` | unknown |
 | Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
 | Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
-| Spring Security | `org.springframework.boot:spring-boot-starter-security` | unknown |
-| Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | 3.5.3 |
+| Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
+| Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | unknown |
 
 ### Spring Framework
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Core | `org.springframework:spring-core` | unknown |
+| Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
 | Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
 
 ### Kotlin
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
+| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | unknown |
 | Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
@@ -43,7 +43,7 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
 | MyBatis | `org.mybatis:mybatis` | 3.5.19 |
-| Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
+| Flyway | `org.flywaydb:flyway-core` | unknown |
 | Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
 
 ### JSON
@@ -57,15 +57,15 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| OkHttp | `com.squareup.okhttp3:okhttp` | unknown |
-| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
+| OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
+| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
 
 ### Logging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SLF4J | `org.slf4j:slf4j-api` | 2.1.0-alpha1 |
-| Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
+| SLF4J | `org.slf4j:slf4j-api` | unknown |
+| Logback | `ch.qos.logback:logback-classic` | unknown |
 | Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
 
 ### Testing
@@ -80,10 +80,10 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Lombok | `org.projectlombok:lombok` | unknown |
+| Lombok | `org.projectlombok:lombok` | 1.18.38 |
 | MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
 | Guava | `com.google.guava:guava` | 33.4.8-jre |
-| Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
+| Commons Lang3 | `org.apache.commons:commons-lang3` | unknown |
 
 ### Messaging
 
@@ -107,7 +107,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Quarkus | `io.quarkus:quarkus-core` | unknown |
+| Quarkus | `io.quarkus:quarkus-core` | 3.23.0 |
 | Micronaut | `io.micronaut:micronaut-core` | 4.9.4 |
 
 ### HTTP Client
@@ -132,13 +132,13 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Micrometer | `io.micrometer:micrometer-core` | unknown |
+| Micrometer | `io.micrometer:micrometer-core` | 1.15.0 |
 
 ### OpenAPI / Docs
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | unknown |
+| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | 2.8.6 |
 
 ### Validation
 
