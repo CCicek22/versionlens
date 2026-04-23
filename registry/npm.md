@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-23T12:31:24.275Z
+> Last updated: 2026-04-23T13:39:25.779Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -45,7 +45,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @tanstack/react-query | 5.99.2 |
+| @tanstack/react-query | 5.100.0 |
 | @tanstack/react-table | 8.21.3 |
 | zustand | 5.0.12 |
 | jotai | 2.19.1 |
@@ -165,7 +165,7 @@ Latest stable versions of popular npm packages.
 | firebase | 12.12.1 |
 | firebase-admin | 13.8.0 |
 | firebase-tools | 15.15.0 |
-| @supabase/supabase-js | 2.104.0 |
+| @supabase/supabase-js | 2.104.1 |
 
 ### Cloud SDKs
 
