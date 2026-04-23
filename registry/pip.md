@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-23T10:37:33.039Z
+> Last updated: 2026-04-23T11:30:26.977Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -108,7 +108,7 @@ Latest stable versions of popular Python packages.
 | coverage | 7.13.5 |
 | mypy | 1.20.2 |
 | ruff | 0.15.11 |
-| pyright | 1.1.408 |
+| pyright | 1.1.409 |
 | selenium | 4.43.0 |
 | playwright | 1.58.0 |
 | locust | 2.43.4 |
@@ -158,7 +158,7 @@ Latest stable versions of popular Python packages.
 | qdrant-client | 1.17.1 |
 | pinecone-client | 6.0.0 |
 | chromadb | 1.5.8 |
-| weaviate-client | 4.20.5 |
+| weaviate-client | 4.21.0 |
 
 ### Task Queues
 
