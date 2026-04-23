@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-23T07:40:32.021Z
+> Last updated: 2026-04-23T08:44:50.412Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -142,7 +142,7 @@ No API keys needed.
 | Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 1.5M |
 | NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.4M |
 | Kimi-K2.5-NVFP4 | `nvidia/Kimi-K2.5-NVFP4` | ? params | 1.2M |
-| NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.2M |
+| NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.1M |
 
 ### OpenAI (Open-weight)
 
