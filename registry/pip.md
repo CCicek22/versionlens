@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-24T15:36:01.644Z
+> Last updated: 2026-04-24T16:27:11.933Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -72,7 +72,7 @@ Latest stable versions of popular Python packages.
 | anthropic | 0.97.0 |
 | google-generativeai | 0.8.6 |
 | langchain | 1.2.15 |
-| langchain-core | 1.3.1 |
+| langchain-core | 1.3.2 |
 | transformers | 5.6.2 |
 | torch | 2.11.0 |
 | tensorflow | 2.21.0 |
@@ -85,7 +85,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| crewai | 1.14.2 |
+| crewai | 1.14.3 |
 | autogen | 0.12.0 |
 | llama-index | 0.14.21 |
 
