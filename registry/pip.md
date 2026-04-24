@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-23T23:22:26.206Z
+> Last updated: 2026-04-24T00:52:50.833Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -52,7 +52,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| matplotlib | 3.10.8 |
+| matplotlib | 3.10.9 |
 | seaborn | 0.13.2 |
 | plotly | 6.7.0 |
 
@@ -138,7 +138,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| stripe | 15.0.1 |
+| stripe | 15.1.0 |
 
 ### Database Drivers
 
