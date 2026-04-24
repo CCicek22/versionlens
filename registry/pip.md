@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-24T19:23:08.178Z
+> Last updated: 2026-04-24T20:21:11.523Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -93,7 +93,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| boto3 | 1.42.95 |
+| boto3 | 1.42.96 |
 | google-cloud-storage | 3.10.1 |
 | firebase-admin | 7.4.0 |
 | azure-storage-blob | 12.28.0 |
@@ -131,7 +131,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | pyjwt | 2.12.1 |
 | passlib | 1.7.4 |
-| cryptography | 46.0.7 |
+| cryptography | 47.0.0 |
 | bcrypt | 5.0.0 |
 
 ### Payments
