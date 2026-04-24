@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-24T01:40:51.992Z
+> Last updated: 2026-04-24T03:13:28.962Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
