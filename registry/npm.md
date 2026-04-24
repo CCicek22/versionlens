@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-24T18:21:18.627Z
+> Last updated: 2026-04-24T19:23:08.176Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -171,7 +171,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @aws-sdk/client-s3 | 3.1036.0 |
+| @aws-sdk/client-s3 | 3.1037.0 |
 | @google-cloud/storage | 7.19.0 |
 | @azure/storage-blob | 12.31.0 |
 
@@ -254,7 +254,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| i18next | 26.0.7 |
+| i18next | 26.0.8 |
 | react-i18next | 17.0.4 |
 
 ### Markdown / Content
@@ -292,7 +292,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | lerna | 9.0.7 |
-| nx | 22.6.5 |
+| nx | 22.7.0 |
 | @changesets/cli | 2.31.0 |
 
 ### Runtime & Package Managers
