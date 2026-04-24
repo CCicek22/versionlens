@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-24T11:31:04.040Z
+> Last updated: 2026-04-24T12:31:18.658Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -231,7 +231,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| nodemailer | 8.0.5 |
+| nodemailer | 8.0.6 |
 | resend | 6.12.2 |
 | @sendgrid/mail | 8.1.6 |
 
