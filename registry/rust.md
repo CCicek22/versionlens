@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-24T08:48:59.758Z
+> Last updated: 2026-04-24T09:40:28.921Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -25,7 +25,7 @@ Latest stable versions from crates.io.
 | toml | 1.1.2+spec-1.1.0 |
 | csv | 1.4.0 |
 | sqlx | 0.9.0-alpha.1 |
-| diesel | 2.3.7 |
+| diesel | 2.3.8 |
 | sea-orm | 2.0.0-rc.38 |
 | rusqlite | 0.39.0 |
 | redis | 1.2.0 |
