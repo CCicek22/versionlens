@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-24T17:24:40.533Z
+> Last updated: 2026-04-24T18:21:18.628Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -107,7 +107,7 @@ Latest stable versions of popular Python packages.
 | pytest-cov | 7.1.0 |
 | coverage | 7.13.5 |
 | mypy | 1.20.2 |
-| ruff | 0.15.11 |
+| ruff | 0.15.12 |
 | pyright | 1.1.409 |
 | selenium | 4.43.0 |
 | playwright | 1.58.0 |
