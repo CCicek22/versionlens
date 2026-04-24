@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-24T07:42:17.434Z
+> Last updated: 2026-04-24T08:48:59.758Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -139,7 +139,7 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 1.5M |
+| Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 1.6M |
 | NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.4M |
 | Kimi-K2.5-NVFP4 | `nvidia/Kimi-K2.5-NVFP4` | ? params | 1.3M |
 | NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 | `nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4` | ? params | 1.1M |
