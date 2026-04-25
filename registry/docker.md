@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-25T22:14:42.060Z
+> Last updated: 2026-04-25T23:17:48.059Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -12,7 +12,7 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 |-------|---------|------|--------|--------|
 | node | latest | - | - | - |
 | python | latest | - | - | - |
-| ruby | latest | - | - | - |
+| ruby | 4.0.3 | 4.0.3-slim | 4.0.3-alpine | 4.0.3-trixie |
 | php | latest | - | - | - |
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
@@ -28,12 +28,12 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | haproxy | 3.3.7 | - | 3.3.7-alpine | 3.3.7-trixie |
 | rabbitmq | 4.2.6 | - | 4.2.6-alpine | - |
 | memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
-| elasticsearch | latest | - | - | - |
-| ubuntu | latest | - | - | - |
+| elasticsearch | 9.3.3 | - | - | - |
+| ubuntu | 26.04 | - | - | - |
 | debian | 13.4 | 13.4-slim | - | - |
 | alpine | 3.23.4 | - | - | - |
 | grafana/grafana | 13.0.1 | - | - | - |
-| prom/prometheus | latest | - | - | - |
+| prom/prometheus | 3.11.2 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
