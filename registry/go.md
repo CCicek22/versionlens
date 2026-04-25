@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-25T12:22:48.270Z
+> Last updated: 2026-04-25T13:33:44.175Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -10,7 +10,7 @@ Latest stable versions from proxy.golang.org.
 | Module | Import Path | Latest |
 |--------|-------------|--------|
 | Gin | `github.com/gin-gonic/gin` | 1.12.0 |
-| Fiber | `github.com/gofiber/fiber/v2` | 2.52.12 |
+| Fiber | `github.com/gofiber/fiber/v2` | 2.52.13 |
 | Echo | `github.com/labstack/echo/v4` | 4.15.1 |
 | Gorilla Mux | `github.com/gorilla/mux` | 1.8.1 |
 | GORM | `gorm.io/gorm` | 1.31.1 |

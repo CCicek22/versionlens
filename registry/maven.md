@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-25T12:22:48.269Z
+> Last updated: 2026-04-25T13:33:44.175Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -22,20 +22,20 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
-| Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
+| Spring WebFlux | `org.springframework:spring-webflux` | unknown |
 
 ### Kotlin
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
-| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | unknown |
+| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Maven | `org.apache.maven:maven-core` | 4.0.0-rc-5 |
+| Maven | `org.apache.maven:maven-core` | unknown |
 
 ### Database & ORM
 
@@ -57,7 +57,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| OkHttp | `com.squareup.okhttp3:okhttp` | unknown |
+| OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
 | Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
 
 ### Logging
@@ -73,7 +73,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | JUnit 5 | `org.junit.jupiter:junit-jupiter` | 5.13.0-M3 |
-| Mockito | `org.mockito:mockito-core` | unknown |
+| Mockito | `org.mockito:mockito-core` | 5.18.0 |
 | AssertJ | `org.assertj:assertj-core` | 4.0.0-M1 |
 
 ### Utilities
@@ -114,13 +114,13 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | unknown |
+| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | 5.6.1 |
 
 ### Security
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| JJWT | `io.jsonwebtoken:jjwt-api` | unknown |
+| JJWT | `io.jsonwebtoken:jjwt-api` | 0.12.6 |
 
 ### Testing (Java)
 
@@ -132,7 +132,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Micrometer | `io.micrometer:micrometer-core` | 1.15.0 |
+| Micrometer | `io.micrometer:micrometer-core` | unknown |
 
 ### OpenAPI / Docs
 
@@ -144,5 +144,5 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | 9.0.1.Final |
+| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | unknown |
 
