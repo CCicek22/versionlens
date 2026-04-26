@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-26T14:21:06.611Z
+> Last updated: 2026-04-26T15:20:04.282Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -224,7 +224,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | @swc/core | 1.15.30 |
 | babel-loader | 10.1.1 |
-| postcss | 8.5.11 |
+| postcss | 8.5.12 |
 | autoprefixer | 10.5.0 |
 
 ### Email
