@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-27T05:11:54.532Z
+> Last updated: 2026-04-27T07:04:44.578Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -64,7 +64,7 @@ Latest stable versions of popular npm packages.
 | @mantine/core | 9.1.0 |
 | @radix-ui/react-dialog | 1.1.15 |
 | @headlessui/react | 2.2.10 |
-| antd | 6.3.6 |
+| antd | 6.3.7 |
 
 ### Styling
 
