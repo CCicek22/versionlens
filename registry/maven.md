@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-27T19:36:29.617Z
+> Last updated: 2026-04-27T20:30:55.555Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -41,7 +41,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate ORM | `org.hibernate.orm:hibernate-core` | unknown |
+| Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
 | MyBatis | `org.mybatis:mybatis` | 3.5.19 |
 | Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
 | Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
@@ -51,29 +51,29 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
-| Gson | `com.google.code.gson:gson` | unknown |
+| Gson | `com.google.code.gson:gson` | 2.14.0 |
 
 ### HTTP
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| OkHttp | `com.squareup.okhttp3:okhttp` | unknown |
-| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
+| OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
+| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
 
 ### Logging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | SLF4J | `org.slf4j:slf4j-api` | unknown |
-| Logback | `ch.qos.logback:logback-classic` | unknown |
-| Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
+| Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
+| Log4j | `org.apache.logging.log4j:log4j-core` | unknown |
 
 ### Testing
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| JUnit 5 | `org.junit.jupiter:junit-jupiter` | 5.13.0-M3 |
-| Mockito | `org.mockito:mockito-core` | 5.18.0 |
+| JUnit 5 | `org.junit.jupiter:junit-jupiter` | unknown |
+| Mockito | `org.mockito:mockito-core` | unknown |
 | AssertJ | `org.assertj:assertj-core` | 4.0.0-M1 |
 
 ### Utilities
@@ -126,7 +126,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Testcontainers | `org.testcontainers:testcontainers` | 1.21.3 |
+| Testcontainers | `org.testcontainers:testcontainers` | unknown |
 
 ### Monitoring
 
@@ -138,11 +138,11 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | unknown |
+| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | 2.8.6 |
 
 ### Validation
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | 9.0.1.Final |
+| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | unknown |
 
