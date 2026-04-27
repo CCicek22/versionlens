@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-27T17:35:21.299Z
+> Last updated: 2026-04-27T18:36:14.311Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -61,7 +61,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | @mui/material | 9.0.0 |
 | @chakra-ui/react | 3.35.0 |
-| @mantine/core | 9.1.0 |
+| @mantine/core | 9.1.1 |
 | @radix-ui/react-dialog | 1.1.15 |
 | @headlessui/react | 2.2.10 |
 | antd | 6.3.7 |

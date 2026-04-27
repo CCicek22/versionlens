@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-27T17:35:21.301Z
+> Last updated: 2026-04-27T18:36:14.314Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -29,6 +29,6 @@ Latest versions of popular developer tools.
 | Ruff | 0.15.12 | astral-sh/ruff |
 | Gradle | 9.4.1 | gradle/gradle |
 | Neovim | 0.12.2 | neovim/neovim |
-| Grafana | unknown | grafana/grafana |
+| Grafana | 13.0.1 | grafana/grafana |
 | Prometheus | 3.11.3 | prometheus/prometheus |
 

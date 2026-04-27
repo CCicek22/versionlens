@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-27T17:35:21.300Z
+> Last updated: 2026-04-27T18:36:14.313Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -21,21 +21,21 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Core | `org.springframework:spring-core` | unknown |
+| Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
 | Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
 
 ### Kotlin
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
+| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | unknown |
 | Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Maven | `org.apache.maven:maven-core` | 4.0.0-rc-5 |
+| Maven | `org.apache.maven:maven-core` | unknown |
 
 ### Database & ORM
 
@@ -50,15 +50,15 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Jackson | `com.fasterxml.jackson.core:jackson-databind` | unknown |
-| Gson | `com.google.code.gson:gson` | 2.14.0 |
+| Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
+| Gson | `com.google.code.gson:gson` | unknown |
 
 ### HTTP
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
-| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
+| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
 
 ### Logging
 
@@ -73,16 +73,16 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | JUnit 5 | `org.junit.jupiter:junit-jupiter` | 5.13.0-M3 |
-| Mockito | `org.mockito:mockito-core` | 5.18.0 |
-| AssertJ | `org.assertj:assertj-core` | 4.0.0-M1 |
+| Mockito | `org.mockito:mockito-core` | unknown |
+| AssertJ | `org.assertj:assertj-core` | unknown |
 
 ### Utilities
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Lombok | `org.projectlombok:lombok` | unknown |
-| MapStruct | `org.mapstruct:mapstruct` | unknown |
-| Guava | `com.google.guava:guava` | unknown |
+| MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
+| Guava | `com.google.guava:guava` | 33.4.8-jre |
 | Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
 
 ### Messaging
@@ -95,7 +95,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| gRPC | `io.grpc:grpc-core` | unknown |
+| gRPC | `io.grpc:grpc-core` | 1.73.0 |
 
 ### Reactive
 
@@ -120,7 +120,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| JJWT | `io.jsonwebtoken:jjwt-api` | unknown |
+| JJWT | `io.jsonwebtoken:jjwt-api` | 0.12.6 |
 
 ### Testing (Java)
 
@@ -132,7 +132,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Micrometer | `io.micrometer:micrometer-core` | 1.15.0 |
+| Micrometer | `io.micrometer:micrometer-core` | unknown |
 
 ### OpenAPI / Docs
 
