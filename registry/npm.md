@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-27T11:38:26.324Z
+> Last updated: 2026-04-27T12:43:15.616Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -216,7 +216,7 @@ Latest stable versions of popular npm packages.
 | eslint | 10.2.1 |
 | prettier | 3.8.3 |
 | biome | 0.3.3 |
-| oxlint | 1.61.0 |
+| oxlint | 1.62.0 |
 
 ### Bundlers & Config
 
