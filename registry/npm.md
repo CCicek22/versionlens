@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-27T15:40:19.226Z
+> Last updated: 2026-04-27T16:39:02.702Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -165,7 +165,7 @@ Latest stable versions of popular npm packages.
 | firebase | 12.12.1 |
 | firebase-admin | 13.8.0 |
 | firebase-tools | 15.15.0 |
-| @supabase/supabase-js | 2.104.1 |
+| @supabase/supabase-js | 2.105.0 |
 
 ### Cloud SDKs
 
@@ -183,8 +183,8 @@ Latest stable versions of popular npm packages.
 | @anthropic-ai/sdk | 0.91.1 |
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.168 |
-| langchain | 1.3.4 |
-| @langchain/core | 1.1.41 |
+| langchain | 1.3.5 |
+| @langchain/core | 1.1.42 |
 
 ### Testing
 
@@ -255,7 +255,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | i18next | 26.0.8 |
-| react-i18next | 17.0.4 |
+| react-i18next | 17.0.6 |
 
 ### Markdown / Content
 
