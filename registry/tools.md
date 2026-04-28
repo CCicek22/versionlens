@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-28T11:38:06.129Z
+> Last updated: 2026-04-28T12:46:33.085Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,7 +13,7 @@ Latest versions of popular developer tools.
 | Yarn | 4.14.1 | yarnpkg/berry |
 | uv (Python) | 0.11.8 | astral-sh/uv |
 | Poetry | 2.3.4 | python-poetry/poetry |
-| GitHub CLI (gh) | 2.91.0 | cli/cli |
+| GitHub CLI (gh) | 2.92.0 | cli/cli |
 | Vercel CLI | 3.2.1 | vercel/vercel |
 | Supabase CLI | 2.95.4 | supabase/cli |
 | Firebase CLI | 15.15.0 | firebase/firebase-tools |
