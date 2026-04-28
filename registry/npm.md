@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-28T12:46:33.082Z
+> Last updated: 2026-04-28T13:42:13.875Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -105,8 +105,8 @@ Latest stable versions of popular npm packages.
 | nest | 0.1.6 |
 | @nestjs/core | 11.1.19 |
 | trpc | 0.11.3 |
-| @trpc/server | 11.16.0 |
-| @trpc/client | 11.16.0 |
+| @trpc/server | 11.17.0 |
+| @trpc/client | 11.17.0 |
 | axios | 1.15.2 |
 | ky | 2.0.2 |
 | got | 15.0.3 |
