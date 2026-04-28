@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-28T08:58:24.333Z
+> Last updated: 2026-04-28T09:55:39.556Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -9,7 +9,7 @@ Latest versions of popular developer tools.
 
 | Tool | Latest | Repository |
 |------|--------|------------|
-| pnpm | 10.33.2 | pnpm/pnpm |
+| pnpm | 11.0.0 | pnpm/pnpm |
 | Yarn | 4.14.1 | yarnpkg/berry |
 | uv (Python) | 0.11.8 | astral-sh/uv |
 | Poetry | 2.3.4 | python-poetry/poetry |
