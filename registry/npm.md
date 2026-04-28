@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-28T13:42:13.875Z
+> Last updated: 2026-04-28T15:55:13.500Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -30,7 +30,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | react-native | 0.85.2 |
-| expo | 55.0.17 |
+| expo | 55.0.18 |
 | @expo/cli | 55.0.26 |
 | @react-navigation/native | 7.2.2 |
 
@@ -136,7 +136,7 @@ Latest stable versions of popular npm packages.
 | @prisma/client | 7.8.0 |
 | typeorm | 0.3.28 |
 | knex | 3.2.9 |
-| mongoose | 9.5.0 |
+| mongoose | 9.6.0 |
 | sequelize | 6.37.8 |
 | ioredis | 5.10.1 |
 | pg | 8.20.0 |
@@ -179,7 +179,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| openai | 6.34.0 |
+| openai | 6.35.0 |
 | @anthropic-ai/sdk | 0.91.1 |
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.168 |
