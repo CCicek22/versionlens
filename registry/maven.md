@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-29T09:53:31.756Z
+> Last updated: 2026-04-29T10:42:32.681Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -51,7 +51,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
-| Gson | `com.google.code.gson:gson` | 2.13.1 |
+| Gson | `com.google.code.gson:gson` | 2.14.0 |
 
 ### HTTP
 
