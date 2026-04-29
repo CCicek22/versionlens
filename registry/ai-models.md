@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-29T06:59:37.812Z
+> Last updated: 2026-04-29T07:49:56.421Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -70,14 +70,14 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 9.3M |
-| Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 5.3M |
+| Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 9.4M |
+| Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 5.5M |
 | Meta-Llama-3-8B | `meta-llama/Meta-Llama-3-8B` | ? params | 3.3M |
-| Llama-3.2-3B-Instruct | `meta-llama/Llama-3.2-3B-Instruct` | ? params | 2.0M |
+| Llama-3.2-3B-Instruct | `meta-llama/Llama-3.2-3B-Instruct` | ? params | 1.9M |
 | Llama-2-7b-hf | `meta-llama/Llama-2-7b-hf` | ? params | 1.9M |
 | Meta-Llama-3-8B-Instruct | `meta-llama/Meta-Llama-3-8B-Instruct` | ? params | 1.5M |
 | Llama-3.1-8B | `meta-llama/Llama-3.1-8B` | ? params | 1.5M |
-| Llama-3.2-1B | `meta-llama/Llama-3.2-1B` | ? params | 1.3M |
+| Llama-3.2-1B | `meta-llama/Llama-3.2-1B` | ? params | 1.4M |
 
 ### DeepSeek
 
@@ -95,13 +95,13 @@ No API keys needed.
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
 | Qwen3-0.6B | `Qwen/Qwen3-0.6B` | ? params | 18.5M |
-| Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` | ? params | 12.6M |
+| Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` | ? params | 12.8M |
 | Qwen3-4B-Instruct-2507 | `Qwen/Qwen3-4B-Instruct-2507` | ? params | 9.9M |
 | Qwen2.5-1.5B-Instruct | `Qwen/Qwen2.5-1.5B-Instruct` | ? params | 9.8M |
-| Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` | ? params | 9.1M |
+| Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` | ? params | 9.2M |
 | Qwen3-8B | `Qwen/Qwen3-8B` | ? params | 9.0M |
+| Qwen2.5-0.5B-Instruct | `Qwen/Qwen2.5-0.5B-Instruct` | ? params | 6.3M |
 | Qwen3-4B | `Qwen/Qwen3-4B` | ? params | 6.2M |
-| Qwen2.5-0.5B-Instruct | `Qwen/Qwen2.5-0.5B-Instruct` | ? params | 6.1M |
 
 ### Mistral
 
@@ -119,16 +119,16 @@ No API keys needed.
 |-------|----------------|------|-----------|
 | gemma-3-1b-it | `google/gemma-3-1b-it` | ? params | 0.5M |
 | gemma-2-9b-it | `google/gemma-2-9b-it` | ? params | 0.5M |
-| gemma-2-2b-it | `google/gemma-2-2b-it` | ? params | 0.4M |
+| gemma-2-2b-it | `google/gemma-2-2b-it` | ? params | 0.3M |
 | gemma-2-2b | `google/gemma-2-2b` | ? params | 0.3M |
-| gemma-3-270m-it | `google/gemma-3-270m-it` | ? params | 0.2M |
 | gemma-2b | `google/gemma-2b` | ? params | 0.2M |
+| gemma-3-270m-it | `google/gemma-3-270m-it` | ? params | 0.2M |
 
 ### Microsoft (Phi)
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| Phi-3.5-vision-instruct | `microsoft/Phi-3.5-vision-instruct` | ? params | 1.5M |
+| Phi-3.5-vision-instruct | `microsoft/Phi-3.5-vision-instruct` | ? params | 1.6M |
 | Phi-4-mini-instruct | `microsoft/Phi-4-mini-instruct` | ? params | 1.5M |
 | Phi-3-mini-4k-instruct | `microsoft/Phi-3-mini-4k-instruct` | ? params | 0.7M |
 | Phi-3.5-mini-instruct | `microsoft/Phi-3.5-mini-instruct` | ? params | 0.7M |
