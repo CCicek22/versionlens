@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-29T18:38:59.438Z
+> Last updated: 2026-04-29T19:36:50.876Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -25,7 +25,7 @@ Latest stable versions from proxy.golang.org.
 | Testify | `github.com/stretchr/testify` | 1.11.1 |
 | Cobra | `github.com/spf13/cobra` | 1.10.2 |
 | Viper | `github.com/spf13/viper` | 1.21.0 |
-| AWS SDK Go v2 | `github.com/aws/aws-sdk-go-v2` | 1.41.6 |
+| AWS SDK Go v2 | `github.com/aws/aws-sdk-go-v2` | 1.41.7 |
 | Google Cloud Go | `cloud.google.com/go` | 0.123.0 |
 | Validator | `github.com/go-playground/validator/v10` | 10.30.2 |
 | godotenv | `github.com/joho/godotenv` | 1.5.1 |
