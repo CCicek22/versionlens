@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-29T03:15:03.080Z
+> Last updated: 2026-04-29T05:11:53.946Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.35.0 |
 | @anthropic-ai/sdk | 0.91.1 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.168 |
+| ai | 6.0.169 |
 | langchain | 1.3.5 |
 | @langchain/core | 1.1.42 |
 
