@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-29T07:49:56.420Z
+> Last updated: 2026-04-29T08:54:17.544Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -110,7 +110,7 @@ Latest stable versions of popular Python packages.
 | ruff | 0.15.12 |
 | pyright | 1.1.409 |
 | selenium | 4.43.0 |
-| playwright | 1.58.0 |
+| playwright | 1.59.0 |
 | locust | 2.43.4 |
 
 ### CLI & Utils
@@ -196,7 +196,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | graphene | 3.4.3 |
-| strawberry-graphql | 0.315.2 |
+| strawberry-graphql | 0.315.3 |
 
 ### Config / Env
 
