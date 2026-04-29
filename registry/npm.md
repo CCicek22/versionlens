@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-29T14:51:58.629Z
+> Last updated: 2026-04-29T15:45:40.911Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
