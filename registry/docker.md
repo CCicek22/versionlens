@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-30T14:48:42.979Z
+> Last updated: 2026-04-30T15:40:35.157Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
