@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-04-30T21:26:37.037Z
+> Last updated: 2026-04-30T22:24:26.209Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -275,7 +275,7 @@ Latest stable versions of popular npm packages.
 | luxon | 3.7.2 |
 | moment | 2.30.1 |
 | uuid | 14.0.0 |
-| nanoid | 5.1.10 |
+| nanoid | 5.1.11 |
 | semver | 7.7.4 |
 | glob | 13.0.6 |
 | minimatch | 10.2.5 |
