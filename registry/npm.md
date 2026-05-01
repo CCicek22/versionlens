@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-01T13:35:35.303Z
+> Last updated: 2026-05-01T14:30:26.149Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -261,7 +261,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| marked | 18.0.2 |
+| marked | 18.0.3 |
 | remark | 15.0.1 |
 | mdx | 0.3.1 |
 
