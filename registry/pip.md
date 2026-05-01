@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-01T08:47:36.190Z
+> Last updated: 2026-05-01T09:39:33.222Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -148,7 +148,7 @@ Latest stable versions of popular Python packages.
 | asyncpg | 0.31.0 |
 | redis | 7.4.0 |
 | pymongo | 4.17.0 |
-| pymysql | 1.1.2 |
+| pymysql | 1.1.3 |
 | motor | 3.7.1 |
 
 ### Vector Databases
