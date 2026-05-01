@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-01T16:27:46.078Z
+> Last updated: 2026-05-01T17:27:21.381Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -18,7 +18,7 @@ Latest versions of popular developer tools.
 | Supabase CLI | 2.95.4 | supabase/cli |
 | Firebase CLI | 15.16.0 | firebase/firebase-tools |
 | Netlify CLI | 26.0.0 | netlify/cli |
-| Terraform | 1.15.0 | hashicorp/terraform |
+| Terraform | 1.15.1 | hashicorp/terraform |
 | Kubernetes | 1.36.0 | kubernetes/kubernetes |
 | Helm | 4.1.4 | helm/helm |
 | Docker Compose | 5.1.3 | docker/compose |
