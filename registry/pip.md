@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-01T19:32:47.792Z
+> Last updated: 2026-05-01T20:24:01.448Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -93,7 +93,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| boto3 | 1.43.1 |
+| boto3 | 1.43.2 |
 | google-cloud-storage | 3.10.1 |
 | firebase-admin | 7.4.0 |
 | azure-storage-blob | 12.28.0 |
