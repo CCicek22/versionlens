@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-01T15:27:04.916Z
+> Last updated: 2026-05-01T16:27:46.076Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -17,7 +17,7 @@ Latest stable versions of popular npm packages.
 | vue | 3.5.33 |
 | nuxt | 4.4.4 |
 | svelte | 5.55.5 |
-| @sveltejs/kit | 2.58.0 |
+| @sveltejs/kit | 2.59.0 |
 | angular | 1.8.3 |
 | @angular/core | 21.2.11 |
 | solid-js | 1.9.12 |
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 6.35.0 |
 | @anthropic-ai/sdk | 0.92.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.172 |
+| ai | 6.0.173 |
 | langchain | 1.3.5 |
 | @langchain/core | 1.1.42 |
 
@@ -213,7 +213,7 @@ Latest stable versions of popular npm packages.
 | tsup | 8.5.1 |
 | turbo | 2.9.7 |
 | rollup | 4.60.2 |
-| eslint | 10.2.1 |
+| eslint | 10.3.0 |
 | prettier | 3.8.3 |
 | biome | 0.3.3 |
 | oxlint | 1.62.0 |
