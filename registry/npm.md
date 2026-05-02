@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-02T00:53:53.015Z
+> Last updated: 2026-05-02T01:41:02.587Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -90,7 +90,7 @@ Latest stable versions of popular npm packages.
 | zod | 4.4.2 |
 | yup | 1.7.1 |
 | joi | 18.1.2 |
-| react-hook-form | 7.74.0 |
+| react-hook-form | 7.75.0 |
 | @hookform/resolvers | 5.2.2 |
 | valibot | 1.3.1 |
 
