@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-02T09:30:51.297Z
+> Last updated: 2026-05-02T10:24:19.557Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -38,7 +38,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-router-dom | unknown |
+| react-router-dom | 7.14.2 |
 | @tanstack/router | 0.0.1-beta.53 |
 
 ### State & Data Fetching
@@ -101,7 +101,7 @@ Latest stable versions of popular npm packages.
 | express | 5.2.1 |
 | fastify | 5.8.5 |
 | hono | 4.12.16 |
-| koa | unknown |
+| koa | 3.2.0 |
 | nest | 0.1.6 |
 | @nestjs/core | 11.1.19 |
 | trpc | 0.11.3 |
@@ -199,7 +199,7 @@ Latest stable versions of popular npm packages.
 | cypress | 15.14.2 |
 | supertest | 7.2.2 |
 | puppeteer | 24.42.0 |
-| selenium-webdriver | unknown |
+| selenium-webdriver | 4.43.0 |
 | @storybook/react | 10.3.6 |
 
 ### Build & Dev Tools
@@ -271,7 +271,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | lodash | 4.18.1 |
 | date-fns | 4.1.0 |
-| dayjs | unknown |
+| dayjs | 1.11.20 |
 | luxon | 3.7.2 |
 | moment | 2.30.1 |
 | uuid | 14.0.0 |
