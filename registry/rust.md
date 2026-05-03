@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-03T05:14:17.256Z
+> Last updated: 2026-05-03T06:59:46.102Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -28,7 +28,7 @@ Latest stable versions from crates.io.
 | diesel | 2.3.9 |
 | sea-orm | 2.0.0-rc.38 |
 | rusqlite | 0.39.0 |
-| redis | 1.2.0 |
+| redis | 1.2.1 |
 | deadpool-redis | 0.23.0 |
 | clap | 4.6.1 |
 | structopt | 0.3.26 |
