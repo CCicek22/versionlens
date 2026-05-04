@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T15:47:38.310Z
+> Last updated: 2026-05-04T16:40:32.374Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -89,7 +89,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | zod | 4.4.3 |
 | yup | 1.7.1 |
-| joi | 18.2.0 |
+| joi | 18.2.1 |
 | react-hook-form | 7.75.0 |
 | @hookform/resolvers | 5.2.2 |
 | valibot | 1.3.1 |
@@ -165,7 +165,7 @@ Latest stable versions of popular npm packages.
 | firebase | 12.12.1 |
 | firebase-admin | 13.8.0 |
 | firebase-tools | 15.16.0 |
-| @supabase/supabase-js | 2.105.2 |
+| @supabase/supabase-js | 2.105.3 |
 
 ### Cloud SDKs
 
