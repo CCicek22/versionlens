@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T13:41:51.894Z
+> Last updated: 2026-05-04T14:51:38.237Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -15,7 +15,7 @@ Latest versions of popular developer tools.
 | Poetry | 2.4.0 | python-poetry/poetry |
 | GitHub CLI (gh) | 2.92.0 | cli/cli |
 | Vercel CLI | 0.0.21 | vercel/vercel |
-| Supabase CLI | 2.95.4 | supabase/cli |
+| Supabase CLI | 2.98.1 | supabase/cli |
 | Firebase CLI | 15.16.0 | firebase/firebase-tools |
 | Netlify CLI | 26.0.0 | netlify/cli |
 | Terraform | 1.15.1 | hashicorp/terraform |
