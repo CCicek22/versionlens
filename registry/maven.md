@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T14:51:38.237Z
+> Last updated: 2026-05-04T15:47:38.311Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -15,34 +15,34 @@ Latest stable versions from Maven Central.
 | Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
 | Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | unknown |
 | Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
-| Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | 3.5.3 |
+| Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | unknown |
 
 ### Spring Framework
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Spring Core | `org.springframework:spring-core` | unknown |
-| Spring WebFlux | `org.springframework:spring-webflux` | unknown |
+| Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
 
 ### Kotlin
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
-| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
+| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | unknown |
 
 ### Build
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Maven | `org.apache.maven:maven-core` | unknown |
+| Maven | `org.apache.maven:maven-core` | 4.0.0-rc-5 |
 
 ### Database & ORM
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate ORM | `org.hibernate.orm:hibernate-core` | unknown |
-| MyBatis | `org.mybatis:mybatis` | unknown |
+| Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
+| MyBatis | `org.mybatis:mybatis` | 3.5.19 |
 | Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
 | Liquibase | `org.liquibase:liquibase-core` | unknown |
 
@@ -51,21 +51,21 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
-| Gson | `com.google.code.gson:gson` | 2.13.1 |
+| Gson | `com.google.code.gson:gson` | unknown |
 
 ### HTTP
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
-| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
+| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
 
 ### Logging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | SLF4J | `org.slf4j:slf4j-api` | 2.1.0-alpha1 |
-| Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
+| Logback | `ch.qos.logback:logback-classic` | unknown |
 | Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
 
 ### Testing
@@ -81,7 +81,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Lombok | `org.projectlombok:lombok` | 1.18.38 |
-| MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
+| MapStruct | `org.mapstruct:mapstruct` | unknown |
 | Guava | `com.google.guava:guava` | 33.4.8-jre |
 | Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
 
@@ -101,20 +101,20 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Project Reactor | `io.projectreactor:reactor-core` | unknown |
+| Project Reactor | `io.projectreactor:reactor-core` | 3.8.0-M3 |
 
 ### Alternative Frameworks
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Quarkus | `io.quarkus:quarkus-core` | 3.23.0 |
+| Quarkus | `io.quarkus:quarkus-core` | unknown |
 | Micronaut | `io.micronaut:micronaut-core` | 4.9.4 |
 
 ### HTTP Client
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | 5.6 |
+| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | unknown |
 
 ### Security
 
