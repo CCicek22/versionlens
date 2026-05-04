@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T21:29:16.077Z
+> Last updated: 2026-05-04T22:26:21.767Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -21,7 +21,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Core | `org.springframework:spring-core` | unknown |
+| Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
 | Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
 
 ### Kotlin
@@ -29,7 +29,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
-| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
+| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | unknown |
 
 ### Build
 
@@ -43,30 +43,30 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
 | MyBatis | `org.mybatis:mybatis` | 3.5.19 |
-| Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
+| Flyway | `org.flywaydb:flyway-core` | unknown |
 | Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
 
 ### JSON
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
-| Gson | `com.google.code.gson:gson` | 2.14.0 |
+| Jackson | `com.fasterxml.jackson.core:jackson-databind` | unknown |
+| Gson | `com.google.code.gson:gson` | 2.13.1 |
 
 ### HTTP
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | OkHttp | `com.squareup.okhttp3:okhttp` | unknown |
-| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
+| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
 
 ### Logging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | SLF4J | `org.slf4j:slf4j-api` | unknown |
-| Logback | `ch.qos.logback:logback-classic` | unknown |
-| Log4j | `org.apache.logging.log4j:log4j-core` | unknown |
+| Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
+| Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
 
 ### Testing
 
@@ -80,10 +80,10 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Lombok | `org.projectlombok:lombok` | 1.18.38 |
+| Lombok | `org.projectlombok:lombok` | unknown |
 | MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
 | Guava | `com.google.guava:guava` | 33.4.8-jre |
-| Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
+| Commons Lang3 | `org.apache.commons:commons-lang3` | unknown |
 
 ### Messaging
 
@@ -101,20 +101,20 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Project Reactor | `io.projectreactor:reactor-core` | 3.8.0-M3 |
+| Project Reactor | `io.projectreactor:reactor-core` | unknown |
 
 ### Alternative Frameworks
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Quarkus | `io.quarkus:quarkus-core` | unknown |
+| Quarkus | `io.quarkus:quarkus-core` | 3.23.0 |
 | Micronaut | `io.micronaut:micronaut-core` | 4.9.4 |
 
 ### HTTP Client
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | unknown |
+| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | 5.6.1 |
 
 ### Security
 
@@ -132,7 +132,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Micrometer | `io.micrometer:micrometer-core` | 1.15.0 |
+| Micrometer | `io.micrometer:micrometer-core` | unknown |
 
 ### OpenAPI / Docs
 
@@ -144,5 +144,5 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | 9.0.1.Final |
+| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | unknown |
 
