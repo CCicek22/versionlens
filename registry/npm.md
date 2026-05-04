@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T16:40:32.374Z
+> Last updated: 2026-05-04T17:37:27.602Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -179,10 +179,10 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| openai | 6.35.0 |
-| @anthropic-ai/sdk | 0.92.0 |
+| openai | 6.36.0 |
+| @anthropic-ai/sdk | 0.93.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 6.0.174 |
+| ai | 6.0.175 |
 | langchain | 1.3.5 |
 | @langchain/core | 1.1.44 |
 
@@ -224,7 +224,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | @swc/core | 1.15.33 |
 | babel-loader | 10.1.1 |
-| postcss | 8.5.13 |
+| postcss | 8.5.14 |
 | autoprefixer | 10.5.0 |
 
 ### Email

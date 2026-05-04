@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T16:40:32.376Z
+> Last updated: 2026-05-04T17:37:27.605Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -31,12 +31,12 @@ Latest stable versions from proxy.golang.org.
 | godotenv | `github.com/joho/godotenv` | 1.5.1 |
 | UUID | `github.com/google/uuid` | 1.6.0 |
 | JWT-Go | `github.com/golang-jwt/jwt/v5` | 5.3.1 |
-| Chi | `github.com/go-chi/chi/v5` | 5.2.5 |
+| Chi | `github.com/go-chi/chi/v5` | unknown |
 | Uber Fx | `go.uber.org/fx` | 1.24.0 |
-| OpenTelemetry | `go.opentelemetry.io/otel` | 1.43.0 |
-| Swag (Swagger) | `github.com/swaggo/swag` | 1.16.6 |
-| Gorilla WebSocket | `github.com/gorilla/websocket` | 1.5.3 |
-| Zerolog | `github.com/rs/zerolog` | 1.35.1 |
-| Wire | `github.com/google/wire` | 0.7.0 |
-| Asynq | `github.com/hibiken/asynq` | 0.26.0 |
+| OpenTelemetry | `go.opentelemetry.io/otel` | unknown |
+| Swag (Swagger) | `github.com/swaggo/swag` | unknown |
+| Gorilla WebSocket | `github.com/gorilla/websocket` | unknown |
+| Zerolog | `github.com/rs/zerolog` | unknown |
+| Wire | `github.com/google/wire` | unknown |
+| Asynq | `github.com/hibiken/asynq` | unknown |
 
