@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T22:26:21.767Z
+> Last updated: 2026-05-04T23:23:46.540Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -131,7 +131,7 @@ Latest stable versions of popular Python packages.
 |---------|--------|
 | pyjwt | 2.12.1 |
 | passlib | 1.7.4 |
-| cryptography | 47.0.0 |
+| cryptography | 48.0.0 |
 | bcrypt | 5.0.0 |
 
 ### Payments
