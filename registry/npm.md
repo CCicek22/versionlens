@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T20:35:55.344Z
+> Last updated: 2026-05-04T21:29:16.076Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -31,7 +31,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | react-native | 0.85.2 |
 | expo | 55.0.19 |
-| @expo/cli | 55.0.27 |
+| @expo/cli | 55.0.28 |
 | @react-navigation/native | 7.2.2 |
 
 ### Routing
@@ -211,7 +211,7 @@ Latest stable versions of popular npm packages.
 | webpack | 5.106.2 |
 | esbuild | 0.28.0 |
 | tsup | 8.5.1 |
-| turbo | 2.9.8 |
+| turbo | 2.9.9 |
 | rollup | 4.60.3 |
 | eslint | 10.3.0 |
 | prettier | 3.8.3 |
