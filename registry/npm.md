@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-05T12:35:25.879Z
+> Last updated: 2026-05-05T15:43:04.060Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -29,8 +29,8 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-native | 0.85.2 |
-| expo | 55.0.20 |
+| react-native | 0.85.3 |
+| expo | 55.0.21 |
 | @expo/cli | 55.0.28 |
 | @react-navigation/native | 7.2.2 |
 
@@ -38,7 +38,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-router-dom | 7.14.2 |
+| react-router-dom | 7.15.0 |
 | @tanstack/router | 0.0.1-beta.53 |
 
 ### State & Data Fetching
@@ -216,7 +216,7 @@ Latest stable versions of popular npm packages.
 | eslint | 10.3.0 |
 | prettier | 3.8.3 |
 | biome | 0.3.3 |
-| oxlint | 1.62.0 |
+| oxlint | 1.63.0 |
 
 ### Bundlers & Config
 

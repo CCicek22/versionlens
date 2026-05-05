@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-05T12:35:25.881Z
+> Last updated: 2026-05-05T15:43:04.061Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,7 +14,7 @@ Latest stable versions of popular Python packages.
 | fastapi | 0.136.1 |
 | uvicorn | 0.46.0 |
 | flask | 3.1.3 |
-| django | 6.0.4 |
+| django | 6.0.5 |
 | starlette | 1.0.0 |
 | gunicorn | 26.0.0 |
 | sanic | 25.12.0 |
