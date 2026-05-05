@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-05T03:14:17.122Z
+> Last updated: 2026-05-05T05:10:08.421Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,16 +13,16 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
 | Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
-| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | unknown |
-| Spring Security | `org.springframework.boot:spring-boot-starter-security` | unknown |
+| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
+| Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
 | Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | 3.5.3 |
 
 ### Spring Framework
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
-| Spring WebFlux | `org.springframework:spring-webflux` | unknown |
+| Spring Core | `org.springframework:spring-core` | unknown |
+| Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
 
 ### Kotlin
 
@@ -35,7 +35,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Maven | `org.apache.maven:maven-core` | unknown |
+| Maven | `org.apache.maven:maven-core` | 4.0.0-rc-5 |
 
 ### Database & ORM
 
@@ -43,22 +43,22 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
 | MyBatis | `org.mybatis:mybatis` | 3.5.19 |
-| Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
+| Flyway | `org.flywaydb:flyway-core` | unknown |
 | Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
 
 ### JSON
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
-| Gson | `com.google.code.gson:gson` | unknown |
+| Jackson | `com.fasterxml.jackson.core:jackson-databind` | unknown |
+| Gson | `com.google.code.gson:gson` | 2.14.0 |
 
 ### HTTP
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
-| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
+| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
 
 ### Logging
 
@@ -95,7 +95,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| gRPC | `io.grpc:grpc-core` | 1.73.0 |
+| gRPC | `io.grpc:grpc-core` | unknown |
 
 ### Reactive
 
@@ -114,7 +114,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | 5.6 |
+| Apache HttpClient 5 | `org.apache.httpcomponents.client5:httpclient5` | 5.6.1 |
 
 ### Security
 
@@ -126,7 +126,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Testcontainers | `org.testcontainers:testcontainers` | unknown |
+| Testcontainers | `org.testcontainers:testcontainers` | 1.21.3 |
 
 ### Monitoring
 
@@ -144,5 +144,5 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | 9.0.1.Final |
+| Hibernate Validator | `org.hibernate.validator:hibernate-validator` | unknown |
 

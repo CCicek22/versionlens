@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-05T03:14:17.122Z
+> Last updated: 2026-05-05T05:10:08.422Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,15 +13,15 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | node | 25.9.0 | 25.9.0-slim | 25.9.0-alpine | 25.9.0-trixie |
 | python | latest | - | - | - |
 | ruby | latest | - | - | - |
-| php | latest | - | - | - |
-| golang | latest | - | - | - |
+| php | 8.5.5 | - | 8.5.5-alpine | 8.5.5-trixie |
+| golang | 1.26.2 | - | 1.26.2-alpine | 1.26.2-trixie |
 | openjdk | latest | - | - | - |
 | rust | latest | - | - | - |
-| postgres | latest | - | - | - |
+| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
 | mysql | 9.7.0 | - | - | - |
-| mariadb | latest | - | - | - |
+| mariadb | 12.2.2 | - | - | - |
 | mongo | latest | - | - | - |
-| redis | 8.6.2 | - | 8.6.2-alpine | 8.6.2-trixie |
+| redis | latest | - | - | - |
 | nginx | latest | - | - | - |
 | httpd | latest | - | - | - |
 | traefik | latest | - | - | - |
@@ -29,7 +29,7 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | rabbitmq | 4.2.6 | - | 4.2.6-alpine | - |
 | memcached | latest | - | - | - |
 | elasticsearch | 9.3.4 | - | - | - |
-| ubuntu | latest | - | - | - |
+| ubuntu | 26.04 | - | - | - |
 | debian | latest | - | - | - |
 | alpine | latest | - | - | - |
 | grafana/grafana | 13.0.1 | - | - | - |
