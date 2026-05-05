@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-04T23:23:46.539Z
+> Last updated: 2026-05-05T00:52:00.380Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -47,7 +47,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | @tanstack/react-query | 5.100.9 |
 | @tanstack/react-table | 8.21.3 |
-| zustand | 5.0.12 |
+| zustand | 5.0.13 |
 | jotai | 2.19.1 |
 | redux | 5.0.1 |
 | @reduxjs/toolkit | 2.11.2 |
