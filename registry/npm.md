@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-05T22:26:09.321Z
+> Last updated: 2026-05-05T23:23:28.970Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -92,7 +92,7 @@ Latest stable versions of popular npm packages.
 | joi | 18.2.1 |
 | react-hook-form | 7.75.0 |
 | @hookform/resolvers | 5.2.2 |
-| valibot | 1.3.1 |
+| valibot | 1.4.0 |
 
 ### API & Server
 
@@ -183,7 +183,7 @@ Latest stable versions of popular npm packages.
 | @anthropic-ai/sdk | 0.94.0 |
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.175 |
-| langchain | 1.3.5 |
+| langchain | 1.4.0 |
 | @langchain/core | 1.1.44 |
 
 ### Testing
