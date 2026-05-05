@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-05T18:39:30.653Z
+> Last updated: 2026-05-05T19:38:24.871Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -72,7 +72,7 @@ Latest stable versions of popular Python packages.
 | anthropic | 0.99.0 |
 | google-generativeai | 0.8.6 |
 | langchain | 1.2.17 |
-| langchain-core | 1.3.2 |
+| langchain-core | 1.3.3 |
 | transformers | 5.8.0 |
 | torch | 2.11.0 |
 | tensorflow | 2.21.0 |
@@ -93,7 +93,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| boto3 | 1.43.3 |
+| boto3 | 1.43.4 |
 | google-cloud-storage | 3.10.1 |
 | firebase-admin | 7.4.0 |
 | azure-storage-blob | 12.28.0 |
