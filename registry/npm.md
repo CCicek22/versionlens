@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-05T15:43:04.060Z
+> Last updated: 2026-05-05T16:40:32.391Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -30,8 +30,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | react-native | 0.85.3 |
-| expo | 55.0.21 |
-| @expo/cli | 55.0.28 |
+| expo | 55.0.23 |
+| @expo/cli | 55.0.29 |
 | @react-navigation/native | 7.2.2 |
 
 ### Routing
@@ -116,7 +116,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | @apollo/client | 4.1.9 |
-| @apollo/server | 5.5.0 |
+| @apollo/server | 5.5.1 |
 | graphql | 16.13.2 |
 | urql | 5.0.2 |
 
@@ -180,7 +180,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | openai | 6.36.0 |
-| @anthropic-ai/sdk | 0.93.0 |
+| @anthropic-ai/sdk | 0.94.0 |
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.175 |
 | langchain | 1.3.5 |
