@@ -1,7 +1,7 @@
 # Rust Crate Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T17:37:54.780Z
+> Last updated: 2026-05-06T18:42:54.239Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -49,7 +49,7 @@ Latest stable versions from crates.io.
 | tonic | 0.14.5 |
 | prost | 0.14.3 |
 | tower | 0.5.3 |
-| tower-http | 0.6.9 |
+| tower-http | 0.6.10 |
 | config | 0.15.22 |
 | dotenvy | 0.15.7 |
 | askama | 0.16.0 |
