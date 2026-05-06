@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T16:42:19.283Z
+> Last updated: 2026-05-06T17:37:54.778Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,7 +13,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | react | 19.2.6 |
 | react-dom | 19.2.6 |
-| next | 16.2.4 |
+| next | 16.2.5 |
 | vue | 3.5.34 |
 | nuxt | 4.4.4 |
 | svelte | 5.55.5 |
