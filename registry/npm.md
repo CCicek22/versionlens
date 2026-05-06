@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T11:39:20.450Z
+> Last updated: 2026-05-06T12:48:09.335Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -117,7 +117,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | @apollo/client | 4.1.9 |
 | @apollo/server | 5.5.1 |
-| graphql | 16.13.2 |
+| graphql | 16.14.0 |
 | urql | 5.0.2 |
 
 ### WebSocket / Realtime
