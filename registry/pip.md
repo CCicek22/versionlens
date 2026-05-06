@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T13:42:13.437Z
+> Last updated: 2026-05-06T15:00:52.438Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -33,7 +33,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| pydantic | 2.13.3 |
+| pydantic | 2.13.4 |
 | sqlalchemy | 2.0.49 |
 | alembic | 1.18.4 |
 | tortoise-orm | 1.1.7 |
@@ -77,7 +77,7 @@ Latest stable versions of popular Python packages.
 | torch | 2.11.0 |
 | tensorflow | 2.21.0 |
 | scikit-learn | 1.8.0 |
-| huggingface-hub | 1.13.0 |
+| huggingface-hub | 1.14.0 |
 | diffusers | 0.38.0 |
 | accelerate | 1.13.0 |
 
