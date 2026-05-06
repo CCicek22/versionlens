@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T21:29:27.226Z
+> Last updated: 2026-05-06T22:22:12.326Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -154,7 +154,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| stripe | 22.1.0 |
+| stripe | 22.1.1 |
 | @stripe/stripe-js | 9.4.0 |
 | @stripe/react-stripe-js | 6.3.0 |
 
@@ -164,7 +164,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | firebase | 12.12.1 |
 | firebase-admin | 13.8.0 |
-| firebase-tools | 15.16.0 |
+| firebase-tools | 15.17.0 |
 | @supabase/supabase-js | 2.105.3 |
 
 ### Cloud SDKs
