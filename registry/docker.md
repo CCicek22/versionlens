@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T22:22:12.328Z
+> Last updated: 2026-05-06T23:23:15.920Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -31,9 +31,9 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | elasticsearch | latest | - | - | - |
 | ubuntu | latest | - | - | - |
 | debian | latest | - | - | - |
-| alpine | 3.23.4 | - | - | - |
-| grafana/grafana | 13.0.1 | - | - | - |
-| prom/prometheus | 3.11.3 | - | - | - |
+| alpine | latest | - | - | - |
+| grafana/grafana | latest | - | - | - |
+| prom/prometheus | latest | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
