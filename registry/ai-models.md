@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T05:12:05.114Z
+> Last updated: 2026-05-06T07:06:38.497Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -77,7 +77,7 @@ No API keys needed.
 | Meta-Llama-3-8B-Instruct | `meta-llama/Meta-Llama-3-8B-Instruct` | ? params | 1.7M |
 | Llama-3.2-1B | `meta-llama/Llama-3.2-1B` | ? params | 1.6M |
 | Llama-3.1-8B | `meta-llama/Llama-3.1-8B` | ? params | 1.6M |
-| Llama-2-7b-hf | `meta-llama/Llama-2-7b-hf` | ? params | 1.6M |
+| Llama-2-7b-hf | `meta-llama/Llama-2-7b-hf` | ? params | 1.5M |
 
 ### DeepSeek
 
