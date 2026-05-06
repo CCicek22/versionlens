@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T10:48:23.695Z
+> Last updated: 2026-05-06T11:39:20.453Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -16,23 +16,23 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | php | latest | - | - | - |
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | latest | - | - | - |
+| rust | 1.95.0 | 1.95.0-slim | 1.95.0-alpine | 1.95.0-trixie |
 | postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
-| mysql | latest | - | - | - |
-| mariadb | 12.2.2 | - | - | - |
-| mongo | latest | - | - | - |
+| mysql | 9.7.0 | - | - | - |
+| mariadb | latest | - | - | - |
+| mongo | 8.2.6 | - | - | - |
 | redis | 8.6.3 | - | 8.6.3-alpine | 8.6.3-trixie |
-| nginx | 1.30.0 | - | 1.30.0-alpine | 1.30.0-trixie |
+| nginx | latest | - | - | - |
 | httpd | latest | - | - | - |
-| traefik | latest | - | - | - |
+| traefik | 3.6.16 | - | - | - |
 | haproxy | latest | - | - | - |
-| rabbitmq | 4.2.6 | - | 4.2.6-alpine | - |
-| memcached | latest | - | - | - |
-| elasticsearch | latest | - | - | - |
+| rabbitmq | latest | - | - | - |
+| memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
+| elasticsearch | 9.3.4 | - | - | - |
 | ubuntu | latest | - | - | - |
-| debian | latest | - | - | - |
+| debian | 13.4 | 13.4-slim | - | - |
 | alpine | latest | - | - | - |
-| grafana/grafana | latest | - | - | - |
+| grafana/grafana | 13.0.1 | - | - | - |
 | prom/prometheus | 3.11.3 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
