@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-06T12:48:09.335Z
+> Last updated: 2026-05-06T13:42:13.436Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -109,7 +109,7 @@ Latest stable versions of popular npm packages.
 | @trpc/client | 11.17.0 |
 | axios | 1.16.0 |
 | ky | 2.0.2 |
-| got | 15.0.3 |
+| got | 15.0.4 |
 
 ### GraphQL
 
@@ -302,6 +302,6 @@ Latest stable versions of popular npm packages.
 | bun | 1.3.13 |
 | tsx | 4.21.0 |
 | ts-node | 10.9.2 |
-| pnpm | 10.33.3 |
+| pnpm | 10.33.4 |
 | yarn | 1.22.22 |
 
