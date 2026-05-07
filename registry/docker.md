@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-07T12:48:38.287Z
+> Last updated: 2026-05-07T13:40:20.726Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,27 +11,27 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
 | node | 25.9.0 | 25.9.0-slim | 25.9.0-alpine | 25.9.0-trixie |
-| python | 3.14.4 | 3.14.4-slim | 3.14.4-alpine | 3.14.4-trixie |
+| python | latest | - | - | - |
 | ruby | 4.0.3 | 4.0.3-slim | 4.0.3-alpine | 4.0.3-trixie |
-| php | latest | - | - | - |
-| golang | 1.26.2 | - | 1.26.2-alpine | 1.26.2-trixie |
+| php | 8.5.5 | - | 8.5.5-alpine | 8.5.5-trixie |
+| golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | latest | - | - | - |
+| rust | 1.95.0 | 1.95.0-slim | 1.95.0-alpine | 1.95.0-trixie |
 | postgres | latest | - | - | - |
-| mysql | latest | - | - | - |
+| mysql | 9.7.0 | - | - | - |
 | mariadb | 12.2.2 | - | - | - |
-| mongo | 8.2.6 | - | - | - |
-| redis | latest | - | - | - |
-| nginx | 1.30.0 | - | 1.30.0-alpine | 1.30.0-trixie |
-| httpd | 2.4.66 | - | 2.4.66-alpine | 2.4.66-trixie |
-| traefik | latest | - | - | - |
-| haproxy | latest | - | - | - |
-| rabbitmq | latest | - | - | - |
-| memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
+| mongo | latest | - | - | - |
+| redis | 8.6.3 | - | 8.6.3-alpine | 8.6.3-trixie |
+| nginx | latest | - | - | - |
+| httpd | latest | - | - | - |
+| traefik | 3.6.16 | - | - | - |
+| haproxy | 3.3.9 | - | - | - |
+| rabbitmq | 4.2.6 | - | 4.2.6-alpine | - |
+| memcached | latest | - | - | - |
 | elasticsearch | 9.3.4 | - | - | - |
 | ubuntu | 26.04 | - | - | - |
-| debian | 13.4 | 13.4-slim | - | - |
-| alpine | latest | - | - | - |
+| debian | latest | - | - | - |
+| alpine | 3.23.4 | - | - | - |
 | grafana/grafana | latest | - | - | - |
 | prom/prometheus | 3.11.3 | - | - | - |
 | influxdb | latest | - | - | - |
