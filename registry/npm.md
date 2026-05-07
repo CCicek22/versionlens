@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-07T16:40:44.745Z
+> Last updated: 2026-05-07T17:38:20.451Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -179,7 +179,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| openai | 6.36.0 |
+| openai | 6.37.0 |
 | @anthropic-ai/sdk | 0.95.1 |
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.175 |
@@ -211,7 +211,7 @@ Latest stable versions of popular npm packages.
 | webpack | 5.106.2 |
 | esbuild | 0.28.0 |
 | tsup | 8.5.1 |
-| turbo | 2.9.9 |
+| turbo | 2.9.10 |
 | rollup | 4.60.3 |
 | eslint | 10.3.0 |
 | prettier | 3.8.3 |

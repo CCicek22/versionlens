@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-07T16:40:44.746Z
+> Last updated: 2026-05-07T17:38:20.453Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -68,7 +68,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| openai | 2.35.1 |
+| openai | 2.36.0 |
 | anthropic | 0.100.0 |
 | google-generativeai | 0.8.6 |
 | langchain | 1.2.17 |
