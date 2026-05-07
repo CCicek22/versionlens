@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-07T18:43:01.857Z
+> Last updated: 2026-05-07T19:36:11.563Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -13,7 +13,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | react | 19.2.6 |
 | react-dom | 19.2.6 |
-| next | 16.2.5 |
+| next | 16.2.6 |
 | vue | 3.5.34 |
 | nuxt | 4.4.4 |
 | svelte | 5.55.5 |
@@ -163,7 +163,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | firebase | 12.13.0 |
-| firebase-admin | 13.8.0 |
+| firebase-admin | 13.9.0 |
 | firebase-tools | 15.17.0 |
 | @supabase/supabase-js | 2.105.3 |
 
@@ -171,7 +171,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @aws-sdk/client-s3 | 3.1044.0 |
+| @aws-sdk/client-s3 | 3.1045.0 |
 | @google-cloud/storage | 7.19.0 |
 | @azure/storage-blob | 12.31.0 |
 
