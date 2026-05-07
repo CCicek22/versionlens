@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-07T03:16:25.072Z
+> Last updated: 2026-05-07T05:14:29.083Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -59,7 +59,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @mui/material | 9.0.0 |
+| @mui/material | 9.0.1 |
 | @chakra-ui/react | 3.35.0 |
 | @mantine/core | 9.1.1 |
 | @radix-ui/react-dialog | 1.1.15 |
@@ -184,7 +184,7 @@ Latest stable versions of popular npm packages.
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.175 |
 | langchain | 1.4.0 |
-| @langchain/core | 1.1.44 |
+| @langchain/core | 1.1.45 |
 
 ### Testing
 
