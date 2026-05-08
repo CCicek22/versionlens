@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-08T18:38:52.668Z
+> Last updated: 2026-05-08T19:36:05.665Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -65,6 +65,19 @@ No API keys needed.
 ## Open-Weight Models (from HuggingFace)
 
 > Auto-fetched from HuggingFace API. Sorted by downloads.
+
+### Meta (Llama)
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 9.6M |
+| Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 6.8M |
+| Meta-Llama-3-8B | `meta-llama/Meta-Llama-3-8B` | ? params | 3.4M |
+| Llama-3.2-3B-Instruct | `meta-llama/Llama-3.2-3B-Instruct` | ? params | 2.4M |
+| Meta-Llama-3-8B-Instruct | `meta-llama/Meta-Llama-3-8B-Instruct` | ? params | 1.7M |
+| Llama-3.2-1B | `meta-llama/Llama-3.2-1B` | ? params | 1.6M |
+| Llama-3.1-8B | `meta-llama/Llama-3.1-8B` | ? params | 1.6M |
+| Llama-2-7b-hf | `meta-llama/Llama-2-7b-hf` | ? params | 1.4M |
 
 ### DeepSeek
 
