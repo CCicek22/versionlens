@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-08T16:38:05.410Z
+> Last updated: 2026-05-08T17:36:57.738Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -134,6 +134,15 @@ No API keys needed.
 | Phi-3-mini-4k-instruct | `microsoft/Phi-3-mini-4k-instruct` | ? params | 0.8M |
 | phi-4 | `microsoft/phi-4` | ? params | 0.8M |
 | Phi-tiny-MoE-instruct | `microsoft/Phi-tiny-MoE-instruct` | ? params | 0.7M |
+
+### NVIDIA
+
+| Model | HuggingFace ID | Size | Downloads |
+|-------|----------------|------|-----------|
+| Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 2.3M |
+| Kimi-K2.5-NVFP4 | `nvidia/Kimi-K2.5-NVFP4` | ? params | 1.5M |
+| DeepSeek-R1-0528-NVFP4-v2 | `nvidia/DeepSeek-R1-0528-NVFP4-v2` | ? params | 1.5M |
+| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.2M |
 
 ### OpenAI (Open-weight)
 

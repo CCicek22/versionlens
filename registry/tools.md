@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-08T16:38:05.410Z
+> Last updated: 2026-05-08T17:36:57.738Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 

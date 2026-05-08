@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-08T16:38:05.407Z
+> Last updated: 2026-05-08T17:36:57.736Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -136,7 +136,7 @@ Latest stable versions of popular npm packages.
 | @prisma/client | 7.8.0 |
 | typeorm | 0.3.29 |
 | knex | 3.2.10 |
-| mongoose | 9.6.1 |
+| mongoose | 9.6.2 |
 | sequelize | 6.37.8 |
 | ioredis | 5.10.1 |
 | pg | 8.20.0 |
