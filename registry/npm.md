@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-08T12:39:52.223Z
+> Last updated: 2026-05-08T13:40:10.894Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -32,7 +32,7 @@ Latest stable versions of popular npm packages.
 | react-native | 0.85.3 |
 | expo | 55.0.23 |
 | @expo/cli | 55.0.29 |
-| @react-navigation/native | 7.2.3 |
+| @react-navigation/native | 7.2.4 |
 
 ### Routing
 
@@ -134,7 +134,7 @@ Latest stable versions of popular npm packages.
 | drizzle-orm | 0.45.2 |
 | prisma | 7.8.0 |
 | @prisma/client | 7.8.0 |
-| typeorm | 0.3.28 |
+| typeorm | 0.3.29 |
 | knex | 3.2.10 |
 | mongoose | 9.6.1 |
 | sequelize | 6.37.8 |
