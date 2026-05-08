@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-08T20:28:42.124Z
+> Last updated: 2026-05-08T21:27:36.377Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -276,7 +276,7 @@ Latest stable versions of popular npm packages.
 | moment | 2.30.1 |
 | uuid | 14.0.0 |
 | nanoid | 5.1.11 |
-| semver | 7.7.4 |
+| semver | 7.8.0 |
 | glob | 13.0.6 |
 | minimatch | 10.2.5 |
 | dotenv | 17.4.2 |
