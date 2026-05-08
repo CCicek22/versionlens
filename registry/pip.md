@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-08T13:40:10.895Z
+> Last updated: 2026-05-08T14:42:26.242Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -71,7 +71,7 @@ Latest stable versions of popular Python packages.
 | openai | 2.36.0 |
 | anthropic | 0.100.0 |
 | google-generativeai | 0.8.6 |
-| langchain | 1.2.17 |
+| langchain | 1.2.18 |
 | langchain-core | 1.3.3 |
 | transformers | 5.8.0 |
 | torch | 2.11.0 |
@@ -203,7 +203,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | dynaconf | 3.2.13 |
-| pydantic-settings | 2.14.0 |
+| pydantic-settings | 2.14.1 |
 
 ### Build Tools
 
