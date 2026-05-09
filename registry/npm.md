@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-09T03:15:05.409Z
+> Last updated: 2026-05-09T05:10:46.000Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -171,7 +171,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @aws-sdk/client-s3 | 3.1045.0 |
+| @aws-sdk/client-s3 | unknown |
 | @google-cloud/storage | 7.19.0 |
 | @azure/storage-blob | 12.31.0 |
 
@@ -211,7 +211,7 @@ Latest stable versions of popular npm packages.
 | webpack | 5.106.2 |
 | esbuild | 0.28.0 |
 | tsup | 8.5.1 |
-| turbo | 2.9.11 |
+| turbo | 2.9.12 |
 | rollup | 4.60.3 |
 | eslint | 10.3.0 |
 | prettier | 3.8.3 |
