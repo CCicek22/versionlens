@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-08T23:25:11.805Z
+> Last updated: 2026-05-09T00:56:12.474Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -191,7 +191,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | vitest | 4.1.5 |
-| jest | 30.4.1 |
+| jest | 30.4.2 |
 | @testing-library/react | 16.3.2 |
 | @testing-library/jest-dom | 6.9.1 |
 | playwright | 1.59.1 |
@@ -302,6 +302,6 @@ Latest stable versions of popular npm packages.
 | bun | 1.3.13 |
 | tsx | 4.21.0 |
 | ts-node | 10.9.2 |
-| pnpm | 11.0.8 |
+| pnpm | 11.0.9 |
 | yarn | 1.22.22 |
 
