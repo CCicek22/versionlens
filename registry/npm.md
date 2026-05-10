@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-10T16:24:25.225Z
+> Last updated: 2026-05-10T17:24:52.336Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -281,7 +281,7 @@ Latest stable versions of popular npm packages.
 | minimatch | 10.2.5 |
 | dotenv | 17.4.2 |
 | commander | 14.0.3 |
-| inquirer | 13.4.2 |
+| inquirer | 13.4.3 |
 | chalk | 5.6.2 |
 | ora | 9.4.0 |
 | zx | 8.8.5 |
