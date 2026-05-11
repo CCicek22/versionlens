@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-11T15:09:41.375Z
+> Last updated: 2026-05-11T17:01:06.357Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -16,19 +16,19 @@ Latest versions of popular developer tools.
 | GitHub CLI (gh) | 2.92.0 | cli/cli |
 | Vercel CLI | 2.9.24 | vercel/vercel |
 | Supabase CLI | 2.98.2 | supabase/cli |
-| Firebase CLI | 15.17.0 | firebase/firebase-tools |
+| Firebase CLI | unknown | firebase/firebase-tools |
 | Netlify CLI | 26.0.1 | netlify/cli |
 | Terraform | 1.15.2 | hashicorp/terraform |
 | Kubernetes | 1.36.0 | kubernetes/kubernetes |
 | Helm | 4.1.4 | helm/helm |
-| Docker Compose | 5.1.3 | docker/compose |
-| Pulumi | 3.237.0 | pulumi/pulumi |
+| Docker Compose | unknown | docker/compose |
+| Pulumi | unknown | pulumi/pulumi |
 | Argo CD | 3.4.1 | argoproj/argo-cd |
-| Tailwind CSS | 4.3.0 | tailwindlabs/tailwindcss |
-| Biome | 2.4.15 | biomejs/biome |
+| Tailwind CSS | unknown | tailwindlabs/tailwindcss |
+| Biome | unknown | biomejs/biome |
 | Ruff | 0.15.12 | astral-sh/ruff |
-| Gradle | 9.5.0 | gradle/gradle |
+| Gradle | unknown | gradle/gradle |
 | Neovim | 0.12.2 | neovim/neovim |
-| Grafana | 13.0.1 | grafana/grafana |
+| Grafana | unknown | grafana/grafana |
 | Prometheus | 3.11.3 | prometheus/prometheus |
 
