@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-11T05:26:31.212Z
+> Last updated: 2026-05-11T07:26:06.991Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
