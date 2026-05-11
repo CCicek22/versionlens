@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-11T13:11:46.552Z
+> Last updated: 2026-05-11T15:09:41.374Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -155,7 +155,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| qdrant-client | 1.17.1 |
+| qdrant-client | 1.18.0 |
 | pinecone-client | 6.0.0 |
 | chromadb | 1.5.9 |
 | weaviate-client | 4.21.0 |
