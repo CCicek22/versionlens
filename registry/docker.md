@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-11T17:01:06.356Z
+> Last updated: 2026-05-11T18:46:12.647Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -10,30 +10,30 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
-| node | latest | - | - | - |
-| python | latest | - | - | - |
-| ruby | 4.0.3 | 4.0.3-slim | 4.0.3-alpine | 4.0.3-trixie |
-| php | latest | - | - | - |
-| golang | latest | - | - | - |
+| node | 26.1.0 | 26.1.0-slim | 26.1.0-alpine | 26.1.0-trixie |
+| python | 3.14.5 | - | - | - |
+| ruby | latest | - | - | - |
+| php | 8.5.6 | - | 8.5.6-alpine | 8.5.6-trixie |
+| golang | 1.26.3 | - | 1.26.3-alpine | 1.26.3-trixie |
 | openjdk | latest | - | - | - |
-| rust | latest | - | - | - |
-| postgres | 18.3 | - | 18.3-alpine | 18.3-trixie |
+| rust | 1.95.0 | 1.95.0-slim | 1.95.0-alpine | 1.95.0-trixie |
+| postgres | latest | - | - | - |
 | mysql | 9.7.0 | - | - | - |
 | mariadb | latest | - | - | - |
 | mongo | 8.3.1 | - | - | - |
 | redis | latest | - | - | - |
 | nginx | latest | - | - | - |
-| httpd | latest | - | - | - |
+| httpd | 2.4.67 | - | 2.4.67-alpine | 2.4.67-trixie |
 | traefik | latest | - | - | - |
 | haproxy | 3.3.9 | - | 3.3.9-alpine | 3.3.9-trixie |
-| rabbitmq | latest | - | - | - |
+| rabbitmq | 4.3.0 | - | 4.3.0-alpine | - |
 | memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
 | elasticsearch | 9.3.4 | - | - | - |
-| ubuntu | 26.04 | - | - | - |
+| ubuntu | latest | - | - | - |
 | debian | 13.4 | 13.4-slim | - | - |
-| alpine | 3.23.4 | - | - | - |
-| grafana/grafana | 13.0.1 | - | - | - |
-| prom/prometheus | 3.11.3 | - | - | - |
+| alpine | latest | - | - | - |
+| grafana/grafana | latest | - | - | - |
+| prom/prometheus | latest | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
