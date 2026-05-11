@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-11T03:18:06.823Z
+> Last updated: 2026-05-11T05:26:31.211Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -247,7 +247,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| bullmq | 5.76.6 |
+| bullmq | 5.76.7 |
 | bee-queue | 2.0.0 |
 
 ### i18n
