@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-11T18:46:12.645Z
+> Last updated: 2026-05-11T19:37:37.583Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -194,8 +194,8 @@ Latest stable versions of popular npm packages.
 | jest | 30.4.2 |
 | @testing-library/react | 16.3.2 |
 | @testing-library/jest-dom | 6.9.1 |
-| playwright | 1.59.1 |
-| @playwright/test | 1.59.1 |
+| playwright | 1.60.0 |
+| @playwright/test | 1.60.0 |
 | cypress | 15.14.2 |
 | supertest | 7.2.2 |
 | puppeteer | 24.43.1 |
@@ -216,7 +216,7 @@ Latest stable versions of popular npm packages.
 | eslint | 10.3.0 |
 | prettier | 3.8.3 |
 | biome | 0.3.3 |
-| oxlint | 1.63.0 |
+| oxlint | 1.64.0 |
 
 ### Bundlers & Config
 
@@ -302,6 +302,6 @@ Latest stable versions of popular npm packages.
 | bun | 1.3.13 |
 | tsx | 4.21.0 |
 | ts-node | 10.9.2 |
-| pnpm | 11.0.9 |
+| pnpm | 11.1.0 |
 | yarn | 1.22.22 |
 

@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-11T18:46:12.646Z
+> Last updated: 2026-05-11T19:37:37.584Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -25,7 +25,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | httpx | 0.28.1 |
-| requests | 2.33.1 |
+| requests | 2.34.0 |
 | aiohttp | 3.13.5 |
 | urllib3 | 2.7.0 |
 
@@ -43,7 +43,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| pandas | 3.0.2 |
+| pandas | 3.0.3 |
 | numpy | 2.4.4 |
 | polars | 1.40.1 |
 | scipy | 1.17.1 |
