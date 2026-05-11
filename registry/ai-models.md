@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-11T07:26:06.992Z
+> Last updated: 2026-05-11T09:20:41.505Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -83,12 +83,12 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 11.9M |
+| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 11.1M |
 | DeepSeek-R1 | `deepseek-ai/DeepSeek-R1` | ? params | 3.6M |
+| DeepSeek-V4-Pro | `deepseek-ai/DeepSeek-V4-Pro` | ? params | 2.0M |
 | DeepSeek-R1-0528 | `deepseek-ai/DeepSeek-R1-0528` | ? params | 1.7M |
-| DeepSeek-V4-Pro | `deepseek-ai/DeepSeek-V4-Pro` | ? params | 1.3M |
+| DeepSeek-V4-Flash | `deepseek-ai/DeepSeek-V4-Flash` | ? params | 1.2M |
 | DeepSeek-Coder-V2-Lite-Instruct | `deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct` | ? params | 1.2M |
-| DeepSeek-V3 | `deepseek-ai/DeepSeek-V3` | ? params | 1.1M |
 
 ### Qwen (Alibaba)
 
