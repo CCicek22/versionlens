@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-12T16:51:00.364Z
+> Last updated: 2026-05-12T17:45:33.775Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,29 +11,29 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
 | node | latest | - | - | - |
-| python | 3.14.5 | 3.14.5-slim | 3.14.5-alpine | 3.14.5-trixie |
-| ruby | 4.0.4 | 4.0.4-slim | 4.0.4-alpine | 4.0.4-trixie |
-| php | 8.5.6 | - | 8.5.6-alpine | 8.5.6-trixie |
+| python | latest | - | - | - |
+| ruby | latest | - | - | - |
+| php | latest | - | - | - |
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
-| rust | 1.95.0 | 1.95.0-slim | 1.95.0-alpine | 1.95.0-trixie |
+| rust | latest | - | - | - |
 | postgres | latest | - | - | - |
-| mysql | 9.7.0 | - | - | - |
+| mysql | latest | - | - | - |
 | mariadb | latest | - | - | - |
 | mongo | latest | - | - | - |
-| redis | 8.6.3 | - | 8.6.3-alpine | 8.6.3-trixie |
-| nginx | 1.30.0 | - | 1.30.0-alpine | 1.30.0-trixie |
-| httpd | 2.4.67 | - | 2.4.67-alpine | 2.4.67-trixie |
+| redis | latest | - | - | - |
+| nginx | latest | - | - | - |
+| httpd | latest | - | - | - |
 | traefik | latest | - | - | - |
 | haproxy | latest | - | - | - |
-| rabbitmq | 4.3.0 | - | 4.3.0-alpine | - |
+| rabbitmq | latest | - | - | - |
 | memcached | latest | - | - | - |
 | elasticsearch | latest | - | - | - |
-| ubuntu | 26.04 | - | - | - |
-| debian | 13.4 | 13.4-slim | - | - |
+| ubuntu | latest | - | - | - |
+| debian | latest | - | - | - |
 | alpine | latest | - | - | - |
-| grafana/grafana | 13.0.1 | - | - | - |
-| prom/prometheus | 3.11.3 | - | - | - |
+| grafana/grafana | latest | - | - | - |
+| prom/prometheus | latest | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
