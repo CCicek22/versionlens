@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-12T01:42:10.438Z
+> Last updated: 2026-05-12T03:15:59.687Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -9,22 +9,22 @@ Latest stable versions from proxy.golang.org.
 
 | Module | Import Path | Latest |
 |--------|-------------|--------|
-| Gin | `github.com/gin-gonic/gin` | unknown |
-| Fiber | `github.com/gofiber/fiber/v2` | unknown |
-| Echo | `github.com/labstack/echo/v4` | unknown |
-| Gorilla Mux | `github.com/gorilla/mux` | unknown |
-| GORM | `gorm.io/gorm` | unknown |
-| sqlx | `github.com/jmoiron/sqlx` | unknown |
-| pgx (Postgres) | `github.com/jackc/pgx/v5` | unknown |
-| MongoDB Driver | `go.mongodb.org/mongo-driver` | unknown |
-| go-redis | `github.com/redis/go-redis/v9` | unknown |
-| gRPC-Go | `google.golang.org/grpc` | unknown |
-| Protobuf-Go | `google.golang.org/protobuf` | unknown |
-| Zap Logger | `go.uber.org/zap` | unknown |
-| Logrus | `github.com/sirupsen/logrus` | unknown |
-| Testify | `github.com/stretchr/testify` | unknown |
+| Gin | `github.com/gin-gonic/gin` | 1.12.0 |
+| Fiber | `github.com/gofiber/fiber/v2` | 2.52.13 |
+| Echo | `github.com/labstack/echo/v4` | 4.15.2 |
+| Gorilla Mux | `github.com/gorilla/mux` | 1.8.1 |
+| GORM | `gorm.io/gorm` | 1.31.1 |
+| sqlx | `github.com/jmoiron/sqlx` | 1.4.0 |
+| pgx (Postgres) | `github.com/jackc/pgx/v5` | 5.9.2 |
+| MongoDB Driver | `go.mongodb.org/mongo-driver` | 1.17.9 |
+| go-redis | `github.com/redis/go-redis/v9` | 9.19.0 |
+| gRPC-Go | `google.golang.org/grpc` | 1.81.0 |
+| Protobuf-Go | `google.golang.org/protobuf` | 1.36.11 |
+| Zap Logger | `go.uber.org/zap` | 1.28.0 |
+| Logrus | `github.com/sirupsen/logrus` | 1.9.4 |
+| Testify | `github.com/stretchr/testify` | 1.11.1 |
 | Cobra | `github.com/spf13/cobra` | unknown |
-| Viper | `github.com/spf13/viper` | unknown |
+| Viper | `github.com/spf13/viper` | 1.21.0 |
 | AWS SDK Go v2 | `github.com/aws/aws-sdk-go-v2` | unknown |
 | Google Cloud Go | `cloud.google.com/go` | unknown |
 | Validator | `github.com/go-playground/validator/v10` | unknown |
