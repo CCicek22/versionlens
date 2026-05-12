@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-12T05:20:31.568Z
+> Last updated: 2026-05-12T07:09:17.204Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -184,7 +184,7 @@ Latest stable versions of popular npm packages.
 | @google/generative-ai | 0.24.1 |
 | ai | 6.0.177 |
 | langchain | 1.4.0 |
-| @langchain/core | 1.1.45 |
+| @langchain/core | 1.1.46 |
 
 ### Testing
 
@@ -247,7 +247,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| bullmq | 5.76.7 |
+| bullmq | 5.76.8 |
 | bee-queue | 2.0.0 |
 
 ### i18n
