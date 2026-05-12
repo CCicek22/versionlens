@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-12T17:45:33.772Z
+> Last updated: 2026-05-12T18:45:34.720Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -196,7 +196,7 @@ Latest stable versions of popular npm packages.
 | @testing-library/jest-dom | 6.9.1 |
 | playwright | 1.60.0 |
 | @playwright/test | 1.60.0 |
-| cypress | 15.14.2 |
+| cypress | 15.15.0 |
 | supertest | 7.2.2 |
 | puppeteer | 24.43.1 |
 | selenium-webdriver | 4.43.0 |
