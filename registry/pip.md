@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-13T13:49:02.577Z
+> Last updated: 2026-05-13T15:07:49.191Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -74,7 +74,7 @@ Latest stable versions of popular Python packages.
 | langchain | 1.3.0 |
 | langchain-core | 1.4.0 |
 | transformers | 5.8.1 |
-| torch | 2.11.0 |
+| torch | 2.12.0 |
 | tensorflow | 2.21.0 |
 | scikit-learn | 1.8.0 |
 | huggingface-hub | 1.14.0 |
