@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-13T05:24:01.597Z
+> Last updated: 2026-05-13T07:13:32.224Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -72,12 +72,12 @@ No API keys needed.
 |-------|----------------|------|-----------|
 | Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 9.5M |
 | Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 7.1M |
-| Meta-Llama-3-8B | `meta-llama/Meta-Llama-3-8B` | ? params | 3.2M |
+| Meta-Llama-3-8B | `meta-llama/Meta-Llama-3-8B` | ? params | 3.1M |
 | Llama-3.2-3B-Instruct | `meta-llama/Llama-3.2-3B-Instruct` | ? params | 2.4M |
 | Meta-Llama-3-8B-Instruct | `meta-llama/Meta-Llama-3-8B-Instruct` | ? params | 1.7M |
 | Llama-3.2-1B | `meta-llama/Llama-3.2-1B` | ? params | 1.6M |
 | Llama-3.1-8B | `meta-llama/Llama-3.1-8B` | ? params | 1.5M |
-| Llama-2-7b-hf | `meta-llama/Llama-2-7b-hf` | ? params | 1.2M |
+| Llama-2-7b-hf | `meta-llama/Llama-2-7b-hf` | ? params | 1.1M |
 
 ### DeepSeek
 
@@ -108,7 +108,7 @@ No API keys needed.
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
 | Mistral-7B-Instruct-v0.2 | `mistralai/Mistral-7B-Instruct-v0.2` | ? params | 3.2M |
-| Mistral-7B-v0.1 | `mistralai/Mistral-7B-v0.1` | ? params | 1.0M |
+| Mistral-7B-v0.1 | `mistralai/Mistral-7B-v0.1` | ? params | 1.1M |
 | Mistral-7B-Instruct-v0.1 | `mistralai/Mistral-7B-Instruct-v0.1` | ? params | 0.4M |
 | Devstral-Small-2507_gguf | `mistralai/Devstral-Small-2507_gguf` | ? params | 0.0M |
 | Magistral-Small-2507-GGUF | `mistralai/Magistral-Small-2507-GGUF` | ? params | 0.0M |
