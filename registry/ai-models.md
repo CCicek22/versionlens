@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-13T07:13:32.224Z
+> Last updated: 2026-05-13T09:11:18.498Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -70,8 +70,8 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 9.5M |
-| Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 7.1M |
+| Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 9.7M |
+| Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 7.3M |
 | Meta-Llama-3-8B | `meta-llama/Meta-Llama-3-8B` | ? params | 3.1M |
 | Llama-3.2-3B-Instruct | `meta-llama/Llama-3.2-3B-Instruct` | ? params | 2.4M |
 | Meta-Llama-3-8B-Instruct | `meta-llama/Meta-Llama-3-8B-Instruct` | ? params | 1.7M |
@@ -83,25 +83,25 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 11.1M |
-| DeepSeek-R1 | `deepseek-ai/DeepSeek-R1` | ? params | 3.6M |
-| DeepSeek-V4-Pro | `deepseek-ai/DeepSeek-V4-Pro` | ? params | 2.0M |
-| DeepSeek-R1-0528 | `deepseek-ai/DeepSeek-R1-0528` | ? params | 1.7M |
+| DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 5.3M |
+| DeepSeek-R1 | `deepseek-ai/DeepSeek-R1` | ? params | 3.8M |
+| DeepSeek-V4-Pro | `deepseek-ai/DeepSeek-V4-Pro` | ? params | 2.4M |
+| DeepSeek-R1-0528 | `deepseek-ai/DeepSeek-R1-0528` | ? params | 1.8M |
+| DeepSeek-V4-Flash | `deepseek-ai/DeepSeek-V4-Flash` | ? params | 1.4M |
 | DeepSeek-Coder-V2-Lite-Instruct | `deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct` | ? params | 1.2M |
-| DeepSeek-V4-Flash | `deepseek-ai/DeepSeek-V4-Flash` | ? params | 1.2M |
 
 ### Qwen (Alibaba)
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| Qwen3-0.6B | `Qwen/Qwen3-0.6B` | ? params | 18.2M |
-| Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` | ? params | 13.3M |
-| Qwen2.5-1.5B-Instruct | `Qwen/Qwen2.5-1.5B-Instruct` | ? params | 12.2M |
-| Qwen3-8B | `Qwen/Qwen3-8B` | ? params | 11.5M |
-| Qwen3-4B-Instruct-2507 | `Qwen/Qwen3-4B-Instruct-2507` | ? params | 10.7M |
-| Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` | ? params | 8.5M |
-| Qwen3-32B | `Qwen/Qwen3-32B` | ? params | 6.3M |
-| Qwen2.5-0.5B-Instruct | `Qwen/Qwen2.5-0.5B-Instruct` | ? params | 5.8M |
+| Qwen3-0.6B | `Qwen/Qwen3-0.6B` | ? params | 18.8M |
+| Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` | ? params | 12.8M |
+| Qwen2.5-1.5B-Instruct | `Qwen/Qwen2.5-1.5B-Instruct` | ? params | 12.3M |
+| Qwen3-8B | `Qwen/Qwen3-8B` | ? params | 11.7M |
+| Qwen3-4B-Instruct-2507 | `Qwen/Qwen3-4B-Instruct-2507` | ? params | 10.9M |
+| Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` | ? params | 8.3M |
+| Qwen3-32B | `Qwen/Qwen3-32B` | ? params | 6.7M |
+| Qwen3-Embedding-0.6B | `Qwen/Qwen3-Embedding-0.6B` | ? params | 5.8M |
 
 ### Mistral
 
@@ -117,8 +117,8 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| gemma-3-270m | `google/gemma-3-270m` | ? params | 0.9M |
-| gemma-3-1b-it | `google/gemma-3-1b-it` | ? params | 0.6M |
+| gemma-3-270m | `google/gemma-3-270m` | ? params | 1.3M |
+| gemma-3-1b-it | `google/gemma-3-1b-it` | ? params | 0.7M |
 | gemma-2-9b-it | `google/gemma-2-9b-it` | ? params | 0.4M |
 | gemma-2-2b-it | `google/gemma-2-2b-it` | ? params | 0.4M |
 | gemma-2-2b | `google/gemma-2-2b` | ? params | 0.3M |
@@ -132,15 +132,15 @@ No API keys needed.
 | Phi-4-mini-instruct | `microsoft/Phi-4-mini-instruct` | ? params | 1.5M |
 | Phi-3.5-mini-instruct | `microsoft/Phi-3.5-mini-instruct` | ? params | 0.8M |
 | phi-4 | `microsoft/phi-4` | ? params | 0.8M |
-| Phi-3-mini-4k-instruct | `microsoft/Phi-3-mini-4k-instruct` | ? params | 0.7M |
 | Phi-tiny-MoE-instruct | `microsoft/Phi-tiny-MoE-instruct` | ? params | 0.7M |
+| Phi-3-mini-4k-instruct | `microsoft/Phi-3-mini-4k-instruct` | ? params | 0.7M |
 
 ### NVIDIA
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
 | Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 2.3M |
-| DeepSeek-R1-0528-NVFP4-v2 | `nvidia/DeepSeek-R1-0528-NVFP4-v2` | ? params | 1.5M |
+| DeepSeek-R1-0528-NVFP4-v2 | `nvidia/DeepSeek-R1-0528-NVFP4-v2` | ? params | 1.7M |
 | Kimi-K2.5-NVFP4 | `nvidia/Kimi-K2.5-NVFP4` | ? params | 1.5M |
 | NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.1M |
 
@@ -148,8 +148,8 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 7.2M |
-| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.4M |
+| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 7.3M |
+| gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.5M |
 | gpt-oss-safeguard-20b | `openai/gpt-oss-safeguard-20b` | ? params | 0.1M |
 | gpt-oss-safeguard-120b | `openai/gpt-oss-safeguard-120b` | ? params | 0.0M |
 

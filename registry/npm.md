@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-13T07:13:32.220Z
+> Last updated: 2026-05-13T09:11:18.495Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -103,7 +103,7 @@ Latest stable versions of popular npm packages.
 | hono | 4.12.18 |
 | koa | 3.2.0 |
 | nest | 0.1.6 |
-| @nestjs/core | 11.1.19 |
+| @nestjs/core | 11.1.20 |
 | trpc | 0.11.3 |
 | @trpc/server | 11.17.0 |
 | @trpc/client | 11.17.0 |
