@@ -1,7 +1,7 @@
 # Runtime & Language Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-13T01:45:19.943Z
+> Last updated: 2026-05-13T03:16:48.234Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -9,7 +9,7 @@ Latest stable versions of programming language runtimes.
 
 | Runtime | Latest Stable |
 |---------|---------------|
-| Node.js | unknown |
+| Node.js | 24.15.0 (LTS) / 26.1.0 (Current) |
 | Python | 3.14.5 |
 | Bun | 1.3.13 |
 | Deno | 2.7.14 |
