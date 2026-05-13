@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-13T20:39:56.969Z
+> Last updated: 2026-05-13T21:36:30.662Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -16,13 +16,13 @@ Latest versions of popular developer tools.
 | GitHub CLI (gh) | 2.92.0 | cli/cli |
 | Vercel CLI | 2.9.26 | vercel/vercel |
 | Supabase CLI | 2.98.2 | supabase/cli |
-| Firebase CLI | 15.17.0 | firebase/firebase-tools |
+| Firebase CLI | 15.18.0 | firebase/firebase-tools |
 | Netlify CLI | 26.0.1 | netlify/cli |
 | Terraform | 1.15.3 | hashicorp/terraform |
 | Kubernetes | 1.36.1 | kubernetes/kubernetes |
 | Helm | 4.1.4 | helm/helm |
 | Docker Compose | 5.1.3 | docker/compose |
-| Pulumi | 3.237.0 | pulumi/pulumi |
+| Pulumi | 3.238.0 | pulumi/pulumi |
 | Argo CD | 3.4.2 | argoproj/argo-cd |
 | Tailwind CSS | 4.3.0 | tailwindlabs/tailwindcss |
 | Biome | 2.4.15 | biomejs/biome |
