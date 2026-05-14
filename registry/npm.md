@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-14T21:31:26.130Z
+> Last updated: 2026-05-14T22:29:33.710Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -292,7 +292,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | lerna | 9.0.7 |
-| nx | 22.7.1 |
+| nx | 22.7.2 |
 | @changesets/cli | 2.31.0 |
 
 ### Runtime & Package Managers
