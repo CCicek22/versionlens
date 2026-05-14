@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-14T13:41:27.009Z
+> Last updated: 2026-05-14T14:57:47.285Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -21,7 +21,7 @@ Latest stable versions of popular npm packages.
 | angular | 1.8.3 |
 | @angular/core | 21.2.13 |
 | solid-js | 1.9.12 |
-| astro | 6.3.2 |
+| astro | 6.3.3 |
 | remix | 2.17.4 |
 | gatsby | 5.16.1 |
 
@@ -38,7 +38,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| react-router-dom | 7.15.0 |
+| react-router-dom | 7.15.1 |
 | @tanstack/router | 0.0.1-beta.53 |
 
 ### State & Data Fetching
@@ -61,7 +61,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | @mui/material | 9.0.1 |
 | @chakra-ui/react | 3.35.0 |
-| @mantine/core | 9.2.0 |
+| @mantine/core | 9.2.1 |
 | @radix-ui/react-dialog | 1.1.15 |
 | @headlessui/react | 2.2.10 |
 | antd | 6.4.1 |
@@ -300,7 +300,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | bun | 1.3.14 |
-| tsx | 4.21.1 |
+| tsx | 4.22.0 |
 | ts-node | 10.9.2 |
 | pnpm | 11.1.2 |
 | yarn | 1.22.22 |

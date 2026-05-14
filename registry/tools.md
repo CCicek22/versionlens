@@ -1,7 +1,7 @@
 # CLI Tools & GitHub Releases
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-14T13:41:27.012Z
+> Last updated: 2026-05-14T14:57:47.287Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -26,7 +26,7 @@ Latest versions of popular developer tools.
 | Argo CD | 3.4.2 | argoproj/argo-cd |
 | Tailwind CSS | 4.3.0 | tailwindlabs/tailwindcss |
 | Biome | 2.4.15 | biomejs/biome |
-| Ruff | 0.15.12 | astral-sh/ruff |
+| Ruff | 0.15.13 | astral-sh/ruff |
 | Gradle | 9.5.1 | gradle/gradle |
 | Neovim | 0.12.2 | neovim/neovim |
 | Grafana | 13.0.1+security-01 | grafana/grafana |
