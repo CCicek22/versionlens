@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-14T19:36:40.792Z
+> Last updated: 2026-05-14T20:36:42.534Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -17,7 +17,7 @@ Latest stable versions of popular npm packages.
 | vue | 3.5.34 |
 | nuxt | 4.4.5 |
 | svelte | 5.55.7 |
-| @sveltejs/kit | 2.60.0 |
+| @sveltejs/kit | 2.60.1 |
 | angular | 1.8.3 |
 | @angular/core | 21.2.13 |
 | solid-js | 1.9.12 |
@@ -211,7 +211,7 @@ Latest stable versions of popular npm packages.
 | webpack | 5.106.2 |
 | esbuild | 0.28.0 |
 | tsup | 8.5.1 |
-| turbo | 2.9.12 |
+| turbo | 2.9.14 |
 | rollup | 4.60.4 |
 | eslint | 10.3.0 |
 | prettier | 3.8.3 |
