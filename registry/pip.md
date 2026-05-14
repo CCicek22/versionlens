@@ -1,7 +1,7 @@
 # pip Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-14T18:45:02.734Z
+> Last updated: 2026-05-14T19:36:40.793Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -25,7 +25,7 @@ Latest stable versions of popular Python packages.
 | Package | Latest |
 |---------|--------|
 | httpx | 0.28.1 |
-| requests | 2.34.1 |
+| requests | 2.34.2 |
 | aiohttp | 3.13.5 |
 | urllib3 | 2.7.0 |
 
@@ -93,7 +93,7 @@ Latest stable versions of popular Python packages.
 
 | Package | Latest |
 |---------|--------|
-| boto3 | 1.43.7 |
+| boto3 | 1.43.8 |
 | google-cloud-storage | 3.10.1 |
 | firebase-admin | 7.4.0 |
 | azure-storage-blob | 12.28.0 |
