@@ -1,7 +1,7 @@
 # Go Module Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-14T17:39:33.190Z
+> Last updated: 2026-05-14T18:45:02.735Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -18,7 +18,7 @@ Latest stable versions from proxy.golang.org.
 | pgx (Postgres) | `github.com/jackc/pgx/v5` | 5.9.2 |
 | MongoDB Driver | `go.mongodb.org/mongo-driver` | 1.17.9 |
 | go-redis | `github.com/redis/go-redis/v9` | 9.19.0 |
-| gRPC-Go | `google.golang.org/grpc` | 1.81.0 |
+| gRPC-Go | `google.golang.org/grpc` | 1.81.1 |
 | Protobuf-Go | `google.golang.org/protobuf` | 1.36.11 |
 | Zap Logger | `go.uber.org/zap` | 1.28.0 |
 | Logrus | `github.com/sirupsen/logrus` | 1.9.4 |
