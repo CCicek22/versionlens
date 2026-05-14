@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-14T05:23:54.917Z
+> Last updated: 2026-05-14T07:11:15.387Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -77,7 +77,7 @@ No API keys needed.
 | Meta-Llama-3-8B-Instruct | `meta-llama/Meta-Llama-3-8B-Instruct` | ? params | 1.7M |
 | Llama-3.2-1B | `meta-llama/Llama-3.2-1B` | ? params | 1.6M |
 | Llama-3.1-8B | `meta-llama/Llama-3.1-8B` | ? params | 1.5M |
-| Llama-2-7b-hf | `meta-llama/Llama-2-7b-hf` | ? params | 1.1M |
+| Llama-3.2-3B | `meta-llama/Llama-3.2-3B` | ? params | 1.1M |
 
 ### DeepSeek
 
@@ -122,7 +122,7 @@ No API keys needed.
 | gemma-2-9b-it | `google/gemma-2-9b-it` | ? params | 0.4M |
 | gemma-2-2b-it | `google/gemma-2-2b-it` | ? params | 0.4M |
 | gemma-2-2b | `google/gemma-2-2b` | ? params | 0.3M |
-| gemma-7b | `google/gemma-7b` | ? params | 0.2M |
+| gemma-2b | `google/gemma-2b` | ? params | 0.2M |
 
 ### Microsoft (Phi)
 
