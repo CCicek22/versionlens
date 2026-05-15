@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-15T15:47:47.727Z
+> Last updated: 2026-05-15T16:42:05.810Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -10,30 +10,30 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 
 | Image | Version | Slim | Alpine | Debian |
 |-------|---------|------|--------|--------|
-| node | 26.1.0 | 26.1.0-slim | 26.1.0-alpine | 26.1.0-trixie |
-| python | latest | - | - | - |
+| node | latest | - | - | - |
+| python | 3.14.5 | 3.14.5-slim | 3.14.5-alpine | 3.14.5-trixie |
 | ruby | latest | - | - | - |
 | php | latest | - | - | - |
 | golang | latest | - | - | - |
 | openjdk | latest | - | - | - |
 | rust | latest | - | - | - |
 | postgres | 18.4 | - | 18.4-alpine | 18.4-trixie |
-| mysql | latest | - | - | - |
+| mysql | 9.7.0 | - | - | - |
 | mariadb | 11.8.6 | - | - | - |
 | mongo | 8.3.1 | - | - | - |
 | redis | latest | - | - | - |
-| nginx | latest | - | - | - |
+| nginx | 1.31.0 | - | 1.31.0-alpine | 1.31.0-trixie |
 | httpd | 2.4.67 | - | 2.4.67-alpine | 2.4.67-trixie |
-| traefik | 3.7.1 | - | - | - |
+| traefik | latest | - | - | - |
 | haproxy | latest | - | - | - |
 | rabbitmq | 4.3.0 | - | 4.3.0-alpine | - |
 | memcached | 1.6.41 | - | 1.6.41-alpine | 1.6.41-trixie |
-| elasticsearch | 9.3.4 | - | - | - |
-| ubuntu | latest | - | - | - |
+| elasticsearch | latest | - | - | - |
+| ubuntu | 26.04 | - | - | - |
 | debian | 13.4 | 13.4-slim | - | - |
 | alpine | 3.23.4 | - | - | - |
 | grafana/grafana | 13.0.1+security-01 | - | - | - |
-| prom/prometheus | latest | - | - | - |
+| prom/prometheus | 3.5.3 | - | - | - |
 | influxdb | latest | - | - | - |
 | keycloak/keycloak | latest | - | - | - |
 | minio/minio | latest | - | - | - |
