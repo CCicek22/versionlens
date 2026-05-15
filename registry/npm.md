@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-15T17:36:42.732Z
+> Last updated: 2026-05-15T18:41:16.434Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -20,7 +20,7 @@ Latest stable versions of popular npm packages.
 | @sveltejs/kit | 2.60.1 |
 | angular | 1.8.3 |
 | @angular/core | 21.2.13 |
-| solid-js | 1.9.12 |
+| solid-js | 1.9.13 |
 | astro | 6.3.3 |
 | remix | 2.17.4 |
 | gatsby | 5.16.1 |
