@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-15T13:39:41.305Z
+> Last updated: 2026-05-15T14:54:46.609Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -50,7 +50,7 @@ Latest stable versions of popular npm packages.
 | zustand | 5.0.13 |
 | jotai | 2.20.0 |
 | redux | 5.0.1 |
-| @reduxjs/toolkit | 2.11.2 |
+| @reduxjs/toolkit | 2.12.0 |
 | mobx | 6.15.3 |
 | recoil | 0.7.7 |
 | swr | 2.4.1 |
@@ -213,7 +213,7 @@ Latest stable versions of popular npm packages.
 | tsup | 8.5.1 |
 | turbo | 2.9.14 |
 | rollup | 4.60.4 |
-| eslint | 10.3.0 |
+| eslint | 10.4.0 |
 | prettier | 3.8.3 |
 | biome | 0.3.3 |
 | oxlint | 1.64.0 |
