@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-18T09:22:52.190Z
+> Last updated: 2026-05-18T11:27:31.328Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -14,22 +14,22 @@ Latest stable versions from Maven Central.
 | Spring Boot | `org.springframework.boot:spring-boot-starter` | unknown |
 | Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
 | Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
-| Spring Security | `org.springframework.boot:spring-boot-starter-security` | unknown |
+| Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
 | Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | 3.5.3 |
 
 ### Spring Framework
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Core | `org.springframework:spring-core` | unknown |
+| Spring Core | `org.springframework:spring-core` | 7.0.0-M6 |
 | Spring WebFlux | `org.springframework:spring-webflux` | 7.0.0-M6 |
 
 ### Kotlin
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | unknown |
-| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | unknown |
+| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
+| Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
 
@@ -50,7 +50,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
+| Jackson | `com.fasterxml.jackson.core:jackson-databind` | unknown |
 | Gson | `com.google.code.gson:gson` | 2.14.0 |
 
 ### HTTP
@@ -58,14 +58,14 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | OkHttp | `com.squareup.okhttp3:okhttp` | unknown |
-| Retrofit | `com.squareup.retrofit2:retrofit` | 3.0.0 |
+| Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
 
 ### Logging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SLF4J | `org.slf4j:slf4j-api` | unknown |
-| Logback | `ch.qos.logback:logback-classic` | 1.5.18 |
+| SLF4J | `org.slf4j:slf4j-api` | 2.1.0-alpha1 |
+| Logback | `ch.qos.logback:logback-classic` | unknown |
 | Log4j | `org.apache.logging.log4j:log4j-core` | unknown |
 
 ### Testing
@@ -82,14 +82,14 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Lombok | `org.projectlombok:lombok` | 1.18.38 |
 | MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
-| Guava | `com.google.guava:guava` | unknown |
+| Guava | `com.google.guava:guava` | 33.4.8-jre |
 | Commons Lang3 | `org.apache.commons:commons-lang3` | unknown |
 
 ### Messaging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kafka Clients | `org.apache.kafka:kafka-clients` | 4.2.0 |
+| Kafka Clients | `org.apache.kafka:kafka-clients` | unknown |
 
 ### gRPC
 
@@ -126,19 +126,19 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Testcontainers | `org.testcontainers:testcontainers` | 1.21.3 |
+| Testcontainers | `org.testcontainers:testcontainers` | unknown |
 
 ### Monitoring
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Micrometer | `io.micrometer:micrometer-core` | unknown |
+| Micrometer | `io.micrometer:micrometer-core` | 1.15.0 |
 
 ### OpenAPI / Docs
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | unknown |
+| SpringDoc OpenAPI | `org.springdoc:springdoc-openapi-starter-webmvc-ui` | 2.8.6 |
 
 ### Validation
 
