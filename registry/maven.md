@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-18T01:02:43.869Z
+> Last updated: 2026-05-18T03:18:43.396Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -12,9 +12,9 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
-| Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
-| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | unknown |
-| Spring Security | `org.springframework.boot:spring-boot-starter-security` | unknown |
+| Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | unknown |
+| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
+| Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
 | Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | 3.5.3 |
 
 ### Spring Framework
@@ -28,7 +28,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | 2.2.0 |
+| Kotlin | `org.jetbrains.kotlin:kotlin-stdlib` | unknown |
 | Kotlin Coroutines | `org.jetbrains.kotlinx:kotlinx-coroutines-core` | 1.10.2 |
 
 ### Build
@@ -41,17 +41,17 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Hibernate ORM | `org.hibernate.orm:hibernate-core` | unknown |
-| MyBatis | `org.mybatis:mybatis` | 3.5.19 |
-| Flyway | `org.flywaydb:flyway-core` | unknown |
-| Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
+| Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
+| MyBatis | `org.mybatis:mybatis` | unknown |
+| Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
+| Liquibase | `org.liquibase:liquibase-core` | unknown |
 
 ### JSON
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Jackson | `com.fasterxml.jackson.core:jackson-databind` | unknown |
-| Gson | `com.google.code.gson:gson` | 2.14.0 |
+| Jackson | `com.fasterxml.jackson.core:jackson-databind` | 2.19.0 |
+| Gson | `com.google.code.gson:gson` | unknown |
 
 ### HTTP
 
@@ -82,20 +82,20 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | Lombok | `org.projectlombok:lombok` | 1.18.38 |
 | MapStruct | `org.mapstruct:mapstruct` | 1.6.3 |
-| Guava | `com.google.guava:guava` | unknown |
+| Guava | `com.google.guava:guava` | 33.4.8-jre |
 | Commons Lang3 | `org.apache.commons:commons-lang3` | 3.20.0 |
 
 ### Messaging
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kafka Clients | `org.apache.kafka:kafka-clients` | unknown |
+| Kafka Clients | `org.apache.kafka:kafka-clients` | 4.2.0 |
 
 ### gRPC
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| gRPC | `io.grpc:grpc-core` | 1.73.0 |
+| gRPC | `io.grpc:grpc-core` | unknown |
 
 ### Reactive
 
@@ -108,7 +108,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Quarkus | `io.quarkus:quarkus-core` | 3.23.0 |
-| Micronaut | `io.micronaut:micronaut-core` | 4.9.4 |
+| Micronaut | `io.micronaut:micronaut-core` | unknown |
 
 ### HTTP Client
 
@@ -126,7 +126,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Testcontainers | `org.testcontainers:testcontainers` | 1.21.3 |
+| Testcontainers | `org.testcontainers:testcontainers` | unknown |
 
 ### Monitoring
 
