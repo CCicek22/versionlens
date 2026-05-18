@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-18T17:04:59.862Z
+> Last updated: 2026-05-18T18:44:54.347Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -21,7 +21,7 @@ Latest stable versions of popular npm packages.
 | angular | 1.8.3 |
 | @angular/core | 21.2.13 |
 | solid-js | 1.9.13 |
-| astro | 6.3.4 |
+| astro | 6.3.5 |
 | remix | 2.17.4 |
 | gatsby | 5.16.1 |
 
@@ -155,8 +155,8 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | stripe | 22.1.1 |
-| @stripe/stripe-js | 9.5.0 |
-| @stripe/react-stripe-js | 6.3.0 |
+| @stripe/stripe-js | 9.6.0 |
+| @stripe/react-stripe-js | 6.4.0 |
 
 ### Firebase / Supabase
 
