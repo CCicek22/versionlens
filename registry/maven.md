@@ -1,7 +1,7 @@
 # Java / Kotlin (Maven) Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-18T11:27:31.328Z
+> Last updated: 2026-05-18T13:26:31.791Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -11,11 +11,11 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Spring Boot | `org.springframework.boot:spring-boot-starter` | unknown |
+| Spring Boot | `org.springframework.boot:spring-boot-starter` | 3.5.3 |
 | Spring Boot Web | `org.springframework.boot:spring-boot-starter-web` | 3.5.3 |
-| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | 3.5.3 |
+| Spring Data JPA | `org.springframework.boot:spring-boot-starter-data-jpa` | unknown |
 | Spring Security | `org.springframework.boot:spring-boot-starter-security` | 3.5.3 |
-| Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | 3.5.3 |
+| Spring Boot Test | `org.springframework.boot:spring-boot-starter-test` | unknown |
 
 ### Spring Framework
 
@@ -35,7 +35,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Maven | `org.apache.maven:maven-core` | 4.0.0-rc-5 |
+| Maven | `org.apache.maven:maven-core` | unknown |
 
 ### Database & ORM
 
@@ -44,7 +44,7 @@ Latest stable versions from Maven Central.
 | Hibernate ORM | `org.hibernate.orm:hibernate-core` | 7.0.2.Final |
 | MyBatis | `org.mybatis:mybatis` | 3.5.19 |
 | Flyway | `org.flywaydb:flyway-core` | 11.8.2 |
-| Liquibase | `org.liquibase:liquibase-core` | 4.32.0 |
+| Liquibase | `org.liquibase:liquibase-core` | unknown |
 
 ### JSON
 
@@ -57,7 +57,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| OkHttp | `com.squareup.okhttp3:okhttp` | unknown |
+| OkHttp | `com.squareup.okhttp3:okhttp` | 5.0.0-alpha.16 |
 | Retrofit | `com.squareup.retrofit2:retrofit` | unknown |
 
 ### Logging
@@ -66,7 +66,7 @@ Latest stable versions from Maven Central.
 |---------|----------|--------|
 | SLF4J | `org.slf4j:slf4j-api` | 2.1.0-alpha1 |
 | Logback | `ch.qos.logback:logback-classic` | unknown |
-| Log4j | `org.apache.logging.log4j:log4j-core` | unknown |
+| Log4j | `org.apache.logging.log4j:log4j-core` | 3.0.0-beta3 |
 
 ### Testing
 
@@ -89,13 +89,13 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Kafka Clients | `org.apache.kafka:kafka-clients` | unknown |
+| Kafka Clients | `org.apache.kafka:kafka-clients` | 4.2.0 |
 
 ### gRPC
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| gRPC | `io.grpc:grpc-core` | 1.73.0 |
+| gRPC | `io.grpc:grpc-core` | unknown |
 
 ### Reactive
 
@@ -108,7 +108,7 @@ Latest stable versions from Maven Central.
 | Package | Maven ID | Latest |
 |---------|----------|--------|
 | Quarkus | `io.quarkus:quarkus-core` | 3.23.0 |
-| Micronaut | `io.micronaut:micronaut-core` | 4.9.4 |
+| Micronaut | `io.micronaut:micronaut-core` | unknown |
 
 ### HTTP Client
 
@@ -126,7 +126,7 @@ Latest stable versions from Maven Central.
 
 | Package | Maven ID | Latest |
 |---------|----------|--------|
-| Testcontainers | `org.testcontainers:testcontainers` | unknown |
+| Testcontainers | `org.testcontainers:testcontainers` | 1.21.3 |
 
 ### Monitoring
 

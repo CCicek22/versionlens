@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-18T11:27:31.321Z
+> Last updated: 2026-05-18T13:26:31.790Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -139,7 +139,7 @@ Latest stable versions of popular npm packages.
 | mongoose | 9.6.2 |
 | sequelize | 6.37.8 |
 | ioredis | 5.10.1 |
-| pg | 8.20.0 |
+| pg | 8.21.0 |
 
 ### Auth
 
@@ -198,7 +198,7 @@ Latest stable versions of popular npm packages.
 | @playwright/test | 1.60.0 |
 | cypress | 15.15.0 |
 | supertest | 7.2.2 |
-| puppeteer | 25.0.3 |
+| puppeteer | 25.0.4 |
 | selenium-webdriver | 4.44.0 |
 | @storybook/react | 10.4.0 |
 
@@ -270,7 +270,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | lodash | 4.18.1 |
-| date-fns | 4.2.0 |
+| date-fns | 4.2.1 |
 | dayjs | 1.11.20 |
 | luxon | 3.7.2 |
 | moment | 2.30.1 |
