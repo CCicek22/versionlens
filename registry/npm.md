@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-18T13:26:31.790Z
+> Last updated: 2026-05-18T15:11:48.948Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -21,7 +21,7 @@ Latest stable versions of popular npm packages.
 | angular | 1.8.3 |
 | @angular/core | 21.2.13 |
 | solid-js | 1.9.13 |
-| astro | 6.3.3 |
+| astro | 6.3.4 |
 | remix | 2.17.4 |
 | gatsby | 5.16.1 |
 
@@ -79,7 +79,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| framer-motion | 12.38.0 |
+| framer-motion | 12.39.0 |
 | gsap | 3.15.0 |
 | @react-spring/web | 10.0.3 |
 
@@ -165,7 +165,7 @@ Latest stable versions of popular npm packages.
 | firebase | 12.13.0 |
 | firebase-admin | 13.10.0 |
 | firebase-tools | 15.18.0 |
-| @supabase/supabase-js | 2.105.4 |
+| @supabase/supabase-js | 2.106.0 |
 
 ### Cloud SDKs
 
@@ -300,7 +300,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | bun | 1.3.14 |
-| tsx | 4.22.1 |
+| tsx | 4.22.2 |
 | ts-node | 10.9.2 |
 | pnpm | 11.1.2 |
 | yarn | 1.22.22 |
