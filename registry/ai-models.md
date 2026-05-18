@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-18T05:30:40.683Z
+> Last updated: 2026-05-18T07:36:53.815Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -70,9 +70,9 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 10.0M |
-| Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 7.6M |
-| Meta-Llama-3-8B | `meta-llama/Meta-Llama-3-8B` | ? params | 2.9M |
+| Llama-3.1-8B-Instruct | `meta-llama/Llama-3.1-8B-Instruct` | ? params | 10.4M |
+| Llama-3.2-1B-Instruct | `meta-llama/Llama-3.2-1B-Instruct` | ? params | 7.5M |
+| Meta-Llama-3-8B | `meta-llama/Meta-Llama-3-8B` | ? params | 2.8M |
 | Llama-3.2-3B-Instruct | `meta-llama/Llama-3.2-3B-Instruct` | ? params | 2.4M |
 | Meta-Llama-3-8B-Instruct | `meta-llama/Meta-Llama-3-8B-Instruct` | ? params | 1.7M |
 | Llama-3.2-1B | `meta-llama/Llama-3.2-1B` | ? params | 1.6M |
@@ -88,20 +88,20 @@ No API keys needed.
 | DeepSeek-V4-Pro | `deepseek-ai/DeepSeek-V4-Pro` | ? params | 3.1M |
 | DeepSeek-R1-0528 | `deepseek-ai/DeepSeek-R1-0528` | ? params | 2.0M |
 | DeepSeek-V4-Flash | `deepseek-ai/DeepSeek-V4-Flash` | ? params | 1.8M |
-| DeepSeek-V3 | `deepseek-ai/DeepSeek-V3` | ? params | 1.3M |
+| DeepSeek-V3 | `deepseek-ai/DeepSeek-V3` | ? params | 1.2M |
 
 ### Qwen (Alibaba)
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| Qwen3-0.6B | `Qwen/Qwen3-0.6B` | ? params | 18.9M |
-| Qwen2.5-1.5B-Instruct | `Qwen/Qwen2.5-1.5B-Instruct` | ? params | 13.1M |
-| Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` | ? params | 12.7M |
+| Qwen3-0.6B | `Qwen/Qwen3-0.6B` | ? params | 18.5M |
+| Qwen2.5-1.5B-Instruct | `Qwen/Qwen2.5-1.5B-Instruct` | ? params | 13.2M |
+| Qwen2.5-7B-Instruct | `Qwen/Qwen2.5-7B-Instruct` | ? params | 12.8M |
 | Qwen3-8B | `Qwen/Qwen3-8B` | ? params | 11.6M |
-| Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` | ? params | 8.5M |
-| Qwen3-4B-Instruct-2507 | `Qwen/Qwen3-4B-Instruct-2507` | ? params | 7.4M |
+| Qwen2.5-3B-Instruct | `Qwen/Qwen2.5-3B-Instruct` | ? params | 8.8M |
+| Qwen3-4B | `Qwen/Qwen3-4B` | ? params | 7.1M |
 | Qwen3-32B | `Qwen/Qwen3-32B` | ? params | 7.0M |
-| Qwen3-4B | `Qwen/Qwen3-4B` | ? params | 6.7M |
+| Qwen3-4B-Instruct-2507 | `Qwen/Qwen3-4B-Instruct-2507` | ? params | 6.9M |
 
 ### Mistral
 
@@ -117,12 +117,12 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| gemma-3-270m | `google/gemma-3-270m` | ? params | 2.5M |
-| gemma-3-1b-it | `google/gemma-3-1b-it` | ? params | 0.7M |
+| gemma-3-270m | `google/gemma-3-270m` | ? params | 2.7M |
+| gemma-3-1b-it | `google/gemma-3-1b-it` | ? params | 0.8M |
 | gemma-2-9b-it | `google/gemma-2-9b-it` | ? params | 0.4M |
 | gemma-2-2b-it | `google/gemma-2-2b-it` | ? params | 0.4M |
 | gemma-2-2b | `google/gemma-2-2b` | ? params | 0.3M |
-| gemma-3-270m-it | `google/gemma-3-270m-it` | ? params | 0.2M |
+| gemma-2b | `google/gemma-2b` | ? params | 0.2M |
 
 ### Microsoft (Phi)
 
@@ -139,16 +139,16 @@ No API keys needed.
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 2.1M |
-| DeepSeek-R1-0528-NVFP4-v2 | `nvidia/DeepSeek-R1-0528-NVFP4-v2` | ? params | 1.6M |
+| Gemma-4-31B-IT-NVFP4 | `nvidia/Gemma-4-31B-IT-NVFP4` | ? params | 2.2M |
+| DeepSeek-R1-0528-NVFP4-v2 | `nvidia/DeepSeek-R1-0528-NVFP4-v2` | ? params | 1.7M |
 | Kimi-K2.5-NVFP4 | `nvidia/Kimi-K2.5-NVFP4` | ? params | 1.4M |
-| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.1M |
+| NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 | `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16` | ? params | 1.2M |
 
 ### OpenAI (Open-weight)
 
 | Model | HuggingFace ID | Size | Downloads |
 |-------|----------------|------|-----------|
-| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 7.4M |
+| gpt-oss-20b | `openai/gpt-oss-20b` | ? params | 7.6M |
 | gpt-oss-120b | `openai/gpt-oss-120b` | ? params | 4.7M |
 | gpt-oss-safeguard-20b | `openai/gpt-oss-safeguard-20b` | ? params | 0.1M |
 | gpt-oss-safeguard-120b | `openai/gpt-oss-safeguard-120b` | ? params | 0.0M |
