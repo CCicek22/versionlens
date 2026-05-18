@@ -1,7 +1,7 @@
 # AI Model IDs
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-05-18T07:36:53.815Z
+> Last updated: 2026-05-18T09:22:52.191Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -85,9 +85,9 @@ No API keys needed.
 |-------|----------------|------|-----------|
 | DeepSeek-V3.2 | `deepseek-ai/DeepSeek-V3.2` | ? params | 4.2M |
 | DeepSeek-R1 | `deepseek-ai/DeepSeek-R1` | ? params | 3.8M |
-| DeepSeek-V4-Pro | `deepseek-ai/DeepSeek-V4-Pro` | ? params | 3.1M |
+| DeepSeek-V4-Pro | `deepseek-ai/DeepSeek-V4-Pro` | ? params | 3.4M |
 | DeepSeek-R1-0528 | `deepseek-ai/DeepSeek-R1-0528` | ? params | 2.0M |
-| DeepSeek-V4-Flash | `deepseek-ai/DeepSeek-V4-Flash` | ? params | 1.8M |
+| DeepSeek-V4-Flash | `deepseek-ai/DeepSeek-V4-Flash` | ? params | 1.9M |
 | DeepSeek-V3 | `deepseek-ai/DeepSeek-V3` | ? params | 1.2M |
 
 ### Qwen (Alibaba)
