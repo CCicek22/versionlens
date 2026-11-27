@@ -12,7 +12,7 @@ export const ConfigSchema = z.object({
       file: z.string().default("versions.md"),
       include_timestamp: z.boolean().default(true),
     })
-    .default({}),
+    .default({ file: "versions.md", include_timestamp: true }),
   integrations: z.array(z.string()).default([]),
 });
 
