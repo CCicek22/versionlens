@@ -260,10 +260,18 @@ const MAVEN_PACKAGES = [
 async function fetchMavenVersions() {
   const results = await Promise.allSettled(
     MAVEN_PACKAGES.map(async ({ g, a, name }) => {
-      const data = await fetchJson(
-        `https://search.maven.org/solrsearch/select?q=g:${g}+AND+a:${a}&rows=1&wt=json`,
+      // Maven Central metadata: search.maven.org times out often; repo1 answers in ~0.2s.
+      const res = await fetch(
+        `https://repo1.maven.org/maven2/${g.replaceAll(".", "/")}/${a}/maven-metadata.xml`,
+        { signal: AbortSignal.timeout(TIMEOUT) },
       );
-      const version = data.response?.docs?.[0]?.latestVersion ?? "unknown";
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const xml = await res.text();
+      // Maven's <release> can be a milestone (JUnit 6.2.0-M1); keep the last non-pre-release version.
+      const stable = [...xml.matchAll(/<version>([^<]+)<\/version>/g)]
+        .map((m) => m[1])
+        .filter((v) => !/[-.](alpha|beta|rc|cr|m\d+|ea|snapshot)/i.test(v));
+      const version = stable.at(-1) ?? "unknown";
       return { name, id: `${g}:${a}`, version };
     }),
   );
@@ -492,7 +500,7 @@ const DOCKER_IMAGES = [
   { image: "ruby", eol: "ruby" },
   { image: "php", eol: "php" },
   { image: "golang", eol: "go" },
-  { image: "openjdk", eol: "java" },
+  { image: "openjdk", eol: "eclipse-temurin" },
   { image: "rust", eol: "rust" },
   // Databases
   { image: "postgres", eol: "postgresql" },
@@ -1123,17 +1131,16 @@ async function main() {
   console.log("versionlens: starting update...");
   const start = Date.now();
 
-  // Fetch everything in parallel
-  const [npm, pip, maven, goMods, rust, runtimes, docker, github] = await Promise.all([
-    fetchNpmVersions().then((r) => { console.log(`  npm: ${r.length} packages`); return r; }),
-    fetchPipVersions().then((r) => { console.log(`  pip: ${r.length} packages`); return r; }),
-    fetchMavenVersions().then((r) => { console.log(`  maven: ${r.length} packages`); return r; }),
-    fetchGoModuleVersions().then((r) => { console.log(`  go: ${r.length} modules`); return r; }),
-    fetchRustCrateVersions().then((r) => { console.log(`  rust: ${r.length} crates`); return r; }),
-    fetchRuntimes().then((r) => { console.log(`  runtimes: ${r.length}`); return r; }),
-    fetchDockerVersions().then((r) => { console.log(`  docker: ${r.length} images`); return r; }),
-    fetchGithubReleases().then((r) => { console.log(`  github: ${r.length} tools`); return r; }),
-  ]);
+  // Fetch one registry at a time: running all ~400 requests at once made
+  // ~150 of them time out (10s) on this network, while each registry alone is fine.
+  const npm = await fetchNpmVersions(); console.log(`  npm: ${npm.length} packages`);
+  const pip = await fetchPipVersions(); console.log(`  pip: ${pip.length} packages`);
+  const maven = await fetchMavenVersions(); console.log(`  maven: ${maven.length} packages`);
+  const goMods = await fetchGoModuleVersions(); console.log(`  go: ${goMods.length} modules`);
+  const rust = await fetchRustCrateVersions(); console.log(`  rust: ${rust.length} crates`);
+  const runtimes = await fetchRuntimes(); console.log(`  runtimes: ${runtimes.length}`);
+  const docker = await fetchDockerVersions(); console.log(`  docker: ${docker.length} images`);
+  const github = await fetchGithubReleases(); console.log(`  github: ${github.length} tools`);
 
   // AI models (closed curated + open from HuggingFace)
   const aiModels = await getAiModels();
