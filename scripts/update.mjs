@@ -11,6 +11,7 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { keepLastKnown, readRegistryRows } from "./registry-fallback.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..", "registry");
@@ -1133,6 +1134,19 @@ async function main() {
   const aiModels = await getAiModels();
   console.log(`  ai-models: ${Object.keys(aiModels).length} providers`);
 
+  // Failed fetches keep the previous registry value; warn about them after writing.
+  const row = (file) => readRegistryRows(join(ROOT, file));
+  const failed = [
+    ...keepLastKnown(npm, await row("npm.md"), { version: 1 }),
+    ...keepLastKnown(pip, await row("pip.md"), { version: 1 }),
+    ...keepLastKnown(maven, await row("maven.md"), { version: 2 }),
+    ...keepLastKnown(goMods, await row("go.md"), { version: 2 }),
+    ...keepLastKnown(rust, await row("rust.md"), { version: 1 }),
+    ...keepLastKnown(runtimes, await row("runtimes.md"), { version: 1 }),
+    ...keepLastKnown(docker, await row("docker.md"), { version: 1, slim: 2, alpine: 3, debian: 4 }),
+    ...keepLastKnown(github, await row("tools.md"), { version: 1 }),
+  ];
+
   // Write files
   await Promise.all([
     writeFile(join(ROOT, "npm.md"), renderNpm(npm)),
@@ -1150,20 +1164,11 @@ async function main() {
   const total = npm.length + pip.length + maven.length + goMods.length + rust.length + runtimes.length + docker.length + github.length;
   console.log(`\nDone! ${total} items updated in ${elapsed}s`);
 
-  // Report unknowns
-  const unknowns = [
-    ...npm.filter((p) => p.version === "unknown"),
-    ...pip.filter((p) => p.version === "unknown"),
-    ...maven.filter((p) => p.version === "unknown"),
-    ...goMods.filter((p) => p.version === "unknown"),
-    ...rust.filter((p) => p.version === "unknown"),
-    ...runtimes.filter((p) => p.version === "unknown"),
-    ...docker.filter((p) => p.tag === "unknown"),
-    ...github.filter((p) => p.version === "unknown"),
-  ];
-  if (unknowns.length > 0) {
-    console.warn(`Warning: ${unknowns.length} items could not be fetched:`);
-    for (const u of unknowns) console.warn(`  - ${u.name}`);
+  if (failed.length > 0) {
+    console.warn(`Warning: ${failed.length} items could not be fetched:`);
+    for (const u of failed) {
+      console.warn(`  - ${u.name} (${u.kept ? "kept previous value" : "no previous value, left unknown"})`);
+    }
   }
 }
 
