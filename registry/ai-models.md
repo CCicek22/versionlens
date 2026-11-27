@@ -14,53 +14,49 @@ No API keys needed.
 
 ### Anthropic
 
+> Source: https://platform.claude.com/docs/en/about-claude/models/overview · verified 2026-11-27
+
 | Model | ID | Context |
 |-------|----|--------|
-| Claude Opus 4.6 | `claude-opus-4-6` | 1M |
-| Claude Sonnet 4.6 | `claude-sonnet-4-6` | 200K |
-| Claude Haiku 4.5 | `claude-haiku-4-5-20251001` | 200K |
+| Claude Fable 5.2 | `claude-fable-5-2` | 1M |
+| Claude Opus 5.5 | `claude-opus-5-5` | 1M |
+| Claude Sonnet 5.5 | `claude-sonnet-5-5` | 1M |
+| Claude Haiku 5.5 | `claude-haiku-5-5` | 1M |
 
 ### OpenAI
 
+> Source: https://platform.openai.com/docs/models · verified 2026-11-27
+
 | Model | ID | Context |
 |-------|----|--------|
-| GPT-5.4 | `gpt-5.4` | 1M |
-| GPT-5.4 Pro | `gpt-5.4-pro` | 1M |
-| GPT-5.4 Mini | `gpt-5.4-mini` | 400K |
-| GPT-5.4 Nano | `gpt-5.4-nano` | 400K |
-| o3 (Reasoning) | `o3` | 200K |
-| o3 Pro (Reasoning) | `o3-pro` | 200K |
-| o4-mini (Reasoning) | `o4-mini` | 200K |
-| o3 Deep Research | `o3-deep-research` | 200K |
-| o4-mini Deep Research | `o4-mini-deep-research` | 200K |
-| GPT-5.3 Codex | `gpt-5.3-codex` | 200K |
-| GPT Image 1.5 | `gpt-image-1.5` | - |
-| GPT Realtime 1.5 | `gpt-realtime-1.5` | - |
+| GPT-6.2 Astra | `gpt-6.2-astra` | 1.05M |
+| GPT-6.2 Sol | `gpt-6.2-sol` | 1.05M |
+| GPT-6.1 Terra | `gpt-6.1-terra` | 1.05M |
+| GPT-6 Luna | `gpt-6-luna` | 1.05M |
 
 ### Google Gemini
 
+> Source: https://ai.google.dev/gemini-api/docs/models · verified 2026-11-27
+
 | Model | ID | Context |
 |-------|----|--------|
-| Gemini 3.1 Pro | `gemini-3.1-pro-preview` | 1M |
-| Gemini 3.1 Flash Lite | `gemini-3.1-flash-lite-preview` | 1M |
-| Gemini 3.1 Flash Live | `gemini-3.1-flash-live-preview` | 128K |
-| Gemini 3.1 Flash Image | `gemini-3.1-flash-image-preview` | 64K |
-| Gemini 2.5 Pro (Stable) | `gemini-2.5-pro` | 1M |
-| Gemini 2.5 Flash (Stable) | `gemini-2.5-flash` | 1M |
-| Gemini 2.5 Flash Lite (Stable) | `gemini-2.5-flash-lite` | 1M |
+| Gemini 4 Carbon | `gemini-4-carbon` | 1M |
+| Gemini 4 Neon | `gemini-4-neon` | 1M |
+| Gemini 4 Hydrogen | `gemini-4-hydrogen` | 1M |
+| Gemini 4 Argon | `gemini-4-argon` | 1M |
+| Gemini 3.8 Flash | `gemini-3.8-flash` | - |
+| Gemini 3.5 Flash-Lite | `gemini-3.5-flash-lite` | - |
+| Gemini 3.1 Flash-Lite | `gemini-3.1-flash-lite` | - |
+| Gemini 3.8 Live | `gemini-3.8-live` | - |
+| Nano Banana 2 | `gemini-3.1-flash-image` | - |
 
 ### xAI (Grok)
 
+> Source: https://docs.x.ai/docs/models · verified 2026-11-27
+
 | Model | ID | Context |
 |-------|----|--------|
-| Grok 4.20 Reasoning | `grok-4.20-0309-reasoning` | 2M |
-| Grok 4.20 Non-Reasoning | `grok-4.20-0309-non-reasoning` | 2M |
-| Grok 4.20 Multi-Agent | `grok-4.20-multi-agent-0309` | 2M |
-| Grok 4.1 Fast Reasoning | `grok-4-1-fast-reasoning` | 2M |
-| Grok 4.1 Fast Non-Reasoning | `grok-4-1-fast-non-reasoning` | 2M |
-| Grok Code Fast | `grok-code-fast-1` | 256K |
-| Grok Imagine Image Pro | `grok-imagine-image-pro` | - |
-| Grok Imagine Video | `grok-imagine-video` | - |
+| Grok 4.7 | `grok-4.7` | 500K |
 
 ## Open-Weight Models (from HuggingFace)
 

@@ -34,12 +34,13 @@
     "npm",
     "pip"
   ],
-  "author": "",
-  "license": "MIT",
+  "author": "Mack Cicek",
+  "license": "Apache-2.0",
   "engines": {
-    "node": ">=18"
+    "node": ">=22.12.0"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "chalk": "^5.4.1",
     "commander": "^13.1.0",
     "inquirer": "^12.6.0",
@@ -50,5 +51,9 @@
     "@types/node": "^22.15.3",
     "typescript": "^5.8.3",
     "vitest": "^4.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCicek22/versionlens.git"
   }
 }

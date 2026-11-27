@@ -10,50 +10,45 @@ export interface AiModelInfo {
  * Curated model list — only latest version per family.
  * Updated when providers announce new models.
  */
+// Closed models: latest per family, from the official pages in
+// registry/ai-models.md (verified 2026-11-27). Keep in sync with scripts/update.mjs.
 const CURATED_MODELS: Record<string, AiModelInfo> = {
   anthropic: {
     provider: "Anthropic",
     models: [
-      { id: "claude-opus-4-6", name: "Claude Opus 4.6", context: "1M" },
-      { id: "claude-sonnet-4-6", name: "Claude Sonnet 4.6", context: "200K" },
-      { id: "claude-haiku-4-5-20251001", name: "Claude Haiku 4.5", context: "200K" },
+      { id: "claude-fable-5-2", name: "Claude Fable 5.2", context: "1M" },
+      { id: "claude-opus-5-5", name: "Claude Opus 5.5", context: "1M" },
+      { id: "claude-sonnet-5-5", name: "Claude Sonnet 5.5", context: "1M" },
+      { id: "claude-haiku-5-5", name: "Claude Haiku 5.5", context: "1M" },
     ],
   },
   openai: {
     provider: "OpenAI",
     models: [
-      { id: "gpt-5.4", name: "GPT-5.4", context: "1M" },
-      { id: "gpt-5.4-pro", name: "GPT-5.4 Pro", context: "1M" },
-      { id: "gpt-5.4-mini", name: "GPT-5.4 Mini", context: "400K" },
-      { id: "gpt-5.4-nano", name: "GPT-5.4 Nano", context: "400K" },
-      { id: "o3", name: "o3 (Reasoning)", context: "200K" },
-      { id: "o3-pro", name: "o3 Pro (Reasoning)", context: "200K" },
-      { id: "o4-mini", name: "o4-mini (Reasoning)", context: "200K" },
-      { id: "gpt-5.3-codex", name: "GPT-5.3 Codex", context: "200K" },
-      { id: "gpt-image-1.5", name: "GPT Image 1.5", context: "-" },
+      { id: "gpt-6.2-astra", name: "GPT-6.2 Astra", context: "1.05M" },
+      { id: "gpt-6.2-sol", name: "GPT-6.2 Sol", context: "1.05M" },
+      { id: "gpt-6.1-terra", name: "GPT-6.1 Terra", context: "1.05M" },
+      { id: "gpt-6-luna", name: "GPT-6 Luna", context: "1.05M" },
     ],
   },
   google: {
     provider: "Google Gemini",
     models: [
-      { id: "gemini-3.1-pro-preview", name: "Gemini 3.1 Pro", context: "1M" },
-      { id: "gemini-3.1-flash-lite-preview", name: "Gemini 3.1 Flash Lite", context: "1M" },
-      { id: "gemini-3.1-flash-live-preview", name: "Gemini 3.1 Flash Live", context: "128K" },
-      { id: "gemini-3.1-flash-image-preview", name: "Gemini 3.1 Flash Image", context: "64K" },
-      { id: "gemini-2.5-pro", name: "Gemini 2.5 Pro (Stable)", context: "1M" },
-      { id: "gemini-2.5-flash", name: "Gemini 2.5 Flash (Stable)", context: "1M" },
-      { id: "gemini-2.5-flash-lite", name: "Gemini 2.5 Flash Lite (Stable)", context: "1M" },
+      { id: "gemini-4-carbon", name: "Gemini 4 Carbon", context: "1M" },
+      { id: "gemini-4-neon", name: "Gemini 4 Neon", context: "1M" },
+      { id: "gemini-4-hydrogen", name: "Gemini 4 Hydrogen", context: "1M" },
+      { id: "gemini-4-argon", name: "Gemini 4 Argon", context: "1M" },
+      { id: "gemini-3.8-flash", name: "Gemini 3.8 Flash", context: "-" },
+      { id: "gemini-3.5-flash-lite", name: "Gemini 3.5 Flash-Lite", context: "-" },
+      { id: "gemini-3.1-flash-lite", name: "Gemini 3.1 Flash-Lite", context: "-" },
+      { id: "gemini-3.8-live", name: "Gemini 3.8 Live", context: "-" },
+      { id: "gemini-3.1-flash-image", name: "Nano Banana 2", context: "-" },
     ],
   },
   xai: {
     provider: "xAI (Grok)",
     models: [
-      { id: "grok-4.20-0309-reasoning", name: "Grok 4.20 Reasoning", context: "2M" },
-      { id: "grok-4.20-0309-non-reasoning", name: "Grok 4.20 Non-Reasoning", context: "2M" },
-      { id: "grok-4.20-multi-agent-0309", name: "Grok 4.20 Multi-Agent", context: "2M" },
-      { id: "grok-4-1-fast-reasoning", name: "Grok 4.1 Fast Reasoning", context: "2M" },
-      { id: "grok-4-1-fast-non-reasoning", name: "Grok 4.1 Fast Non-Reasoning", context: "2M" },
-      { id: "grok-code-fast-1", name: "Grok Code Fast", context: "256K" },
+      { id: "grok-4.7", name: "Grok 4.7", context: "500K" },
     ],
   },
   meta: {
