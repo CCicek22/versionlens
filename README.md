@@ -101,7 +101,7 @@ versionlens doctor                 # Check config + connectivity
 versionlens mcp                    # Serve MCP over stdio (see below)
 ```
 
-The binary is also available as `vlens`. Requires Node.js 20.5 or newer.
+The binary is also available as `vlens`. Requires Node.js 22.12 or newer.
 
 ## MCP Server
 
