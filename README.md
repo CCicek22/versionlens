@@ -190,4 +190,6 @@ No server. No MCP. No API keys. Just markdown files.
 
 ## License
 
-MIT
+Apache License 2.0. See [LICENSE](LICENSE).
+
+Copyright 2026 Mack Cicek
