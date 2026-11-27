@@ -41,6 +41,12 @@ async function updateFromRegistry(dir: string, options: UpdateOptions) {
   const fetched = results.filter((r) => r.status === "fulfilled").length;
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
 
+  if (fetched === 0) {
+    log.error(`No registry file could be fetched from ${REGISTRY_BASE}; versions.md not written.`);
+    process.exitCode = 1;
+    return;
+  }
+
   // Combine into single versions.md with header
   const header = `# Version Reference
 
