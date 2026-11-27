@@ -6,6 +6,7 @@ import { remove } from "./commands/remove.js";
 import { list } from "./commands/list.js";
 import { integrate } from "./commands/integrate.js";
 import { doctor } from "./commands/doctor.js";
+import { mcp } from "./commands/mcp.js";
 
 export function createCli(): Command {
   const program = new Command();
@@ -71,6 +72,13 @@ export function createCli(): Command {
     .description("Verify config, connectivity, and output")
     .action(async () => {
       await doctor(process.cwd());
+    });
+
+  program
+    .command("mcp")
+    .description("Run a Model Context Protocol server over stdio (tools: get_latest_version, list_tracked)")
+    .action(async () => {
+      await mcp(process.cwd());
     });
 
   return program;
