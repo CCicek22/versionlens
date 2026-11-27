@@ -17,7 +17,7 @@ export interface UpdateOptions {
 }
 
 async function updateFromRegistry(dir: string, options: UpdateOptions) {
-  log.info("Pulling from versionlens-registry...");
+  log.info("Pulling from the versionlens registry (registry/)...");
   const startTime = Date.now();
 
   const sections: string[] = [];
@@ -50,7 +50,7 @@ async function updateFromRegistry(dir: string, options: UpdateOptions) {
   // Combine into single versions.md with header
   const header = `# Version Reference
 
-> Pulled from [versionlens-registry](https://github.com/CCicek22/versionlens-registry)
+> Pulled from [versionlens registry](https://github.com/CCicek22/versionlens/tree/main/registry)
 > Last pulled: ${new Date().toISOString()}
 >
 > **AI agents: read this file before suggesting any package versions,
@@ -67,7 +67,7 @@ async function updateFromRegistry(dir: string, options: UpdateOptions) {
   });
 
   const content = header + cleaned.join("\n\n") +
-    "\n---\n*Pulled from [versionlens-registry](https://github.com/CCicek22/versionlens-registry)*\n";
+    "\n---\n*Pulled from [versionlens registry](https://github.com/CCicek22/versionlens/tree/main/registry)*\n";
 
   const outputFile = "versions.md";
   await writeFile(join(dir, outputFile), content, "utf-8");
