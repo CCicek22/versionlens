@@ -98,6 +98,42 @@ versionlens remove pip flask       # Stop tracking a package
 versionlens list                   # Show tracked packages
 versionlens integrate              # Re-inject AI tool instruction snippets
 versionlens doctor                 # Check config + connectivity
+versionlens mcp                    # Serve MCP over stdio (see below)
+```
+
+The binary is also available as `vlens`. Requires Node.js 20.5 or newer.
+
+## MCP Server
+
+`versionlens mcp` starts a [Model Context Protocol](https://modelcontextprotocol.io) server over stdio. It exposes two tools:
+
+| Tool | Input | Returns |
+|------|-------|---------|
+| `get_latest_version` | `ecosystem` (`npm`, `pip`, `github`), `name` (`owner/repo` for GitHub) | Latest version, live from the registry, plus the source page URL |
+| `list_tracked` | none | Items in `versionlens.yaml` in the working directory, each with its current latest version |
+
+Claude Code (`.mcp.json` in the project, or `~/.claude.json`) and Cursor (its `mcp.json`, e.g. `.cursor/mcp.json` for one project) take the same block:
+
+```json
+{
+  "mcpServers": {
+    "versionlens": {
+      "command": "node",
+      "args": ["/absolute/path/to/versionlens/dist/index.js", "mcp"]
+    }
+  }
+}
+```
+
+From a clone, run `npm run build` first. Once the package is published, `"command": "npx"` with `"args": ["-y", "versionlens", "mcp"]` also works.
+
+## Development
+
+```bash
+npm install
+npm run build     # tsc → dist/
+npm run lint      # tsc --noEmit
+npm test          # vitest; no network, registry responses come from tests/fixtures/
 ```
 
 ## Config
@@ -176,7 +212,7 @@ Want to add a package to the registry? Edit the arrays in `scripts/update.mjs` a
 2. **CLI** (custom): Reads `versionlens.yaml`, fetches your specific packages, writes `versions.md`, injects AI instruction snippet
 3. **`--from-registry`**: Pulls pre-fetched versions from this repo's `registry/` folder
 
-No server. No MCP. No API keys. Just markdown files.
+The file path needs no server and no API keys: just markdown files. `versionlens mcp` is an optional extra for tools that speak MCP.
 
 ## Why Not Context7 / MCP?
 
