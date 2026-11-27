@@ -6,6 +6,7 @@ import { remove } from "./commands/remove.js";
 import { list } from "./commands/list.js";
 import { integrate } from "./commands/integrate.js";
 import { doctor } from "./commands/doctor.js";
+import { mcp } from "./commands/mcp.js";
 
 export function createCli(): Command {
   const program = new Command();
@@ -29,7 +30,7 @@ export function createCli(): Command {
     .description("Fetch latest versions and write versions.md")
     .option("--json", "Output as JSON instead of markdown")
     .option("-q, --quiet", "Suppress output except errors")
-    .option("--from-registry", "Pull from versionlens-registry instead of fetching directly")
+    .option("--from-registry", "Pull from the registry/ folder of the versionlens repo instead of fetching directly")
     .action(async (options) => {
       await update(process.cwd(), options);
     });
@@ -71,6 +72,13 @@ export function createCli(): Command {
     .description("Verify config, connectivity, and output")
     .action(async () => {
       await doctor(process.cwd());
+    });
+
+  program
+    .command("mcp")
+    .description("Run a Model Context Protocol server over stdio (tools: get_latest_version, list_tracked)")
+    .action(async () => {
+      await mcp(process.cwd());
     });
 
   return program;
