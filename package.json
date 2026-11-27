@@ -37,7 +37,7 @@
   "author": "",
   "license": "MIT",
   "engines": {
-    "node": ">=18"
+    "node": ">=20.5.0"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.32.2",
