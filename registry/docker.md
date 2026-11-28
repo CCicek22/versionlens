@@ -1,7 +1,7 @@
 # Docker Image Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-11-27T17:51:52.629Z
+> Last updated: 2026-11-28T09:19:53.330Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -16,7 +16,7 @@ Shows 3 variants: slim (smallest), alpine (minimal), debian (full).
 | php | 8.6.0 | - | 8.6.0-alpine | 8.6.0-trixie |
 | golang | 1.27.4 | - | 1.27.4-alpine | 1.27.4-trixie |
 | openjdk | 27.0.1.1+4 | - | - | - |
-| rust | 1.100.0 | 1.100.0-slim | 1.100.0-alpine | 1.100.0-trixie |
+| rust | 1.100.1 | - | - | - |
 | postgres | 19.0 | - | 19.0-alpine | 19.0-trixie |
 | mysql | 26.10.0 | - | - | - |
 | mariadb | 13.1.2 | - | - | - |

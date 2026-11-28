@@ -1,7 +1,7 @@
 # npm Package Versions
 
 > Auto-updated by [versionlens](https://github.com/CCicek22/versionlens)
-> Last updated: 2026-11-27T17:51:52.627Z
+> Last updated: 2026-11-28T09:19:53.329Z
 >
 > **AI agents: use these versions instead of guessing. Do NOT hallucinate version numbers.**
 
@@ -125,7 +125,7 @@ Latest stable versions of popular npm packages.
 | Package | Latest |
 |---------|--------|
 | socket.io | 4.8.4 |
-| ws | 8.23.0 |
+| ws | 8.23.1 |
 
 ### Database & ORM
 
@@ -171,7 +171,7 @@ Latest stable versions of popular npm packages.
 
 | Package | Latest |
 |---------|--------|
-| @aws-sdk/client-s3 | 3.1178.0 |
+| @aws-sdk/client-s3 | 3.1179.0 |
 | @google-cloud/storage | 9.0.0 |
 | @azure/storage-blob | 12.34.0 |
 
@@ -182,7 +182,7 @@ Latest stable versions of popular npm packages.
 | openai | 7.65.0 |
 | @anthropic-ai/sdk | 1.14.0 |
 | @google/generative-ai | 0.24.1 |
-| ai | 7.0.183 |
+| ai | 7.0.184 |
 | langchain | 1.6.8 |
 | @langchain/core | 1.5.1 |
 
@@ -225,7 +225,7 @@ Latest stable versions of popular npm packages.
 | @swc/core | 1.16.22 |
 | babel-loader | 10.1.1 |
 | postcss | 8.5.34 |
-| autoprefixer | 10.7.0 |
+| autoprefixer | 10.7.1 |
 
 ### Email
 
@@ -241,7 +241,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | multer | 2.5.0 |
 | sharp | 0.35.5 |
-| jimp | 2.2.0 |
+| jimp | 2.2.1 |
 
 ### Queue & Jobs
 
@@ -293,7 +293,7 @@ Latest stable versions of popular npm packages.
 |---------|--------|
 | lerna | 10.1.3 |
 | nx | 24.1.0 |
-| @changesets/cli | 3.0.3 |
+| @changesets/cli | 3.1.0 |
 
 ### Runtime & Package Managers
 
